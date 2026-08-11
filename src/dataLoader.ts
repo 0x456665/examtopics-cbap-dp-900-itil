@@ -1,20 +1,20 @@
 import type { ExamKey, Question, RawQuestion } from "./types";
 
-function isValidQuestion(q: RawQuestion): boolean {
-	if (typeof q.question !== "string" || q.question.trim().length < 10) return false;
-	if (!q.options || typeof q.options !== "object") return false;
-	const keys = Object.keys(q.options);
-	if (keys.length < 2) return false;
-	const allOptionsNonEmpty = Object.values(q.options).every(
-		(v) => typeof v === "string" && v.trim().length > 0,
-	);
-	if (!allOptionsNonEmpty) return false;
-	const answer = typeof q.most_voted === "string" ? q.most_voted.trim() : "";
-	if (!answer) return false;
-	// Answer key must exist in options
-	if (q.options[answer] === undefined) return false;
-	return true;
-}
+// function isValidQuestion(q: RawQuestion): boolean {
+// 	if (typeof q.question !== "string" || q.question.trim().length < 10) return false;
+// 	if (!q.options || typeof q.options !== "object") return false;
+// 	const keys = Object.keys(q.options);
+// 	if (keys.length < 2) return false;
+// 	const allOptionsNonEmpty = Object.values(q.options).every(
+// 		(v) => typeof v === "string" && v.trim().length > 0,
+// 	);
+// 	if (!allOptionsNonEmpty) return false;
+// 	const answer = typeof q.most_voted === "string" ? q.most_voted.trim() : "";
+// 	if (!answer) return false;
+// 	// Answer key must exist in options
+// 	if (q.options[answer] === undefined) return false;
+// 	return true;
+// }
 
 const cache: Partial<Record<ExamKey, Question[]>> = {};
 

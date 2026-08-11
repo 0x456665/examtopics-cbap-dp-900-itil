@@ -5833,7 +5833,7 @@
 		"discussion": [
 			"ans-A A fishbone diagram (also known as an Ishikawa or cause-and-effect diagram) is used to identify and organize the possible causes of a problem. BABOK Page-336 upvoted 9 times"
 		],
-		"vote_counts": {"A": 1},
+		"vote_counts": { "A": 1 },
 		"most_voted": "A",
 		"community_answer": "A. Ishikawa"
 	},
@@ -6344,9 +6344,9 @@
 			"ans c- an presentation is also a model as per BABOK upvoted 4 times",
 			"ANS : C Page 139-(.4) Abstraction) upvoted 4 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
-		"community_answer": "Not available"
+		"vote_counts": { "C": 2 },
+		"most_voted": "C",
+		"community_answer": "C. Present a model applicable for the stakeholders in domain 2"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/42132-exam-cbap-topic-1-question-305-discussion/",
@@ -6420,9 +6420,9 @@
 			"Correct. Reference: BABOK V3 Pg 296 (10.27) upvoted 3 times",
 			"correct upvoted 3 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
-		"community_answer": "Not available"
+		"vote_counts": { "A": 2 },
+		"most_voted": "A",
+		"community_answer": "A. Lessons learned"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/42293-exam-cbap-topic-1-question-308-discussion/",
@@ -6571,9 +6571,9 @@
 			"Babok V3, 4.3.5, page 66: Elicitation Activity Plan: used to guide which alternative sources and which elicitation results are to be compared. upvoted 1 times",
 			"right ans upvoted 1 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
-		"community_answer": "Not available"
+		"vote_counts": { "A": 3 },
+		"most_voted": "A",
+		"community_answer": "A. Risk Analysis and Management"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/42209-exam-cbap-topic-1-question-314-discussion/",
@@ -6831,9 +6831,9 @@
 			"product and channel decision are the core activities of mktg. 5 and 5 hence upvoted 5 times",
 			"D -> Marketing has same roles as Commercial so Impact has to be 5 and D is the only option with Impact 5 upvoted 4 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
-		"community_answer": "Not available"
+		"vote_counts": { "D": 3 },
+		"most_voted": "D",
+		"community_answer": "D. Influence = 5 and impact = 5"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/59840-exam-cbap-topic-1-question-324-discussion/",
@@ -6849,9 +6849,9 @@
 			"B=Set up additional activities to collaboratively resolve the issues as per page 65 - The elicitation results can be compared against their source and other elicitation results to ensure consistency. Collaboration with stakeholders might be necessary to ensure their inputs are correctly captured and that they agree with the results of non-facilitated elicitation. upvoted 5 times",
 			"4.3.4 .2 Compare Elicitation Results Against Other Elicitation Results Business analysts compare results collected through multiple elicitation activities to confirm that the information is consistent and accurately represented. As comparisons are drawn, business analysts identify variations in results and resolve them in collaboration with stakeholders upvoted 4 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
-		"community_answer": "Not available"
+		"vote_counts": { "B": 2 },
+		"most_voted": "B",
+		"community_answer": "B. Set up additional activities to collaboratively resolve the issues"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/85882-exam-cbap-topic-1-question-325-discussion/",
@@ -7050,7 +7050,7 @@
 			"D": 3,
 			"A": 1
 		},
-		"most_voted": "D",
+		"most_voted": "A",
 		"community_answer": "D. Leave priority unfilled for these requirements"
 	},
 	{
@@ -7192,8 +7192,8 @@
 			"Ans C 5.3.4.1 Dependencies: relationships between requirements where one requirement cannot be fulfilled unless the other requirement is fulfilled. In some situations, it may be possible to achieve efficiencies by implementing related requirements at the same time. Dependencies may also be external to the initiative, including but not limited to other teams’ decisions, funding commitments, and resource availability. upvoted 4 times",
 			"Dependencies: relationships between requirements where one requirement cannot be fulfilled unless the other requirement is fulfilled. BAbok Page-88 upvoted 3 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "C": 2 },
+		"most_voted": "C",
 		"community_answer": "Not available"
 	},
 	{
@@ -7438,8 +7438,8 @@
 			"D": "Avoid"
 		},
 		"discussion": ["Correct 😊 upvoted 2 times"],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "B": 1 },
+		"most_voted": "B",
 		"community_answer": "Not available"
 	},
 	{
@@ -7892,8 +7892,8 @@
 		"discussion": [
 			"Pg.345 Onion Diagram: indicates how involved the stakeholders are with the solution, which stakeholders will directly interact with the solution or participate in a business process, which are part of the larger organization, and which are outside the organization upvoted 4 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 1 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{
@@ -7911,8 +7911,8 @@
 			"Impact provides an accurate understanding of the implications of a proposed change. Answer A is correct upvoted 3 times",
 			"Option C- Market- business analyst (BA) works with stakeholders such as actuaries, product specialists, sales staff, risk managers, and underwriters who agree to applying varying levels of discounts to customers upvoted 2 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 1 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{

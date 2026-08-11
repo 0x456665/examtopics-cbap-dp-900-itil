@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import type { ExamKey, QuizConfig, QuizMode } from "../types";
 import { EXAMS } from "../types";
 import { loadExamQuestions } from "../dataLoader";
@@ -28,17 +28,19 @@ export default function SetupScreen({ onStart }: Props) {
 	const rangeMaxInput = rangeMaxDraft ?? String(rangeMax);
 
 	// Load all exam counts in background for display
-	useState(() => {
+	useEffect(() => {
 		for (const { key } of EXAMS) {
 			loadExamQuestions(key).then((qs) => {
 				setExamCounts((prev) => ({ ...prev, [key]: qs.length }));
 			});
 		}
-	});
+	},[]);
 
 	// When exam changes, refresh max range
+	// When exam changes, refresh max range (async fetch + ref write → useEffect)
 	const prevExam = useRef<ExamKey | null>(null);
-	if (exam && exam !== prevExam.current) {
+	useEffect(() => {
+		if (!exam || exam === prevExam.current) return;
 		prevExam.current = exam;
 		setLoadingExam(true);
 		loadExamQuestions(exam).then((qs) => {
@@ -49,7 +51,7 @@ export default function SetupScreen({ onStart }: Props) {
 			setCount((c) => Math.min(c, total));
 			setLoadingExam(false);
 		});
-	}
+	}, [exam]);
 
 	const effectivePool = Math.max(0, rangeMax - rangeMin + 1);
 	const cappedCount = Math.min(count, effectivePool);
