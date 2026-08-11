@@ -41,7 +41,7 @@ export async function loadExamQuestions(exam: ExamKey): Promise<Question[]> {
 
 	let idx = 0;
 	const questions: Question[] = rawData
-		.filter(isValidQuestion)
+		// .filter(isValidQuestion)
 		.map((q) => ({ ...q, validIndex: ++idx }));
 
 	cache[exam] = questions;

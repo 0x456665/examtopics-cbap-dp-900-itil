@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useRef } from "react";
 import type { ExamKey, QuizConfig, QuizMode } from "../types";
 import { EXAMS } from "../types";
 import { loadExamQuestions } from "../dataLoader";
@@ -11,27 +11,34 @@ export default function SetupScreen({ onStart }: Props) {
 	const [exam, setExam] = useState<ExamKey | null>(null);
 	const [mode, setMode] = useState<QuizMode>("study");
 	const [count, setCount] = useState(20);
+	const [countDraft, setCountDraft] = useState<string | null>(null); // null = not editing
 	const [rangeMin, setRangeMin] = useState(1);
+	const [rangeMinDraft, setRangeMinDraft] = useState<string | null>(null);
 	const [rangeMax, setRangeMax] = useState(1);
+	const [rangeMaxDraft, setRangeMaxDraft] = useState<string | null>(null);
 	const [maxAvailable, setMaxAvailable] = useState(0);
 	const [loadingExam, setLoadingExam] = useState(false);
 	const [starting, setStarting] = useState(false);
 	const [showRange, setShowRange] = useState(false);
 	const [examCounts, setExamCounts] = useState<Partial<Record<ExamKey, number>>>({});
 
+	// Derived display values — always in sync with real state, no useEffect needed
+	const countInput = countDraft ?? String(count);
+	const rangeMinInput = rangeMinDraft ?? String(rangeMin);
+	const rangeMaxInput = rangeMaxDraft ?? String(rangeMax);
+
 	// Load all exam counts in background for display
-	useEffect(() => {
+	useState(() => {
 		for (const { key } of EXAMS) {
 			loadExamQuestions(key).then((qs) => {
 				setExamCounts((prev) => ({ ...prev, [key]: qs.length }));
 			});
 		}
-	}, []);
+	});
 
 	// When exam changes, refresh max range
 	const prevExam = useRef<ExamKey | null>(null);
-	useEffect(() => {
-		if (!exam || exam === prevExam.current) return;
+	if (exam && exam !== prevExam.current) {
 		prevExam.current = exam;
 		setLoadingExam(true);
 		loadExamQuestions(exam).then((qs) => {
@@ -42,15 +49,56 @@ export default function SetupScreen({ onStart }: Props) {
 			setCount((c) => Math.min(c, total));
 			setLoadingExam(false);
 		});
-	}, [exam]);
+	}
 
 	const effectivePool = Math.max(0, rangeMax - rangeMin + 1);
 	const cappedCount = Math.min(count, effectivePool);
 	const canStart = exam !== null && !loadingExam && effectivePool > 0 && !starting;
 
+	// --- Count field handlers ---
+	const handleCountFocus = () => setCountDraft(String(count));
 	const handleCountChange = (raw: string) => {
+		setCountDraft(raw);
+		if (raw === "") return;
 		const v = parseInt(raw, 10);
 		if (!isNaN(v) && v >= 1) setCount(v);
+	};
+	const handleCountBlur = () => {
+		const v = parseInt(countDraft ?? "", 10);
+		const clamped = isNaN(v) || v < 1 ? 1 : v;
+		setCount(clamped);
+		setCountDraft(null);
+	};
+
+	// --- Range min field handlers ---
+	const handleRangeMinFocus = () => setRangeMinDraft(String(rangeMin));
+	const handleRangeMinChange = (raw: string) => {
+		setRangeMinDraft(raw);
+		if (raw === "") return;
+		const v = parseInt(raw, 10);
+		if (!isNaN(v) && v >= 0 && v <= rangeMax) setRangeMin(v);
+	};
+	const handleRangeMinBlur = () => {
+		const v = parseInt(rangeMinDraft ?? "", 10);
+		const clamped = isNaN(v) ? 0 : Math.min(Math.max(v, 0), rangeMax);
+		setRangeMin(clamped);
+		setRangeMinDraft(null);
+	};
+
+	// --- Range max field handlers ---
+	const handleRangeMaxFocus = () => setRangeMaxDraft(String(rangeMax));
+	const handleRangeMaxChange = (raw: string) => {
+		setRangeMaxDraft(raw);
+		if (raw === "") return;
+		const v = parseInt(raw, 10);
+		if (!isNaN(v) && v >= rangeMin && v <= maxAvailable) setRangeMax(v);
+	};
+	const handleRangeMaxBlur = () => {
+		const v = parseInt(rangeMaxDraft ?? "", 10);
+		const fallbackMax = maxAvailable || rangeMin;
+		const clamped = isNaN(v) ? rangeMin : Math.min(Math.max(v, rangeMin), fallbackMax);
+		setRangeMax(clamped);
+		setRangeMaxDraft(null);
 	};
 
 	const handleStart = async () => {
@@ -127,11 +175,12 @@ export default function SetupScreen({ onStart }: Props) {
 						<input
 							type="number"
 							className="count-field"
-							value={count}
+							value={countInput}
 							min={1}
 							max={maxAvailable || 999}
+							onFocus={handleCountFocus}
 							onChange={(e) => handleCountChange(e.target.value)}
-							onBlur={() => setCount((c) => Math.max(1, c))}
+							onBlur={handleCountBlur}
 							aria-label="Number of questions"
 						/>
 						<button
@@ -167,13 +216,12 @@ export default function SetupScreen({ onStart }: Props) {
 								<span>From</span>
 								<input
 									type="number"
-									min={1}
+									min={0}
 									max={rangeMax}
-									value={rangeMin}
-									onChange={(e) => {
-										const v = parseInt(e.target.value, 10);
-										if (!isNaN(v) && v >= 1 && v <= rangeMax) setRangeMin(v);
-									}}
+									value={rangeMinInput}
+									onFocus={handleRangeMinFocus}
+									onChange={(e) => handleRangeMinChange(e.target.value)}
+									onBlur={handleRangeMinBlur}
 									disabled={!exam || loadingExam}
 								/>
 							</label>
@@ -184,12 +232,10 @@ export default function SetupScreen({ onStart }: Props) {
 									type="number"
 									min={rangeMin}
 									max={maxAvailable || 999}
-									value={rangeMax}
-									onChange={(e) => {
-										const v = parseInt(e.target.value, 10);
-										if (!isNaN(v) && v >= rangeMin && v <= maxAvailable)
-											setRangeMax(v);
-									}}
+									value={rangeMaxInput}
+									onFocus={handleRangeMaxFocus}
+									onChange={(e) => handleRangeMaxChange(e.target.value)}
+									onBlur={handleRangeMaxBlur}
 									disabled={!exam || loadingExam}
 								/>
 							</label>

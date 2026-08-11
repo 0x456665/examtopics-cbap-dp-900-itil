@@ -28,6 +28,7 @@ export default function QuizScreen({ session, onFinish, onQuit }: Props) {
 
 	// Close discussion when changing question
 	useEffect(() => {
+		// eslint-disable-next-line react-hooks/set-state-in-effect
 		setDiscussionOpen(false);
 	}, [currentIndex]);
 
