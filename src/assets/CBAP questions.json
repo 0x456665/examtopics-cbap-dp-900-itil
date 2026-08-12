@@ -5243,8 +5243,8 @@
 			"Business analysts are responsible for obtaining stakeholder approvals and are required to understand who holds decision-making responsibility and who possesses authority for sign-off across the initiative. upvoted 2 times OctavianG 1 year, 8 months ago Project sign-off is one of the many activities you'll do at the end of a project. This is the phase where you've handed over all deliverables and are about to dismiss the project team. The typical steps in this phase include: Project sign-off and completion of all other legal formalities. upvoted 2 times ...",
 			"Project sign-off is one of the many activities you'll do at the end of a project. This is the phase where you've handed over all deliverables and are about to dismiss the project team. The typical steps in this phase include: Project sign-off and completion of all other legal formalities. upvoted 2 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "B": 1 },
+		"most_voted": "B",
 		"community_answer": "Not available"
 	},
 	{
@@ -5264,8 +5264,8 @@
 			"This is elementary school math upvoted 1 times",
 			"N * (N-1)/2 upvoted 4 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "B": 1 },
+		"most_voted": "B",
 		"community_answer": "Not available"
 	},
 	{
@@ -5476,8 +5476,8 @@
 			"out of BABOK v3 upvoted 1 times",
 			"Don't even know how this is reflected in the BABOKv3. Please explain... upvoted 1 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 1 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{
@@ -5544,8 +5544,10 @@
 		"discussion": [
 			"C. Business analyst A business analyst is typically responsible for preparing the business architecture, feasibility studies, and business cases. Business analysts play a key role in understanding business needs, analyzing processes, and recommending solutions that align with organizational goals. upvoted 1 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
 		"community_answer": "Not available"
 	},
 	{
@@ -6137,8 +6139,8 @@
 			"B": 1,
 			"A": 2
 		},
-		"most_voted": "C",
-		"community_answer": "C. Topping recipes"
+		"most_voted": "A",
+		"community_answer": "A. Dough preparation"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/40238-exam-cbap-topic-1-question-297-discussion/",
@@ -8218,8 +8220,8 @@
 			"A": 3,
 			"C": 3
 		},
-		"most_voted": "A",
-		"community_answer": "A. Data Model"
+		"most_voted": "C",
+		"community_answer": "C. Use case diagram"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/42453-exam-cbap-topic-1-question-380-discussion/",
@@ -8235,8 +8237,10 @@
 			"D. Atomic upvoted 10 times",
 			"tomic: self-contained and capable of being understood independently of other requirements or designs. upvoted 1 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": {
+			"D": 2
+		},
+		"most_voted": "D",
 		"community_answer": "Not available"
 	},
 	{
@@ -8871,8 +8875,8 @@
 			"A. Data Dictionary upvoted 13 times",
 			"A. Data dictionary define elements of a solution. upvoted 7 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 3 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{
@@ -9838,8 +9842,8 @@
 			"A is the answer upvoted 2 times",
 			"Does anyone think, that eliminating requests to IT implies C - Decrease stakeholder involvement? upvoted 2 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 1 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{
@@ -9883,8 +9887,8 @@
 		"discussion": [
 			"Option B- Change control process - Determine how changes will be communicated: how proposed changes, changes under review, and approved, declined, or deferred changes will be communicated to stakeholders. upvoted 8 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "B": 1 },
+		"most_voted": "B",
 		"community_answer": "Not available"
 	},
 	{
@@ -10086,8 +10090,8 @@
 			"BABOK V-3 8.2.4 Analyze Performance Measures: Elements:.1 Solution Performance versus Desired Value, .2 Risks , .3 Trends, .4 Accuracy, .5 Performance Variances upvoted 4 times",
 			"Question is talking about Solution Evaluation KA, Listed are the elements in the Analyse performance measure task. upvoted 3 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 1 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{
@@ -10104,8 +10108,8 @@
 			"Make a new list with the Probability of occurrence * Cost of impact and select the highest, that will be 10,000 for Power Surge. upvoted 12 times",
 			"D- power surge Impact times probably and you get 10000 for power surge upvoted 5 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "D": 1 },
+		"most_voted": "D",
 		"community_answer": "Not available"
 	},
 	{
@@ -10668,8 +10672,8 @@
 			"BABOK 5.3.5 Requirements architecture utilized to understand the relationship with other requirements and work products Answer A upvoted 6 times OlivierPaudex 1 year, 10 months ago Better definition is BABOK 7.4.1 The purpose of define requirements architecture is to ensure that the requirements collectively support one another to fully achieve the objectives Answer A upvoted 3 times ...",
 			"Better definition is BABOK 7.4.1 The purpose of define requirements architecture is to ensure that the requirements collectively support one another to fully achieve the objectives Answer A upvoted 3 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "A": 2 },
+		"most_voted": "A",
 		"community_answer": "Not available"
 	},
 	{
@@ -11247,8 +11251,8 @@
 		"vote_counts": {
 			"A": 1
 		},
-		"most_voted": "A",
-		"community_answer": "A. prepare for requirements elicitation"
+		"most_voted": "B",
+		"community_answer": "B. manage stakeholder collaboration"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/50482-exam-cbap-topic-1-question-497-discussion/",
@@ -11338,8 +11342,8 @@
 			"There is no 'activity list' definition presented in the BABOK v.3 upvoted 3 times rhsdeal 1 year, 9 months ago agreed this is a Babok v-2 item. Found in 2.3.4.4 pg.35 v-2 The answer is B - Unique Number The elements identified for each activity and task may include: Unique Number▶▶ to uniquely identify each task. Activity description▶▶ labeled with a verb and a noun, and describing the detailed tasks that comprise each activity. For example, an activity might be labeled “Update Requirements Document”. upvoted 2 times ...",
 			"agreed this is a Babok v-2 item. Found in 2.3.4.4 pg.35 v-2 The answer is B - Unique Number The elements identified for each activity and task may include: Unique Number▶▶ to uniquely identify each task. Activity description▶▶ labeled with a verb and a noun, and describing the detailed tasks that comprise each activity. For example, an activity might be labeled “Update Requirements Document”. upvoted 2 times"
 		],
-		"vote_counts": {},
-		"most_voted": "",
+		"vote_counts": { "B": 2 },
+		"most_voted": "B",
 		"community_answer": "Not available"
 	}
 ]
