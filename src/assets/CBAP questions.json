@@ -11228,11 +11228,11 @@
 			"according to 7.1.4 there are two modelling formats: Matrices, Diagrams Data model is a model category (also listed in 7.1.4) upvoted 2 times"
 		],
 		"vote_counts": {
-			"A": 2,
+			"A": 3,
 			"D": 3
 		},
-		"most_voted": "D",
-		"community_answer": "D. Data model"
+		"most_voted": "A",
+		"community_answer": "A. Matrix"
 	},
 	{
 		"url": "https://www.examtopics.com/discussions/iiba/view/46811-exam-cbap-topic-1-question-496-discussion/",
