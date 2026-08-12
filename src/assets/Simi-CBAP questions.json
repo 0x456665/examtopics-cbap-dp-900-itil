@@ -1,0 +1,2282 @@
+[
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 1",
+		"question": "Beau is a BA working on a telecommunications project. The business architect gives him a reference model called \"eTOM\", commonly used in the communications sector. What value might this have for Beau?",
+		"options": {
+			"A": "The model will provide Beau with understanding of how the strategic objectives of the organization are aligned with tactical demands and activities in the current state of the enterprise.",
+			"B": "The model will provide Beau with an understanding of how the organization currently delivers value to customers.",
+			"C": "The model will provide Beau with information regarding how work is currently performed and the information required to complete work.",
+			"D": "It will have little value to Beau as he is focused on Information Technology."
+		},
+		"discussion": [
+			"Selected Answer: B. A reference model like eTOM shows how the organization currently delivers value to its customers --- useful current-state context."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. The model will provide Beau with an understanding of how the organization currently delivers value to customers."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 2",
+		"question": "You are working on a major new inventory management system and are responding to a request for better reporting from it. You need a tool or method to describe the purpose and direction for the request, establish the context for it, and identify the critical components of the request. What do you choose to help guide you?",
+		"options": {
+			"A": "Statement of work (SOW)",
+			"B": "Change strategy",
+			"C": "Project vision document .",
+			"D": "Business case ."
+		},
+		"discussion": [
+			"Selected Answer: D. Lessons learned from similar past projects are a classic input for identifying risks on the current initiative."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Business case ."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 3",
+		"question": "A conflict has emerged between two stakeholders about conflicting requirements and you are facilitating a mediation meeting between them. All efforts to achieve a compromise in the meeting so far have failed. What is one of the best things to do now to try to break the deadlock before ending the meeting?",
+		"options": {
+			"A": "There is nothing a BA can do in this situation other than to adjourn the meeting and escalate the issue to the project manager.",
+			"B": "Warn them that the sponsor will have to impose a resolution if the parties cannot agree.",
+			"C": "Tell them the meeting will not adjourn until an agreement can be reached.",
+			"D": "Explain the impact and consequences that the stakeholders' failure to agree will have on the project."
+		},
+		"discussion": [
+			"Selected Answer: D. Explaining the real-world impact and consequences of continued disagreement often moves stakeholders off a deadlock better than threats or unilateral decisions."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Explain the impact and consequences that the stakeholders' failure to agree will have on the project."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 4",
+		"question": "Randall is a BA who is helping an organization purchase a new configuration management tool. The CFO would like to consider a potential vendor that he has read a lot about in trade magazines. Randall owns a significant amount of stock in that company and so recuses himself from the selection process. What competencies did Randall demonstrate?",
+		"options": {
+			"A": "Personal Accountability and Ethics.",
+			"B": "Adaptability and Trustworthiness.",
+			"C": "Behavioral Characteristics.",
+			"D": "Ethics and Trustworthiness."
+		},
+		"discussion": [
+			"Selected Answer: A. Removing yourself from a decision where you hold a personal financial interest directly demonstrates personal accountability and ethics."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Personal Accountability and Ethics."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 5",
+		"question": "Your mentor BA seems to resolve conflict effortlessly. He is demonstrating which underlying competency?",
+		"options": {
+			"A": "Teamwork.",
+			"B": "Trustworthiness.",
+			"C": "Verbal Communication.",
+			"D": "Leadership and Influencing."
+		},
+		"discussion": [
+			"Selected Answer: D. Resolving conflict effectively and getting people to align is a hallmark of leadership and influencing."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Leadership and Influencing."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 6",
+		"question": "Which of the following statements is true regarding tasks a business analyst may perform while evaluating the necessity for change within an enterprise?",
+		"options": {
+			"A": "Tasks a business analyst performs should be completed in an orderly and formal manner.",
+			"B": "The business analyst needs sponsor approval for and stakeholder collaboration on the tasks they deem necessary for various initiatives.",
+			"C": "Tasks a business analyst performs may vary in form, order, or importance for various initiatives.",
+			"D": "The business analyst should perform tasks in the order prescribed by the BABOK in order for organizations to realize value."
+		},
+		"discussion": [
+			"Selected Answer: C. BABOK is explicit that BA tasks can vary in form, order, or importance across different initiatives --- there is no single prescribed sequence."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Tasks a business analyst performs may vary in form, order, or importance for various initiatives."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 7",
+		"question": "You have met with a key stakeholder to review requirements that are specific to the functionality her team will frequently use. She refuses to approve and sign off on the requirements, because she doesn't want to be held to only these requirements if additional needs are discovered. She also states that \"We need to resolve these issues before the project can begin or the project will not succeed. You need to put tasks into the Business Analysis Plan to account for resolving them.\" What is your best response?",
+		"options": {
+			"A": "Escalate to the project manager to get approval.",
+			"B": "Escalate to the project sponsor to get approval.",
+			"C": "Review the change management process and provide assurance that any unforeseen requirements will be fairly considered in the change control process.",
+			"D": "Baseline the requirements without signoff."
+		},
+		"discussion": [
+			"Selected Answer: C. Pointing to the change control process reassures the stakeholder that new needs will be handled fairly, without forcing an unrealistic sign-off."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Review the change management process and provide assurance that any unforeseen requirements will be fairly considered in the change control process."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 8",
+		"question": "When are reused requirements first identified?",
+		"options": {
+			"A": "Future state.",
+			"B": "Past state.",
+			"C": "Changed state.",
+			"D": "Current state."
+		},
+		"discussion": [
+			"Selected Answer: D. Reusable requirements are first identified from the current, ongoing set of requirements as candidates for long-term use."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Current state."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 9",
+		"question": "Which of the following roles would be most interested in maintained requirements and why?",
+		"options": {
+			"A": "Other business analysts because future projects may utilize and extend any maintained requirements.",
+			"B": "Implementation SMEs because they will use them to develop regression tests and conduct impact analyses.",
+			"C": "Sponsors because future projects would be less expensive if requirements could be re-used.",
+			"D": "Project managers who will be able to complete projects faster if requirements are properly maintained."
+		},
+		"discussion": [
+			"Selected Answer: A. Other business analysts benefit most from maintained requirements, since future initiatives can reuse or extend them."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Other business analysts because future projects may utilize and extend any maintained requirements."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 10",
+		"question": "Nate is the senior business analyst for the NRO Company. He is working with Rod on completing the requirements prioritization of all the identified requirements. Why would Rod and Nate complete requirements prioritization?",
+		"options": {
+			"A": "To determine which requirements should be completed first.",
+			"B": "To determine who created what requirement based on their position in the organization.",
+			"C": "To determine which requirements carry the most risk.",
+			"D": "To determine which requirements could be changed."
+		},
+		"discussion": [
+			"Selected Answer: A. Prioritization exists to determine the order in which requirements should be addressed."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. To determine which requirements should be completed first."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 11",
+		"question": "You are the business analyst for an on-line billing systems project. You have worked with several stakeholders that need different types of information related to assessing requirements changes. Which stakeholder would care the most about adherence to compliance standards?",
+		"options": {
+			"A": "Operational Support.",
+			"B": "Regulator.",
+			"C": "Project Manager.",
+			"D": "Tester."
+		},
+		"discussion": [
+			"Selected Answer: B. Regulators are the stakeholder group most concerned with adherence to compliance standards."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Regulator."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 12",
+		"question": "Requirements that represent an ongoing need must be maintained to ensure that they remain valid over time. Different stakeholders reference and use these requirements. Which of the following represents why testers would require maintained requirements?",
+		"options": {
+			"A": "Testers utilize maintained requirements when developing regression tests and conducting impact analysis for an enhancement.",
+			"B": "Testers use maintained requirements to aid in test plan and test case creation.",
+			"C": "Testers are likely to reference maintained requirements to confirm the current state.",
+			"D": "Testers reference maintained requirements on a regular basis to ensure they are accurately reflecting stated needs."
+		},
+		"discussion": [
+			"Selected Answer: A. Testers rely on maintained requirements to build regression tests and perform impact analysis as the solution evolves."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Testers utilize maintained requirements when developing regression tests and conducting impact analysis for an enhancement."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 13",
+		"question": "As a BA, you have been effective in reducing resistance to necessary changes. As such, which underlying competency have you most demonstrated?",
+		"options": {
+			"A": "Teaching.",
+			"B": "Leadership and Influencing.",
+			"C": "Negotiation and Conflict Resolution.",
+			"D": "Persuasion."
+		},
+		"discussion": [
+			"Selected Answer: B. Reducing resistance to change by bringing people along is core to leadership and influencing."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Leadership and Influencing."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 14",
+		"question": "As a business analyst you have completed a review workshop, meeting with the accountable individuals and they have approved the requirements with minor changes. You now want to understand the requirements relationship with other requirements and work products for purposes of prioritization. Which guideline or tool would you utilize?",
+		"options": {
+			"A": "Governance approach.",
+			"B": "Enterprise architecture.",
+			"C": "Trace requirements.",
+			"D": "Requirements architecture."
+		},
+		"discussion": [
+			"Selected Answer: D. Requirements architecture describes how individual requirements relate to one another --- exactly what's needed to prioritize with full context."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Requirements architecture."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 15",
+		"question": "Which of the following would dictate to a business analyst which stakeholders to involve in reviewing and approving requirements?",
+		"options": {
+			"A": "Whoever the sponsor has designated will sign off",
+			"B": "Sponsor, project manager, tester, business analyst, and business architect are all neeed",
+			"C": "A stakeholder list with roles and responsibilities.",
+			"D": "Sponsor, project manager, and quality assurance are all needed."
+		},
+		"discussion": [
+			"Selected Answer: C. A documented stakeholder list with defined roles and responsibilities tells the BA who should review and approve requirements."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. A stakeholder list with roles and responsibilities."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 16",
+		"question": "You have been hired as the business analyst for an ongoing initiative. You have completed requirements elicitation and documentation. You now want to review the requirements and obtain sign-off. In order to understand who has the authority to approve requirements and when to expect approval, which of the following tools would be helpful?",
+		"options": {
+			"A": "Stakeholder engagement approach.",
+			"B": "Organizational modeling.",
+			"C": "Governance approach",
+			"D": "Legal/regulatory information."
+		},
+		"discussion": [
+			"Selected Answer: C. The governance approach names who has approval authority and sets expectations for when approval will happen."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Governance approach"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 17",
+		"question": "Who in an organization would be most interested in re-usable requirements and why?",
+		"options": {
+			"A": "Sponsors because future projects would be less expensive if requirements could be re-used.",
+			"B": "Implementation SMEs because they will be able to reference the ongoing requirements on the job.",
+			"C": "Other business analysts or stakeholders may be interested because future projects may utilize and extend any re-usable requirements.",
+			"D": "Project managers who will be able to complete projects faster in the future if they could utilize and extend any re-usable requirements."
+		},
+		"discussion": [
+			"Selected Answer: C. Other business analysts or stakeholders are most interested in reusable requirements, since future initiatives can utilize and extend them."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Other business analysts or stakeholders may be interested because future projects may utilize and extend any re-usable requirements."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 18",
+		"question": "Prioritization is a critical exercise that seeks to ensure the maximum value is achieved from a change. As a business analyst, you might engage the following stakeholders to verify that the prioritized requirements will deliver value from a customer or end-user perspective. Which stakeholder are you LEAST likely to engage?",
+		"options": {
+			"A": "Customer.",
+			"B": "Implementation subject matter expert.",
+			"C": "Sponsor.",
+			"D": "End user."
+		},
+		"discussion": [
+			"Selected Answer: B. Implementation SMEs are the least directly connected to customer or end-user value, making them the least essential voice in this particular check."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Implementation subject matter expert."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 19",
+		"question": "Requirements must be ________ to be managed, as stakeholders cannot consent to requirements they are not aware of.",
+		"options": {
+			"A": "Elicited.",
+			"B": "Documented.",
+			"C": "Defined.",
+			"D": "Communicated"
+		},
+		"discussion": [
+			"Selected Answer: D. Stakeholders can only consent to requirements once those requirements have been communicated to them."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Communicated"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Life Cycle Management - Question 20",
+		"question": "Which of the following is NOT a guideline and tool for traceability?",
+		"options": {
+			"A": "Information management approach .",
+			"B": "Business rule repository.",
+			"C": "Domain knowledge.",
+			"D": "Legal regulatory information."
+		},
+		"discussion": [
+			"Selected Answer: B. A business rule repository is not listed among the guidelines and tools for traceability; domain knowledge, information management approach, and legal/regulatory information are."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Business rule repository."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 1",
+		"question": "Which of the following tasks provides stakeholders with the information they need, at the time they need it?",
+		"options": {
+			"A": "Manage stakeholder collaboration",
+			"B": "Confirm elicitation results",
+			"C": "Communicate business analysis information",
+			"D": "Conduct elicitation"
+		},
+		"discussion": [
+			"Selected Answer: C. Communicate Business Analysis Information exists specifically to get the right information to stakeholders in the format and at the time they need it."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Communicate business analysis information"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 2",
+		"question": "Eliciting requirements is a key task in business analysis and serves as a foundation for the solution to the business needs. The business analyst should understand the commonly used techniques to elicit requirements, should be able to select appropriate technique(s) for a given situation, and be knowledgeable of the tasks needed to prepare, execute and complete each technique. According to the BABOK, which types of requirements are elicited?",
+		"options": {
+			"A": "Focused technical, organizational, external, non-technical",
+			"B": "Isolated, compartmental, validation, verification",
+			"C": "Functional, non-functional, customer, stakeholder",
+			"D": "Business, stakeholder, solution, transition"
+		},
+		"discussion": [
+			"Selected Answer: D. BABOK's requirements classification schema is business, stakeholder, solution, and transition requirements."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Business, stakeholder, solution, transition"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 3",
+		"question": "What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?",
+		"options": {
+			"A": "Formal documentation is always approved and signed off on by the sponsor.",
+			"B": "Formal documentation always includes texts, matrices, and/or diagrams",
+			"C": "Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.",
+			"D": "Formal documentation is always presented in the form of a presentation."
+		},
+		"discussion": [
+			"Selected Answer: C. Formal documentation is usually built on an organizational template and gives a stable, reusable, long-term record."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 4",
+		"question": "How does the BABOK define a business rule?",
+		"options": {
+			"A": "Expressed as a relationship between one entity/business object and another.",
+			"B": "A capability or condition needed on a particular project to solve a problem or achieve an objective.",
+			"C": "A business rule is a specific, testable directive that serves as a criterion for guiding behavior, shaping judgments, or making decisions.",
+			"D": "A regulation that an organization must adhere to."
+		},
+		"discussion": [
+			"Selected Answer: C. BABOK defines a business rule as a specific, testable directive that guides behaviour, judgment, or decisions."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. A business rule is a specific, testable directive that serves as a criterion for guiding behavior, shaping judgments, or making decisions."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 5",
+		"question": "Which of the following is a focused event that has a facilitator, is attended by key stakeholders and subject matter experts (SMEs) for a concentrated period of time, to achieve a predefined goal?",
+		"options": {
+			"A": "Workshops.",
+			"B": "Focus Team.",
+			"C": "Reviews.",
+			"D": "Interviews."
+		},
+		"discussion": [
+			"Selected Answer: A. A facilitated, time-boxed event with key stakeholders and SMEs working toward a predefined goal is a workshop."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Workshops."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 6",
+		"question": "When preparing for requirements elicitation, what are the inputs required to develop an elicitation activity plan?",
+		"options": {
+			"A": "Business analysis approach, stakeholder engagement approach",
+			"B": "Needs, stakeholder engagement approach",
+			"C": "Business analysis approach, needs",
+			"D": "Business analysis approach, domain SME list"
+		},
+		"discussion": [
+			"Selected Answer: B. Prepare for Elicitation is driven by the Needs and the Stakeholder Engagement Approach."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Needs, stakeholder engagement approach"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 7",
+		"question": "Gary is a business analyst for his organization and he's discovering that the technicians, information technology specialist, customer, and other stakeholders use many acronyms and terms that hold different meanings for different stakeholders. For consistency sake, what tool can Gary use to ensure proper communication during his planned elicitation activities?",
+		"options": {
+			"A": "Data dictionary",
+			"B": "Defined lexicon",
+			"C": "Glossary",
+			"D": "Style guide"
+		},
+		"discussion": [
+			"Selected Answer: C. A glossary keeps terminology consistent across stakeholders who use different acronyms for the same thing."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Glossary"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 8",
+		"question": "The BA, serving as facilitator, encounters a situation such as this during a requirements workshop with a client: A scribe is assigned to keep track of important discussion points and action items. Several times during the morning session, issues are deferred to a \"parking lot.\" The scribe makes no visible gesture that the issue has been noted. What should the facilitator do?",
+		"options": {
+			"A": "Wait until after the workshop has ended for the day, and provide coaching to the scribe with respect to meeting procedures and artifacts.",
+			"B": "Start tracking \"parking lot\" issues independently so that they are not lost.",
+			"C": "Mention to the scribe's supervisor that the scribe should be excluded from future workshops.",
+			"D": "Indicate to the scribe during the meeting that \"parking lot\" issues should be acknowledged, and suggest writing them on a white board or flip chart."
+		},
+		"discussion": [
+			"Selected Answer: D. The facilitator should address the gap in the moment, prompting the scribe to visibly capture parking-lot issues rather than letting it go unresolved."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Indicate to the scribe during the meeting that \"parking lot\" issues should be acknowledged, and suggest writing them on a white board or flip chart."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 9",
+		"question": "Which two elicitation techniques are best for confirming stated requirements and stakeholder concerns?",
+		"options": {
+			"A": "Interviews and observation",
+			"B": "Interviews and focus groups",
+			"C": "Workshops and interviews",
+			"D": "Observation and reviews"
+		},
+		"discussion": [
+			"Selected Answer: C. Workshops and interviews both appear directly among the confirm-elicitation techniques and suit checking captured requirements and concerns with stakeholders."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Workshops and interviews"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 10",
+		"question": "Which techniques would work best to confirm your elicitation results?",
+		"options": {
+			"A": "Document analysis, interviews, process modeling, workshops",
+			"B": "Document analysis, interviews, reviews, requirements model",
+			"C": "Document analysis, interviews, reviews, workshops",
+			"D": "Document analysis, interviews, reviews, process modeling"
+		},
+		"discussion": [
+			"Selected Answer: C. BABOK lists document analysis, interviews and reviews, and workshops as the techniques for confirming elicitation results."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Document analysis, interviews, reviews, workshops"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 11",
+		"question": "Jerry is working on a new product idea for his department. He needs to find out what his coworkers think about the potential new product. What technique should Jerry use to gather his coworkers' opinions?",
+		"options": {
+			"A": "Inspection",
+			"B": "Survey or questionnaire",
+			"C": "Brainstorming",
+			"D": "Focus group"
+		},
+		"discussion": [
+			"Selected Answer: B. A survey or questionnaire is an efficient way to gather individual opinions from a group of coworkers."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Survey or questionnaire"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 12",
+		"question": "Which of the following statements about elicitation and collaboration is NOT true?",
+		"options": {
+			"A": "Elicitation activities may trigger additional elicitation.",
+			"B": "Elicitation and collaboration focus only on requirements elicitation.",
+			"C": "Elicitation and collaboration can be planned, unplanned, or both.",
+			"D": "Elicitation and collaboration are ongoing activities and focus upon all types of business analysis information."
+		},
+		"discussion": [
+			"Selected Answer: B. This statement is false, which makes it the correct choice here: elicitation and collaboration cover all business analysis information, not requirements alone."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Elicitation and collaboration focus only on requirements elicitation."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 13",
+		"question": "Carole is about to start the requirements elicitation process for a new project. The domain subject matter experts (SMEs) will not be available for the duration of the elicitation process. Which technique below would best help Carole in the elicitation process?",
+		"options": {
+			"A": "Document analysis",
+			"B": "Requirements workshops",
+			"C": "Brainstorming",
+			"D": "Organization modeling"
+		},
+		"discussion": [
+			"Selected Answer: A. Document analysis lets Carole draw on existing materials without needing the unavailable SMEs."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Document analysis"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 14",
+		"question": "Jackson is conducting a workshop with domain subject matter experts to elicit solution requirements. He is having trouble getting participants to contribute to the discussion; they seem reluctant to talk. He tried moving to written brainstorming but is still getting limited participation. What would be Jackson's logical next step?",
+		"options": {
+			"A": "Adjourn the session and schedule a focus group.",
+			"B": "Adjourn the session and schedule individual interviews with the stakeholders.",
+			"C": "Revisit the ground rules and remind stakeholders that this is a \"safe\" environment and participation is to key to the fulfillment of session objectives.",
+			"D": "Utilize the observation technique."
+		},
+		"discussion": [
+			"Selected Answer: B. Moving to a lower-pressure, one-on-one setting such as individual interviews is the logical next step after group techniques have failed twice."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Adjourn the session and schedule individual interviews with the stakeholders."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 15",
+		"question": "Which of the following activities is NOT suitable for eliciting information using the observation technique?",
+		"options": {
+			"A": "Informal tasks and workaround identification.",
+			"B": "Recommendations for improvement supported by objective and quantitative evidence.",
+			"C": "Evaluating knowledge-based activities.",
+			"D": "Eliciting information when there is no written documentation."
+		},
+		"discussion": [
+			"Selected Answer: C. Observation shows what people do, not what they know, so it is poorly suited to evaluating knowledge-based activities."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Evaluating knowledge-based activities."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 16",
+		"question": "There are several roles involved in a successful workshop. Which of the following roles is generally not a participant in a workshop.",
+		"options": {
+			"A": "Scribe.",
+			"B": "Facilitator.",
+			"C": "Sponsor.",
+			"D": "Timekeeper."
+		},
+		"discussion": [
+			"Selected Answer: C. Sponsor is not one of the standard defined workshop roles (facilitator, scribe, timekeeper, participants)."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Sponsor."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 17",
+		"question": "What is the purpose of a focus group?",
+		"options": {
+			"A": "A means to collaborate and build a strong and cohesive team in order to satisfy stakeholders needs.",
+			"B": "A means to elicit information by viewing and understanding activities and their context.",
+			"C": "A quantitative means to elicit ideas and opinions about a specific product, service, or opportunity through research.",
+			"D": "A means to elicit ideas and opinions about a specific product, service, or opportunity in an interactive group environment."
+		},
+		"discussion": [
+			"Selected Answer: D. A focus group elicits ideas and opinions about a product, service, or opportunity through interactive group discussion."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. A means to elicit ideas and opinions about a specific product, service, or opportunity in an interactive group environment."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 18",
+		"question": "You have been hired as the business analyst and assigned to a project that has many stakeholders. You want to quickly build rapport with the key stakeholders. Which technique would help you achieve your goal?",
+		"options": {
+			"A": "Observation.",
+			"B": "Group interview.",
+			"C": "Coffee meetings.",
+			"D": "Interviews."
+		},
+		"discussion": [
+			"Selected Answer: D. Interviews are the most direct, personal elicitation technique for building rapport with key stakeholders."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Interviews."
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 19",
+		"question": "The success of a workshop is highly dependent on the involvement of which of the following role(s)?",
+		"options": {
+			"A": "Facilitator and participants",
+			"B": "Project manager and business analyst",
+			"C": "Scribe and business analyst",
+			"D": "Sponsor and business analyst"
+		},
+		"discussion": [
+			"Selected Answer: A. A workshop's success depends chiefly on an effective facilitator and engaged participants."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Facilitator and participants"
+	},
+	{
+		"url": null,
+		"question_no": "Elicitation & Collaboration - Question 20",
+		"question": "Jay is planning a short survey to elicit requirements for a project that will improve the paperless statement function for a large financial institution. He will survey approximately 8,700 financial advisors at 130 branches, located in five different countries where English is a second language. What advantages and disadvantages might Jay need to consider when conducting this survey?",
+		"options": {
+			"A": "Surveys are efficient when the respondents are geographically dispersed but response rates may be too high to be statistically significant.",
+			"B": "Surveys are efficient when the respondents are geographically dispersed but people don't like taking surveys, so he won't get good requirements.",
+			"C": "Surveys are efficient when the respondents are geographically dispersed but ambiguous survey questions may be left unanswered or may be answered",
+			"D": "Surveys are efficient when the respondents are geographically dispersed but a follow-up survey may need to be administered if the results aren't definitive."
+		},
+		"discussion": [
+			"Selected Answer: C. Surveys work well across dispersed respondents, but with English as a second language for many respondents, ambiguous questions risk being skipped or misinterpreted."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Surveys are efficient when the respondents are geographically dispersed but ambiguous survey questions may be left unanswered or may be answered"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 1",
+		"question": "Liz conducted focus groups with dissatisfied customers to identify the root cause(s) of declining customer satisfaction scores, researched cost-effective solutions, performed a detailed cost/benefit analysis for each option, and presented a recommendation to the Director of Support Services in a business case. Liz was incredibly proud of her work. The director and other key stakeholders were not impressed and deferred her recommendation. What is the most likely reason for the lack of support for Liz's recommendation?",
+		"options": {
+			"A": "Liz failed to use multiple elicitation techniques so decision-makers were hesitant to believe the identified root cause(s).",
+			"B": "Liz presented her work to a key stakeholder vs. the decision-maker (sponsor).",
+			"C": "The director didn't support the financial assumptions in the analysis and so had little faith in the overall cost/benefit analysis.",
+			"D": "Liz conducted the work on her own and failed to collaborate with stakeholders."
+		},
+		"discussion": [
+			"Selected Answer: B. Presenting a recommendation to a key stakeholder rather than to the actual decision-maker (the sponsor) is the most likely reason it stalled despite strong analysis."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Liz presented her work to a key stakeholder vs. the decision-maker (sponsor)."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 2",
+		"question": "Rhonda is a BA reviewing the issues that surfaced on a similar project to the one she is currently assigned to that was closed two years ago. What would be the value in reviewing past issues from similar projects?",
+		"options": {
+			"A": "Reviewing past issues could help identify the fix so the team won't have to recreate the wheel.",
+			"B": "Reviewing past issues and their fixes could help establish the amount of money needed for the contingency reserves.",
+			"C": "Reviewing past issues will help Rhonda understand which stakeholder groups were impacted and so will assist in stakeholder identification.",
+			"D": "Reviewing past issues could help identify risks for the current project."
+		},
+		"discussion": [
+			"Selected Answer: D. Reviewing issues from a similar past project is primarily valuable for surfacing risks likely to recur on the current one."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Reviewing past issues could help identify risks for the current project."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 3",
+		"question": "Which of the following is an output of the define change strategy task?",
+		"options": {
+			"A": "Risk analysis results.",
+			"B": "Potential value",
+			"C": "Solution scope.",
+			"D": "Alternatives analysis"
+		},
+		"discussion": [
+			"Selected Answer: C. Solution Scope, alongside Change Strategy, is the documented output of Define Change Strategy."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Solution scope."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 4",
+		"question": "Which document explains how the enterprise will create or acquire new capabilities?",
+		"options": {
+			"A": "Solution scope",
+			"B": "Solution option",
+			"C": "Solution approach",
+			"D": "Project vision"
+		},
+		"discussion": [
+			"Selected Answer: C. The solution approach explains how the enterprise intends to create or acquire the new capabilities it needs."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Solution approach"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 5",
+		"question": "Sean, a BA, is working with a business owner to clarify the organization's business objectives. The business owner keeps talking about the current situation and a new project to automate a cumbersome business process. Sean tries to bring her back to the business objectives. Finally the business owner says that she has three business objectives: increase employee satisfaction, improve revenues by increasing sales, and comply with new regulations. Sean is not comfortable with these business objectives. Why?",
+		"options": {
+			"A": "They are not measurable.",
+			"B": "They do not state the business problem or opportunity.",
+			"C": "They do not state the business benefits.",
+			"D": "They are stated but not confirmed."
+		},
+		"discussion": [
+			"Selected Answer: A. \"Increase employee satisfaction,\" \"improve revenue,\" and \"comply with regulations\" are qualitative, ongoing goals, not measurable, time-bound objectives."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. They are not measurable."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 6",
+		"question": "Joy is a business analyst and is working with her project manager on a project to automate a manual process. They are working together on a work breakdown structure (WBS) to break down which type of scope?",
+		"options": {
+			"A": "Process scope.",
+			"B": "Project scope.",
+			"C": "Product scope.",
+			"D": "Solution scope."
+		},
+		"discussion": [
+			"Selected Answer: B. A work breakdown structure in this context decomposes the project scope into manageable pieces of work."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Project scope."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 7",
+		"question": "Lydia is a BA working in a financial institution. The organization has not had success implementing commercial software. Every time a package has been bought, it seems to cause more trouble than it's worth with customization requirements, trouble with interfaces, etc. Lydia is torn between recommending a commercial software package and building the software. What technique/tool will best help her with this analysis?",
+		"options": {
+			"A": "Decision model.",
+			"B": "A business case.",
+			"C": "Business capability analysis.",
+			"D": "Decision tree."
+		},
+		"discussion": [
+			"Selected Answer: B. A business case, with its cost/benefit comparison, is the right tool to weigh buying commercial software against building it in-house."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. A business case."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 8",
+		"question": "James is exploring various strategies to transform the enterprise from the current to their desired future state. How many business cases might James develop in support of his final recommendation?",
+		"options": {
+			"A": "It depends upon the culture of the organization.",
+			"B": "One business case per change strategy.",
+			"C": "One business case for the final recommendation.",
+			"D": "One business case that includes financial analysis for each alternative change strategy."
+		},
+		"discussion": [
+			"Selected Answer: D. A single business case that includes financial analysis of every alternative strategy supports a properly justified recommendation."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. One business case that includes financial analysis for each alternative change strategy."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 9",
+		"question": "Policies, budget, time, and resource availability are all types of __________________ ?",
+		"options": {
+			"A": "Constraints",
+			"B": "Capabilities",
+			"C": "Risks",
+			"D": "Resources"
+		},
+		"discussion": [
+			"Selected Answer: A. Policies, budget, time, and resource availability are all examples of constraints on a change."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Constraints"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 10",
+		"question": "What is the best description of the strategy analysis knowledge area?",
+		"options": {
+			"A": "Strategy analysis focuses on understanding the current state and identifying obstacles keeping the organization from reaching its goals.",
+			"B": "The strategy analysis knowledge area begins when a business need is identified, analyzes the current state, and enables the enterprise to effectively address that need by defining the future and transition states.",
+			"C": "Strategy analysis begins when a business need is identified and ends when projects are initiated.",
+			"D": "Strategy analysis consists of the collection of pre-project activities for capturing future views of the business to provide context for Elicitation."
+		},
+		"discussion": [
+			"Selected Answer: B. Strategy Analysis begins once a business need is identified, analyzes the current state, and defines the future and transition states needed to address that need."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. The strategy analysis knowledge area begins when a business need is identified, analyzes the current state, and enables the enterprise to effectively address that need by defining the future and transition states."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 11",
+		"question": "Sam's recommendation was unanimously approved by the steering team. What really sold decision makers were the forecasted benefits of the future state he modeled with incredible detail. How will Sam utilize that forecasted potential value in the business analysis process?",
+		"options": {
+			"A": "Sam will define metrics and key performance indicators from which to measure solution performance once the future state is implemented.",
+			"B": "Sam will ensure that requirements and designs meet quality standards and are usable for the purpose they serve.",
+			"C": "Sam will ensure that all requirements and designs support the delivery of forecasted benefits.",
+			"D": "Sam assessed and reported the potential value in order to drive consensus among decision makers. Since consensus was reached, the primary purpose of the forecasted benefits has been fulfilled."
+		},
+		"discussion": [
+			"Selected Answer: C. Once potential value has helped build consensus, it also becomes the benchmark that requirements and designs must continue to support as the work proceeds."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Sam will ensure that all requirements and designs support the delivery of forecasted benefits."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 12",
+		"question": "Business analysts analyze the enterprise to assess its capacity to make the change and to sustain the change in the future state. What is this element called?",
+		"options": {
+			"A": "Organizational capacity assessment",
+			"B": "Enterprise capacity assessment",
+			"C": "Enterprise readiness assessment",
+			"D": "Organizational readiness assessment"
+		},
+		"discussion": [
+			"Selected Answer: C. Assessing the enterprise's capacity to make and sustain a change is called an enterprise readiness assessment."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Enterprise readiness assessment"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 13",
+		"question": "Which of the following is NOT a direct input in the define change strategy task?",
+		"options": {
+			"A": "Solution recommendations",
+			"B": "Risk analysis results",
+			"C": "Stakeholder engagement approach",
+			"D": "Future state description"
+		},
+		"discussion": [
+			"Selected Answer: A. Solution recommendations are an output of a later knowledge area (Requirements Analysis and Design Definition), not a direct input to Define Change Strategy."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Solution recommendations"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 14",
+		"question": "As a BA with some expertise in business process re-engineering, you would like to capture the current business process flows for a business unit within the company before a software automation project is undertaken. But, the sponsor says there is not enough time. How would you present your reasons?",
+		"options": {
+			"A": "Documenting current processes will ensure stakeholder groups have not been overlooked.",
+			"B": "Process modeling now will most likely save rework in the future.",
+			"C": "Business process engineering is a well-established technique for uncovering inefficiencies and advocating change within an organization.",
+			"D": "Documenting current processes will help uncover the steps in the current process that need to change before the software can deliver forecasted value."
+		},
+		"discussion": [
+			"Selected Answer: B. The most persuasive, practical argument for a time-pressed sponsor is that documenting the current process now avoids costly rework later."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Process modeling now will most likely save rework in the future."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 15",
+		"question": "As a BA you are called upon to participate in a strategic workshop to identify change strategies. What will be your most likely role in the discussion?",
+		"options": {
+			"A": "Influencer",
+			"B": "Decision maker",
+			"C": "Facilitator",
+			"D": "Arbitrator"
+		},
+		"discussion": [
+			"Selected Answer: A. In a strategic workshop about change strategy, the BA typically contributes analysis and perspective as an influencer rather than making the final call."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Influencer"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 16",
+		"question": "ROI takes into consideration the cost of the investment and the forecasted benefits of the change. Cameron is meeting with stakeholders to understand what the training costs will be for the recommended solution. What is Cameron trying to understand?",
+		"options": {
+			"A": "The ratio of costs to benefits",
+			"B": "Timeline for getting end-users up to speed with how to use the solution",
+			"C": "The total cost of ownership for the solution",
+			"D": "Value realization"
+		},
+		"discussion": [
+			"Selected Answer: C. Understanding training costs as part of assessing ROI is about establishing the total cost of ownership of the solution."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. The total cost of ownership for the solution"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 17",
+		"question": "In order to confidently analyze the current state of an enterprise, what must the BA utilize as an input?",
+		"options": {
+			"A": "Unconfirmed elicitation results",
+			"B": "Interview and workshop transcripts",
+			"C": "Confirmed elicitation results",
+			"D": "Elicitation activity plan"
+		},
+		"discussion": [
+			"Selected Answer: C. Confirmed elicitation results are needed as a reliable input before the current state can be analyzed with confidence."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Confirmed elicitation results"
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 18",
+		"question": "Kathy is a new BA who asked you to review a business case she developed before she submits it for review and approval. The business case outlines a compelling change strategy and contains rigorous financial feasibility analysis for the recommended strategy. For the above Scenario, please answer question 1 of 2 below: You provide Kathy feedback that while her recommendation is compelling, something critical is missing. What is it?",
+		"options": {
+			"A": "Financial analyses of other change strategies.",
+			"B": "An implementation plan to prove feasibility.",
+			"C": "Opportunity costs related to other change strategies.",
+			"D": "Evaluation criteria for the recommended strategy."
+		},
+		"discussion": [
+			"Selected Answer: A. A one-sided business case that only analyzes the recommended strategy is missing financial analysis of the alternatives that were considered and rejected."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Financial analyses of other change strategies."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 19",
+		"question": "Kathy is a new BA who asked you to review a business case she developed before she submits it for review and approval. The business case outlines a compelling change strategy and contains rigorous financial feasibility analysis for the recommended strategy. For the above Scenario, please answer question 2 of 2 below: What rationale do you give Kathy for the criticality of the missing information?",
+		"options": {
+			"A": "Stakeholders need to understand options considered and rejected to support their decision-making process.",
+			"B": "She has to provide evidence that she's thought through how the recommended strategy will be evaluated once deployed.",
+			"C": "Stakeholders need to believe the recommended strategy is \"doable\" or feasible given their resource constraints.",
+			"D": "Stakeholders need to understand what benefits they are deferring for other change strategies"
+		},
+		"discussion": [
+			"Selected Answer: A. Stakeholders need to see the options that were considered and set aside in order to trust and support the final recommendation."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Stakeholders need to understand options considered and rejected to support their decision-making process."
+	},
+	{
+		"url": null,
+		"question_no": "Strategy Analysis - Question 20",
+		"question": "In what situation would a feasibility analysis be MOST useful?",
+		"options": {
+			"A": "Buying a COTS package.",
+			"B": "Migrating critical applications to a cloud environment.",
+			"C": "When a sponsor places constraints on a solution option.",
+			"D": "Resolving a business problem."
+		},
+		"discussion": [
+			"Selected Answer: C. Feasibility analysis is most valuable when a sponsor has already placed constraints around a solution option, since it tests whether the option can realistically be delivered within them."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. When a sponsor places constraints on a solution option."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 1",
+		"question": "The project team has identified several design options. They need to evaluate and compare these options to one another to recommend one option for the solution. The team is using criteria to score each option. Which method is the team employing?",
+		"options": {
+			"A": "Decision indicator",
+			"B": "Trade-offs",
+			"C": "Decision matrices",
+			"D": "Decision trees"
+		},
+		"discussion": [
+			"Selected Answer: C. Scoring options against agreed criteria to compare them is the definition of a decision matrix."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Decision matrices"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 2",
+		"question": "Which of the following techniques would be best suited to identify how to evaluate the quality of the requirements?",
+		"options": {
+			"A": "Reviews",
+			"B": "Acceptance and evaluation criteria",
+			"C": "Verify requirements",
+			"D": "Metrics and key performance indicators (KPIs)"
+		},
+		"discussion": [
+			"Selected Answer: B. Acceptance and evaluation criteria define what \"good\" looks like, which is what's needed to judge requirement quality."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Acceptance and evaluation criteria"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 3",
+		"question": "The following statements describe how business analysts use requirements architecture. Which one is NOT a correct description?",
+		"options": {
+			"A": "Business analysts use requirements architecture to ensure every requirement links back to an objective and shows how an objective was met.",
+			"B": "Business analysts use requirements architecture to make trade-off decisions about requirements while considering the overall objectives.",
+			"C": "Business analysts use a requirements architecture to understand which models are appropriate for the domain, solution scope, and audience.",
+			"D": "Business analysts use requirements architecture to ensure the requirements work together to achieve the overall objectives."
+		},
+		"discussion": [
+			"Selected Answer: A. Linking every requirement back to an objective and showing how it was met describes traceability, not requirements architecture, which is about requirements fitting together as a coherent whole."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Business analysts use requirements architecture to ensure every requirement links back to an objective and shows how an objective was met."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 4",
+		"question": "Which of the following output describes the requirements and the interrelationships among them, as well as any contextual information that is recorded.",
+		"options": {
+			"A": "Requirements architecture.",
+			"B": "Requirements (Traced).",
+			"C": "Information architecture.",
+			"D": "Information management approach."
+		},
+		"discussion": [
+			"Selected Answer: A. Requirements architecture is defined as the requirements and their interrelationships, plus contextual information."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Requirements architecture."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 5",
+		"question": "Sarah documented what circumstances must be in place prior to the steps outlined in a use case she was creating. What term addresses what Sarah was documenting?",
+		"options": {
+			"A": "Precondition",
+			"B": "Boundaries",
+			"C": "Alternative flow",
+			"D": "Post condition"
+		},
+		"discussion": [
+			"Selected Answer: A. A precondition documents what must be true before the steps of a use case can begin."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Precondition"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 6",
+		"question": "As a senior business analyst you have been approached by a junior business analyst to provide advice on when to use a capability model category. Which of the following is the correct response?",
+		"options": {
+			"A": "When representing organizations, groups of people, roles, and their relationships within an enterprise and to a solution.",
+			"B": "When representing a sequence of actions, events, or a course that may be taken.",
+			"C": "When representing the characteristics and the exchange of information within an enterprise or a solution.",
+			"D": "When representing features or functions of an enterprise or a solution."
+		},
+		"discussion": [
+			"Selected Answer: D. A capability model is used when representing the features or functions an enterprise or solution provides."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. When representing features or functions of an enterprise or a solution."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 7",
+		"question": "Mahmoud was decomposing the requirements that he had gathered for a client who represented a magazine subscription product. He was having difficulty classifying the following requirement: \"The system must be able to support growth of 10,000 subscribers over the next year.\" How would you classify this requirement?",
+		"options": {
+			"A": "Scalability",
+			"B": "Functional",
+			"C": "Capacity",
+			"D": "Non-functional"
+		},
+		"discussion": [
+			"Selected Answer: D. Supporting a stated volume of growth describes a non-functional (quality-of-service) requirement rather than a functional one."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Non-functional"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 8",
+		"question": "A model is a descriptive and visual way to convey information to a specific audience in order to support analysis, communication, and understanding. What would a business analyst typically model?",
+		"options": {
+			"A": "Requirements and solutions",
+			"B": "Requirements and designs",
+			"C": "Needs and solutions",
+			"D": "Needs and requirements"
+		},
+		"discussion": [
+			"Selected Answer: B. Business analysts model both requirements (the need) and designs (the solution), depending on the focus of the work."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Requirements and designs"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 9",
+		"question": "Suzana was attempting to classify the requirements that she had gathered thus far and discovered that she hadn't yet identified the capabilities that the solution must have for the conversion to the future state from the current state. Which classification was she missing?",
+		"options": {
+			"A": "Business",
+			"B": "Non Functional",
+			"C": "Transition",
+			"D": "Temporary"
+		},
+		"discussion": [
+			"Selected Answer: C. Capabilities needed to move from current to future state, no longer needed once the change is complete, are transition requirements."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Transition"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 10",
+		"question": "Not every process analyzed will be transformed by a software solution, so processes that are flagged in the design plan as not being a candidate for automation will not undergo further elaboration during the technical design. With that premise, which of the following statements is NOT true?",
+		"options": {
+			"A": "The business analyst and the process owner may have determined new manual steps that may streamline and improve the current process.",
+			"B": "The business analyst should refrain from documenting recommendations to transform the process that are outside the scope of software automation.",
+			"C": "The business analyst should present recommendations to the appropriate project stakeholders to determine if proposed improvements should be considered for implementation.",
+			"D": "The business analyst will have decomposed and modeled the process and identified new procedures."
+		},
+		"discussion": [
+			"Selected Answer: B. This is the false statement, and therefore correct: BAs should still document out-of-scope recommendations for stakeholders to consider, not withhold them."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. The business analyst should refrain from documenting recommendations to transform the process that are outside the scope of software automation."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 11",
+		"question": "Specifying and Modeling Requirements is a task in which of the following knowledge areas?",
+		"options": {
+			"A": "Solution Evaluation.",
+			"B": "Requirements Analysis and Design Definition.",
+			"C": "Strategy Analysis.",
+			"D": "Elicitation and Collaboration."
+		},
+		"discussion": [
+			"Selected Answer: B. Specify and Model Requirements sits inside Requirements Analysis and Design Definition."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Requirements Analysis and Design Definition."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 12",
+		"question": "A senior business analyst was providing advice to a new business analyst and recommended using a data dictionary for their documentation. What is the purpose of this type of documentation?",
+		"options": {
+			"A": "To standardize a definition of a data element, thus enabling a common interpretation among stakeholders",
+			"B": "To create a meta data repository that can be accessed by all relevant stakeholders",
+			"C": "To document the attributes of entities or classes in data model",
+			"D": "To perform data mining and advanced analytics"
+		},
+		"discussion": [
+			"Selected Answer: A. A data dictionary standardizes definitions of data elements so all stakeholders share a common interpretation."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. To standardize a definition of a data element, thus enabling a common interpretation among stakeholders"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 13",
+		"question": "The project team is in the process of confirming compliance with organizational business analysis performance standards, correct use of modeling notation and completeness within each model, and that items determined to be important are included in the final requirements deliverables. What tool would help in carrying out these activities?",
+		"options": {
+			"A": "Control chart",
+			"B": "Checklist",
+			"C": "Item tracking",
+			"D": "Metrics and key performance indicators (KPIs)"
+		},
+		"discussion": [
+			"Selected Answer: B. A checklist is the standard tool for confirming compliance with standards, correct notation, and completeness."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Checklist"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 14",
+		"question": "Which of the listed techniques is used to ensure coverage of activities by denoting responsibility, identifying roles, discovering missing roles, and communicating results of a planned change?",
+		"options": {
+			"A": "Stakeholder list",
+			"B": "Prioritization",
+			"C": "Prototyping",
+			"D": "Roles and permissions matrix"
+		},
+		"discussion": [
+			"Selected Answer: D. A roles and permissions matrix maps responsibility, uncovers missing roles, and communicates the impact of a planned change."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Roles and permissions matrix"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 15",
+		"question": "Which of the following is TRUE about reviews?",
+		"options": {
+			"A": "Objectives, techniques, and participants are the three dimensions of reviews.",
+			"B": "Each review is focused on the skills or actions of the participants and not on the work product.",
+			"C": "Each review is tailored to the needs of the participants and business analyst.",
+			"D": "Reviews and workshops are synonymous."
+		},
+		"discussion": [
+			"Selected Answer: A. Reviews are typically described along the dimensions of objectives, techniques used, and participants involved."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Objectives, techniques, and participants are the three dimensions of reviews."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 16",
+		"question": "In what task are requirements allocated to a solution component or a release?",
+		"options": {
+			"A": "Specify and Model Requirements.",
+			"B": "Analyze Potential Value and Recommend Solution.",
+			"C": "Verify Requirements.",
+			"D": "Define Design Options."
+		},
+		"discussion": [
+			"Selected Answer: D. Requirements Allocation --- assigning requirements to a solution component or release --- is an element of Define Design Options."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Define Design Options."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 17",
+		"question": "Jax is a BA interviewing a client regarding business rules related to discounts for car insurance. The customer started relating several \"If, then\" scenarios. For example, \"If their age is 16-25, no discount. If their age is 26-35 and they have been accident free for a minimum of 3 years, they will receive a 5% discount. But, if they have other policies with us, they will receive an 8% discount. If they are from 36-50 years old and....\" Jax was writing furiously trying to keep up! What would be an effective way to document this set of business rules?",
+		"options": {
+			"A": "Decision model",
+			"B": "Decision table",
+			"C": "Decision analysis",
+			"D": "Decision requirements diagram"
+		},
+		"discussion": [
+			"Selected Answer: B. A decision table is the clearest way to document multiple conditional (if/then) business rules."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Decision table"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 18",
+		"question": "A business analyst must be effective in generating alternative solutions that solve the business need or problem. Which of the following underlying competencies would be helpful in that endeavor?",
+		"options": {
+			"A": "Brainstorming.",
+			"B": "Creative Thinking.",
+			"C": "Decision Making.",
+			"D": "Systems Thinking."
+		},
+		"discussion": [
+			"Selected Answer: B. Creative thinking is the underlying competency that helps a BA generate genuinely alternative solutions."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Creative Thinking."
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 19",
+		"question": "Which one of the following is NOT an element in Analyze Potential Value and Recommend Solution task?",
+		"options": {
+			"A": "Expected Benefits",
+			"B": "Expected Outcome",
+			"C": "Determine Value",
+			"D": "Expected Costs"
+		},
+		"discussion": [
+			"Selected Answer: B. The elements of Analyze Potential Value and Recommend Solution are expected benefits, expected costs, determine value, and assess design options/recommend solution --- \"expected outcome\" is not one of them."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Expected Outcome"
+	},
+	{
+		"url": null,
+		"question_no": "Requirements Analysis & Design Definition - Question 20",
+		"question": "Which underlying competency provides an understanding of a specific department's business architecture?",
+		"options": {
+			"A": "Business Acumen",
+			"B": "Systems Thinking",
+			"C": "Domain Knowledge",
+			"D": "Organization Knowledge"
+		},
+		"discussion": [
+			"Selected Answer: C. Domain knowledge is the underlying competency that gives a BA understanding of a specific department's business architecture."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Domain Knowledge"
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 1",
+		"question": "A vital application has begun to experience several unplanned outages. The 99.7% availability target hasn't been met in three months and is steadily worsening. Robbie is the BA assigned to assess the situation. He finds that the application, hardware, and operating system are solid. However, the circuit supporting the system has become unreliable. For the above Scenario, please answer question 1 of 3 below: What is the circuit in this scenario?",
+		"options": {
+			"A": "Solution component.",
+			"B": "Solution limitation.",
+			"C": "Risk.",
+			"D": "Enterprise limitation."
+		},
+		"discussion": [
+			"Selected Answer: D. The circuit sits outside the solution itself (app, hardware, and OS are all fine), so its unreliability is an enterprise limitation, not a solution limitation."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Enterprise limitation."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 2",
+		"question": "A vital application has begun to experience several unplanned outages. The 99.7% availability target hasn't been met in three months and is steadily worsening. Robbie is the BA assigned to assess the situation. He finds that the application, hardware, and operating system are solid. However, the circuit supporting the system has become unreliable. For the above Scenario, please answer question 2 of 3 below: What does the BABOK call Robbie's investigation in this scenario?",
+		"options": {
+			"A": "Root cause analysis.",
+			"B": "Error investigation.",
+			"C": "Problem analysis.",
+			"D": "Impact assessment."
+		},
+		"discussion": [
+			"Selected Answer: C. Investigating why a solution or component is producing ineffective outputs is what BABOK calls problem analysis."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Problem analysis."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 3",
+		"question": "A vital application has begun to experience several unplanned outages. The 99.7% availability target hasn't been met in three months and is steadily worsening. Robbie is the BA assigned to assess the situation. He finds that the application, hardware, and operating system are solid. However, the circuit supporting the system has become unreliable. For the above Scenario, please answer question 3 of 3 below: Per Robbie's recommendation, a new, high-speed circuit was installed on an expedited basis but the application continued to exhibit outages. Now what should Robbie do?",
+		"options": {
+			"A": "Problem analysis.",
+			"B": "Impact assessment.",
+			"C": "Root cause analysis.",
+			"D": "Error investigation."
+		},
+		"discussion": [
+			"Selected Answer: C. When a first fix doesn't resolve the issue, that's a sign the earlier work found a symptom, not the true source --- root cause analysis is the appropriate next step."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Root cause analysis."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 4",
+		"question": "You overheard a work colleague say something you believe to be unethical and clearly not in the best interests of the customer. You said nothing at the time. However, after thinking about it, you decide to take action. Which underlying competency would be most effective?",
+		"options": {
+			"A": "Written Communication; you send her an email detailing your concerns.",
+			"B": "Written Communication; you send an email detailing your concerns to the project manager and copy her boss.",
+			"C": "Verbal Communication; you express your concerns to the project manager.",
+			"D": "Verbal Communication; you call her and express your concerns."
+		},
+		"discussion": [
+			"Selected Answer: C. Raising the concern verbally and directly with the project manager addresses it through the proper channel without escalating unfairly by email."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Verbal Communication; you express your concerns to the project manager."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 5",
+		"question": "It's time to administer the annual employee satisfaction survey. Last year less than 12% of the co-located employees returned the online survey. Gene recommended discontinuing the survey given the low response rate but the governance team elected to give it another try. For the above Scenario, please answer question 1 of 3 below: What could one infer from the low response rate?",
+		"options": {
+			"A": "The employees don't have time to complete the survey.",
+			"B": "The employees don't see anything changing as a result of the survey.",
+			"C": "The employees do not believe their answers are anonymous and so fear retribution.",
+			"D": "The employees do not see the value in completing the survey."
+		},
+		"discussion": [
+			"Selected Answer: D. Without more specific data, the most defensible general inference from a very low return rate is that employees don't see value in participating."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. The employees do not see the value in completing the survey."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 6",
+		"question": "It's time to administer the annual employee satisfaction survey. Last year less than 12% of the co-located employees returned the online survey. Gene recommended discontinuing the survey given the low response rate but the governance team elected to give it another try. For the above Scenario, please answer question 2 of 3 below: What might Gene do to bolster the return rate of the survey?",
+		"options": {
+			"A": "Offer an incentive for all personnel in the organization if the response rate reaches 80%.",
+			"B": "Offer an individual incentive for returning the survey.",
+			"C": "Perform root cause analysis to address the underlying reason(s) the survey isn't being returned.",
+			"D": "Have an objective third party administer the survey in person."
+		},
+		"discussion": [
+			"Selected Answer: C. Understanding why people aren't responding, through root cause analysis, is the necessary step before trying to fix the response rate."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Perform root cause analysis to address the underlying reason(s) the survey isn't being returned."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 7",
+		"question": "It's time to administer the annual employee satisfaction survey. Last year less than 12% of the co-located employees returned the online survey. Gene recommended discontinuing the survey given the low response rate but the governance team elected to give it another try. For the above Scenario, please answer question 3 of 3 below: It turns out that the primary reason that the survey isn't being returned is that the questions are ambiguous; personnel report not understanding what is really being asked. How could this misunderstanding have been largely prevented in the first place?",
+		"options": {
+			"A": "Conducted focus groups instead.",
+			"B": "Conducted interviews instead.",
+			"C": "Conducted a usability test on the survey before it was distributed could've uncovered areas of ambiguity.",
+			"D": "Purchased a \"tried and true\" survey from a third party vendor."
+		},
+		"discussion": [
+			"Selected Answer: C. A usability test on the survey itself would have surfaced ambiguous questions before they caused low-quality responses."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Conducted a usability test on the survey before it was distributed could've uncovered areas of ambiguity."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 8",
+		"question": "The leaders of a retail store employing approximately 100 floor personnel have been hearing more complaints from employees during the last three months about difficult co-workers, not enough vacation time, scheduling policies, etc. In addition, three valuable employees have given their notice during the last two months. Raja has been asked to evaluate employee satisfaction. The organization has no current performance measures in place. For the above Scenario, please answer question 1 of 3 below: What technique might best serve Raja as he begins his analysis?",
+		"options": {
+			"A": "Data mining.",
+			"B": "Focus group.",
+			"C": "Survey or questionnaire.",
+			"D": "Observation."
+		},
+		"discussion": [
+			"Selected Answer: B. With no existing measures and a broad, undefined problem, a focus group is a good way to explore the issue qualitatively before committing to survey questions."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Focus group."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 9",
+		"question": "The leaders of a retail store employing approximately 100 floor personnel have been hearing more complaints from employees during the last three months about difficult co-workers, not enough vacation time, scheduling policies, etc. In addition, three valuable employees have given their notice during the last two months. Raja has been asked to evaluate employee satisfaction. The organization has no current performance measures in place. For the above Scenario, please answer question 2 of 3 below: What might be the next step?",
+		"options": {
+			"A": "Observation.",
+			"B": "Focus group.",
+			"C": "Survey or questionnaire.",
+			"D": "Data mining."
+		},
+		"discussion": [
+			"Selected Answer: C. Once the focus group has surfaced the right themes, a survey can scale that understanding across the wider employee population."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Survey or questionnaire."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 10",
+		"question": "The leaders of a retail store employing approximately 100 floor personnel have been hearing more complaints from employees during the last three months about difficult co-workers, not enough vacation time, scheduling policies, etc. In addition, three valuable employees have given their notice during the last two months. Raja has been asked to evaluate employee satisfaction. The organization has no current performance measures in place. For the above Scenario, please answer question 3 of 3 below: What is the biggest benefit the chosen technique from the previous question would provide?",
+		"options": {
+			"A": "It would provide a qualitative baseline from which to measure improvement.",
+			"B": "It is rapid and produces reliable results.",
+			"C": "It would allow Raja to ascertain if the information elicited from the focus group was representative of all personnel.",
+			"D": "It would provide a quantitative baseline from which to measure improvement."
+		},
+		"discussion": [
+			"Selected Answer: D. A well-designed survey, informed by the focus group, gives Raja a quantitative baseline to measure future improvement against."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. It would provide a quantitative baseline from which to measure improvement."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 11",
+		"question": "Delivery sales have been decreasing by 5% year-over-year for a company's bottled water offering. The water is delivered to a subscriber's door in 5-gallon plastic jugs which fit on top of a dispenser. This is a common product in the bottled water industry. Alan has been asked to assess the solution to understand the reason for declining sales as it has been the company's steady source of revenue. For the above Scenario, please answer question 1 of 2 below: How should Alan proceed?",
+		"options": {
+			"A": "Root cause analysis.",
+			"B": "Benchmarking and market analysis.",
+			"C": "Focus groups.",
+			"D": "Data mining."
+		},
+		"discussion": [
+			"Selected Answer: B. Comparing performance against the wider bottled-water market is the logical first step when sales are falling across a common product."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Benchmarking and market analysis."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 12",
+		"question": "Delivery sales have been decreasing by 5% year-over-year for a company's bottled water offering. The water is delivered to a subscriber's door in 5-gallon plastic jugs which fit on top of a dispenser. This is a common product in the bottled water industry. Alan has been asked to assess the solution to understand the reason for declining sales as it has been the company's steady source of revenue. For the above Scenario, please answer question 2 of 2 below: It appears all companies are experiencing similar decreases in sales for this product offering. Complaint data hasn't uncovered anything useful in the analysis either. What's Alan's next step?",
+		"options": {
+			"A": "Survey or questionnaire.",
+			"B": "Interviews.",
+			"C": "Root cause analysis.",
+			"D": "Operational assessment."
+		},
+		"discussion": [
+			"Selected Answer: D. Since the whole industry is affected and complaint data hasn't helped, the next step is to look inward at how the enterprise itself is set up to support the solution."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Operational assessment."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 13",
+		"question": "Chris, a CIO in the banking industry, implemented the Business Relationship Manager (BRM) role to improve customers' loyalty scores. Best practice frameworks cited the BRM role as a sure- fire way to ensure customer satisfaction. Chris implemented the role by the book by sending six new BRMs through a 4-week training course and requiring them to pass a rigorous exam to obtain BRM certification. The scores are in and customer satisfaction scores are essentially the same as they were prior to the BRM role. For the above Scenario, please answer question 1 of 3 below: What might your initial take be on this situation?",
+		"options": {
+			"A": "Not enough due diligence was given to the upfront analysis to determine if the BRM role was the \"right\" solution.",
+			"B": "The solution is low performing, but could potentially be valuable.",
+			"C": "The solution might be high performing, but contributes lower value than expected.",
+			"D": "The BRM role isn't delivering value so the organization should write off the sunk cost and explore other customer satisfaction enhancement options."
+		},
+		"discussion": [
+			"Selected Answer: C. Scores that don't move despite a correctly implemented role fit the pattern of a solution that performs as designed but delivers less value than expected."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. The solution might be high performing, but contributes lower value than expected."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 14",
+		"question": "Chris, a CIO in the banking industry, implemented the Business Relationship Manager (BRM) role to improve customers' loyalty scores. Best practice frameworks cited the BRM role as a sure- fire way to ensure customer satisfaction. Chris implemented the role by the book by sending six new BRMs through a 4-week training course and requiring them to pass a rigorous exam to obtain BRM certification. The scores are in and customer satisfaction scores are essentially the same as they were prior to the BRM role. For the above Scenario, please answer question 2 of 3 below: Chris asked Peyton, a BA in the organization, to look a little more closely at the performance measurements and recommend a course of action. Peyton began by examining the customer satisfaction scores pre- and post- implementation of the BRM role. She finds there are no questions geared toward new BRM activities. What is her initial recommendation to the CIO?",
+		"options": {
+			"A": "Observe BRMs to ensure their daily work aligns with best practices.",
+			"B": "Conduct a focus group of customers to understand their perceptions of the BRM role.",
+			"C": "Conduct interviews with the customers that are assigned a BRM to better understand their experience.",
+			"D": "Send a survey to the customers with all questions geared toward the BRM role."
+		},
+		"discussion": [
+			"Selected Answer: D. Since the current survey doesn't ask about the BRM role at all, the direct fix is a survey specifically targeting BRM-related questions."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Send a survey to the customers with all questions geared toward the BRM role."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 15",
+		"question": "Chris, a CIO in the banking industry, implemented the Business Relationship Manager (BRM) role to improve customers' loyalty scores. Best practice frameworks cited the BRM role as a sure- fire way to ensure customer satisfaction. Chris implemented the role by the book by sending six new BRMs through a 4-week training course and requiring them to pass a rigorous exam to obtain BRM certification. The scores are in and customer satisfaction scores are essentially the same as they were prior to the BRM role. For the above Scenario, please answer question 3 of 3 below: If Chris will not authorize Peyton to proceed, how should Peyton treat the lack of measures?",
+		"options": {
+			"A": "As a solution risk.",
+			"B": "As a solution problem.",
+			"C": "As an enterprise risk.",
+			"D": "As an enterprise problem."
+		},
+		"discussion": [
+			"Selected Answer: A. When performance measures are known to be insufficient and cannot be improved right now, BABOK guidance is to treat that gap as a solution risk."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. As a solution risk."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 16",
+		"question": "Subsequent to investigating reasons for a solution's poor performance, you come to the conclusion that the solution is actually delivering an acceptable amount of value to stakeholders. For the above Scenario, please answer question 1 of 2 below: How could that happen?",
+		"options": {
+			"A": "The solution is delivering value but stakeholders aren't utilizing the solution as designed.",
+			"B": "Stakeholders' expectations changed from when the solution was first released.",
+			"C": "The business need has changed significantly so while the solution is delivering value, it's irrelevant to the current state.",
+			"D": "The initial solution measures don't accurately reflect delivered value."
+		},
+		"discussion": [
+			"Selected Answer: D. If a solution that seemed to be underperforming is actually delivering acceptable value, the most likely explanation is that the original measures didn't capture the right thing."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. The initial solution measures don't accurately reflect delivered value."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 17",
+		"question": "Subsequent to investigating reasons for a solution's poor performance, you come to the conclusion that the solution is actually delivering an acceptable amount of value to stakeholders. For the above Scenario, please answer question 2 of 2 below: What the BA's recommendation as the next step to increase solution value?",
+		"options": {
+			"A": "Suggest enhancements to the solution to increase value.",
+			"B": "Retire the solution as the business has changed to the point where it's not needed.",
+			"C": "Re-train stakeholders on how to effectively utilize the solution.",
+			"D": "Identify and define more appropriate measures so solution value is accurately reflected."
+		},
+		"discussion": [
+			"Selected Answer: D. The recommended next step is to define more appropriate measures so the solution's real value is accurately reflected going forward."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Identify and define more appropriate measures so solution value is accurately reflected."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 18",
+		"question": "Kate is a BA working in a manufacturing company. The COO believes that current downtime of the manufacturing lines is excessive. He has done the math and if downtime can be decreased by 50% per year, the organization could produce $7M more in product annually. He has asked Kate to assess the current processes related to downtime. For the above Scenario, please answer question 1 of 3 below: Where should Kate first focus her efforts?",
+		"options": {
+			"A": "Kate should begin observing downtime-related activities in order to identify areas of improvement and build rapport with production personnel.",
+			"B": "Kate should complete benchmarking to ensure the COO's objective is achievable.",
+			"C": "Kate should first determine what existing performance measures exist and if they're accurate.",
+			"D": "Kate should first identify the appropriate stakeholders and plan elicitation activities to brainstorm improvement ideas."
+		},
+		"discussion": [
+			"Selected Answer: C. Before assessing anything else, Kate needs to know what performance measures already exist and whether they can be trusted."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Kate should first determine what existing performance measures exist and if they're accurate."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 19",
+		"question": "Kate is a BA working in a manufacturing company. The COO believes that current downtime of the manufacturing lines is excessive. He has done the math and if downtime can be decreased by 50% per year, the organization could produce $7M more in product annually. He has asked Kate to assess the current processes related to downtime. For the above Scenario, please answer question 2 of 3 below: What else can you think of that Kate might want to do as one of the first steps?",
+		"options": {
+			"A": "Kate may want to begin to assess how stakeholders feel about the existing solution in terms of its ease of use.",
+			"B": "Kate might want to elicit additional ideas for performance measures from stakeholders.",
+			"C": "Kate should begin observing downtime-related activities in order to identify areas of improvement and build rapport with production personnel.",
+			"D": "It would be a great idea for Kate to get on the governance team's agenda for status updates of the initiative."
+		},
+		"discussion": [
+			"Selected Answer: B. Alongside checking existing measures, eliciting additional measurement ideas from stakeholders rounds out Kate's starting point."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Kate might want to elicit additional ideas for performance measures from stakeholders."
+	},
+	{
+		"url": null,
+		"question_no": "Solution Evaluation - Question 20",
+		"question": "Kate is a BA working in a manufacturing company. The COO believes that current downtime of the manufacturing lines is excessive. He has done the math and if downtime can be decreased by 50% per year, the organization could produce $7M more in product annually. He has asked Kate to assess the current processes related to downtime. For the above Scenario, please answer question 3 of 3 below: What type of solution performance measures will Kate focus on primarily?",
+		"options": {
+			"A": "Whatever is available and accessible.",
+			"B": "Qualitative measures.",
+			"C": "Quantitative measures.",
+			"D": "Both qualitative and quantitative measures."
+		},
+		"discussion": [
+			"Selected Answer: C. Downtime and its financial impact are countable, numerical figures, making quantitative measures the primary focus."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Quantitative measures."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 1",
+		"question": "When should the timing of business analysis work be identified?",
+		"options": {
+			"A": "After the business analysis approach document is approved and the development of a detailed plan can begin.",
+			"B": "When planning the overall business analysis approach.",
+			"C": "At the point when estimates are needed to realize efficiencies from just-in-time planning.",
+			"D": "After resource leveling to ensure required resources will be available"
+		},
+		"discussion": [
+			"Selected Answer: B. Timing and sequencing of business analysis work is decided while planning the overall BA approach, before any detailed schedule is built."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. When planning the overall business analysis approach."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 2",
+		"question": "XYZ is a new organization that uses agile methodology. The organization is looking for an easy way to share business analysis information. The stakeholders decide on a whiteboard. Is this a viable solution?",
+		"options": {
+			"A": "Yes; a whiteboard is a viable information management tool.",
+			"B": "No; the information shared on whiteboards can be too easily altered or erased and so is too risky.",
+			"C": "No; information management tools must enable the reuse of business analysis information.",
+			"D": "Yes; stakeholders involved in the project are in the best position to determine how to share business analysis information."
+		},
+		"discussion": [
+			"Selected Answer: B. Information on a whiteboard is too easily altered or erased, so it does not meet the need for a reliable, reusable business analysis information store, even in an agile setting."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. No; the information shared on whiteboards can be too easily altered or erased and so is too risky."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 3",
+		"question": "Guidelines and tools included in the plan stakeholder engagement task include which of the following?",
+		"options": {
+			"A": "Business analysis performance assessment, change strategy, stakeholder engagement approach",
+			"B": "Business analysis performance assessment, expert judgement, methodologies and frameworks",
+			"C": "Business analysis performance assessment, business policies, current state description.",
+			"D": "Business analysis performance assessment, change strategy, current state description"
+		},
+		"discussion": [
+			"Selected Answer: D. The guidelines and tools for Plan Stakeholder Engagement are Business Analysis Performance Assessment, Business Policies, and Current State Description."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Business analysis performance assessment, change strategy, current state description"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 4",
+		"question": "Which of the following sets represents key concepts that are needed to understand how to effectively perform the plan business analysis governance task?",
+		"options": {
+			"A": "Performance analysis, change control process, plan prioritization approach, plan for approvals",
+			"B": "Organization of business analysis information, change control process, plan prioritization approach, plan for approvals.",
+			"C": "Decision making, change control process, plan prioritization approach, plan for approvals.",
+			"D": "Decision making, change control process, plan prioritization approach, level of abstraction, plan for approvals."
+		},
+		"discussion": [
+			"Selected Answer: C. Plan Business Analysis Governance is built around decision making, the change control process, the prioritization approach, and the approach for approvals."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. Decision making, change control process, plan prioritization approach, plan for approvals."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 5",
+		"question": "Which of the following is included within the business analysis approach?",
+		"options": {
+			"A": "Methodologies and frameworks",
+			"B": "The timing and the sequence of the business analysis work",
+			"C": "Workshops",
+			"D": "Corrective and preventive actions"
+		},
+		"discussion": [
+			"Selected Answer: B. The business analysis approach defines how and when BA tasks will be performed, including their timing and sequence."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. The timing and the sequence of the business analysis work"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 6",
+		"question": "Modupe has just completed defining a governance process when a stakeholder who has been declining meeting invitations to define the process voiced some concerns to the sponsor regarding the team's decisions. The raised concerns have resulted in more issues and the stakeholders cannot come to a consensus. What consideration would help resolve this deadlock?",
+		"options": {
+			"A": "Plan prioritization approach",
+			"B": "Change control process",
+			"C": "Plan for approvals",
+			"D": "Decision making"
+		},
+		"discussion": [
+			"Selected Answer: D. A deadlock caused by a stakeholder who was never part of the original decision process points back to how decision making --- participants, roles, and escalation paths --- was defined."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Decision making"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 7",
+		"question": "A business analyst intern wants to be able to make trade-offs between requirements, identify stakeholders affected by potential changes, and understand the effect of a proposed change. Where would you advise the intern to look for this information?",
+		"options": {
+			"A": "Traceability document",
+			"B": "Requirements attributes",
+			"C": "Repository",
+			"D": "Business policies document"
+		},
+		"discussion": [
+			"Selected Answer: A. A traceability document shows how requirements relate to one another and to solution components, which is exactly what's needed to assess trade-offs and change impact."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Traceability document"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 8",
+		"question": "As soon as you were assigned as the BA to an initiative, you were advised to begin planning the governance approach to define how decisions will be made about requirements and designs. What would you expect to have available to you in order to create this plan?",
+		"options": {
+			"A": "Business policies and the current state description",
+			"B": "Business policies and legal/regulatory information",
+			"C": "The business analysis approach and the stakeholder engagement approach",
+			"D": "The current state description and lessons learned documentation from previous, similar projects"
+		},
+		"discussion": [
+			"Selected Answer: C. Plan Business Analysis Governance takes the Business Analysis Approach and Stakeholder Engagement Approach as its direct inputs."
+		],
+		"vote_counts": {
+			"C": 1
+		},
+		"most_voted": "C",
+		"community_answer": "C. The business analysis approach and the stakeholder engagement approach"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 9",
+		"question": "Which of the following statements accurately describes stakeholder attitudes?",
+		"options": {
+			"A": "Business analysts perform stakeholder analysis to identify stakeholders with negative attitudes as they pose a risk to the success of business analysis work.",
+			"B": "Knowing how a stakeholder perceives the initiative enables the business analyst to plan for collaboration and engagement with that stakeholder.",
+			"C": "Stakeholder attitudes are identified within the stakeholder engagement element.",
+			"D": "Stakeholder attitudes typically impact a change negatively."
+		},
+		"discussion": [
+			"Selected Answer: B. Understanding a stakeholder's attitude lets the BA tailor how they engage and collaborate with that person."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Knowing how a stakeholder perceives the initiative enables the business analyst to plan for collaboration and engagement with that stakeholder."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 10",
+		"question": "You are developing an approach for how business artifacts will be stored, accessed, and shared. Which set of stakeholders would you involve in this task?",
+		"options": {
+			"A": "Project manager, domain subject matter expert, regulator, sponsor.",
+			"B": "Domain subject matter expert, regulator, sponsor.",
+			"C": "Domain subject matter expert, tester, regulator.",
+			"D": "Sponsor, domain subject matter expert, regulator, customer."
+		},
+		"discussion": [
+			"Selected Answer: B. The stakeholders for Plan Business Analysis Information Management are Domain SME, Regulator, and Sponsor."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Domain subject matter expert, regulator, sponsor."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 11",
+		"question": "Which of the following guidelines/tools is used for improved assessment of stakeholder impact and the development of more effective stakeholder engagement strategies?",
+		"options": {
+			"A": "Business policies",
+			"B": "Methodologies and frameworks",
+			"C": "Change strategy",
+			"D": "Business analysis performance assessment"
+		},
+		"discussion": [
+			"Selected Answer: D. Business Analysis Performance Assessment data on past stakeholder engagement is what informs a better future engagement strategy."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Business analysis performance assessment"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 12",
+		"question": "In order to plan the most effective business analysis approach, the BA must take into consideration which of the following?",
+		"options": {
+			"A": "Information management tools",
+			"B": "Outputs from the business analysis performance assessment",
+			"C": "Available metadata",
+			"D": "The amount of time the BA has allocated to the initiative"
+		},
+		"discussion": [
+			"Selected Answer: B. Prior Business Analysis Performance Assessment results are a guideline/tool that shapes how the next BA approach is planned."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Outputs from the business analysis performance assessment"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 13",
+		"question": "Defining an approach for how business analysis data will be stored and accessed represents the purpose of which task?",
+		"options": {
+			"A": "Plan business analysis approach",
+			"B": "Plan business analysis information management",
+			"C": "Plan business analysis governance",
+			"D": "Plan business analysis data management process"
+		},
+		"discussion": [
+			"Selected Answer: B. Deciding how BA data will be stored and accessed is the definition of Plan Business Analysis Information Management."
+		],
+		"vote_counts": {
+			"B": 1
+		},
+		"most_voted": "B",
+		"community_answer": "B. Plan business analysis information management"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 14",
+		"question": "Which business analysis stakeholder role is involved in all tasks performed to organize and coordinate the efforts of business analyst and stakeholders?",
+		"options": {
+			"A": "Project manager",
+			"B": "Regulator",
+			"C": "Supplier",
+			"D": "Domain subject matter expert"
+		},
+		"discussion": [
+			"Selected Answer: D. Domain SME is the only stakeholder role listed against every task in this knowledge area."
+		],
+		"vote_counts": {
+			"D": 1
+		},
+		"most_voted": "D",
+		"community_answer": "D. Domain subject matter expert"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 15",
+		"question": "Many planning methods fit somewhere along a continuum between __________ and _________ approaches. Which of the following best completes the statement above?",
+		"options": {
+			"A": "Predictive; adaptive",
+			"B": "Plan-driven; change-driven",
+			"C": "Predictive; value-driven",
+			"D": "Event-driven; date-driven"
+		},
+		"discussion": [
+			"Selected Answer: A. Planning methods sit on a continuum between predictive and adaptive approaches."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Predictive; adaptive"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 16",
+		"question": "Akira is closely managing particular stakeholders who can impose their own requirements for how business analysis information should be managed during the governance process. Which stakeholders are they?",
+		"options": {
+			"A": "Regulators",
+			"B": "Domain subject matter experts",
+			"C": "Project managers",
+			"D": "Sponsors"
+		},
+		"discussion": [
+			"Selected Answer: A. Regulators are the stakeholders most likely to impose mandatory requirements on how information must be managed."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Regulators"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 17",
+		"question": "Elements included in the plan business analysis approach task include which of the following?",
+		"options": {
+			"A": "Planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance.",
+			"B": "Planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance, attitudes.",
+			"C": "Planning approach, perform stakeholder analysis, business analysis activities, timing of business analysis work, complexity and risk, acceptance.",
+			"D": "Communication needs, planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance."
+		},
+		"discussion": [
+			"Selected Answer: A. The elements of Plan Business Analysis Approach are planning approach, formality/level of detail, BA activities, timing, complexity and risk, and acceptance --- \"attitudes\" is not one of them."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 18",
+		"question": "Elements included in the identify business analysis performance improvements task include which of the following?",
+		"options": {
+			"A": "Performance analysis, assessment measures, analyze results, recommend actions for improvement",
+			"B": "Performance reporting, assessment measures, analyze results, recommend actions for improvement",
+			"C": "Performance analysis, assessment measures, variance analysis, recommend actions for improvement",
+			"D": "Performance reporting, assessment measures, variance analysis, recommend actions for improvement"
+		},
+		"discussion": [
+			"Selected Answer: A. Identify Business Analysis Performance Improvements is built from performance analysis, assessment measures, analyzing results, and recommending actions for improvement."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Performance analysis, assessment measures, analyze results, recommend actions for improvement"
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 19",
+		"question": "Elements included in the plan business analysis approach task include which of the following?",
+		"options": {
+			"A": "Planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance.",
+			"B": "Planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance, attitudes.",
+			"C": "Planning approach, perform stakeholder analysis, business analysis activities, timing of business analysis work, complexity and risk, acceptance.",
+			"D": "Communication needs, planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance."
+		},
+		"discussion": [
+			"Selected Answer: A. Same element set as the Plan Business Analysis Approach task: planning approach, formality/level of detail, BA activities, timing, complexity and risk, acceptance."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Planning approach, formality and level of detail of deliverables, business analysis activities, timing of business analysis work, complexity and risk, acceptance."
+	},
+	{
+		"url": null,
+		"question_no": "Business Analysis Planning & Monitoring - Question 20",
+		"question": "Which of the following lists represents inputs required in the task charged with developing an approach for how business artifacts will be stored, accessed, and shared?",
+		"options": {
+			"A": "Governance approach, stakeholder engagement approach, business analysis approach.",
+			"B": "Performance objectives (external), governance approach, stakeholder engagement approach, business analysis approach.",
+			"C": "Governance approach, stakeholder engagement approach, business analysis approach, requirements(Validated).",
+			"D": "Governance approach, stakeholder engagement approach, needs, business analysis approach."
+		},
+		"discussion": [
+			"Selected Answer: A. Plan Business Analysis Information Management takes the Governance Approach, Stakeholder Engagement Approach, and Business Analysis Approach as inputs."
+		],
+		"vote_counts": {
+			"A": 1
+		},
+		"most_voted": "A",
+		"community_answer": "A. Governance approach, stakeholder engagement approach, business analysis approach."
+	}
+]
