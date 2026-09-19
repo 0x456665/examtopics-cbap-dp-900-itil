@@ -1,0 +1,2183 @@
+[
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 1",
+    "question": "The authority to extend or approve credit is granted to individual credit officer based on their grades, portfolonand length of stay in the organization.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. The authority to extend or approve credit will be granted to individual credit officers based upon a consistent set of standards of experience, judgment, and ability. At Access Bank, responsibility and accountability will be matched by appropriate authority to perform job duties and achieve desired results and outcomes. – Section 6.2.10.3"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 2",
+    "question": "In underwriting and distribution activities, in the event of a commitment to purchase a security or other debt instrument from an issuer or seller, there is a risk of inability to sell instrument within a predetermined distribution period to an investor or purchaser.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.2 Issuer Risk) In underwriting and distribution activities, in the event of a commitment to purchase a security or other debt instrument from an issuer or seller, there is a risk of inability to sell the instrument within a predetermined distribution period to an investor or purchaser. In this event, direct lending risk and unintended price risk is created. This risk is sometimes also described as issuer risk."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 3",
+    "question": "Price risk is the risk that market conditions may change for an individual instrument or for all securities of the same general class.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.8 Price Risk) Price risk is the risk that market conditions may change for an individual instrument or for all securities of the same general class. For example, a change in the level of interest rates affects the price of all interest rate sensitive instruments. Price risk is not to be confused with issuer risk, which describes price changes attributable to real and perceives changes in the quality of a particular issuer and instrument."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 4",
+    "question": "Fiduciary risk occurs when the bank is charge with the responsibilities of acting as a trustee for third parties i.e. if a trust agreement is not in place clearly outlining the duties and responsibilities of the bank and when the bank may be exposed to potential or real conflict of interest",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.10 Fiduciary Risk) Fiduciary risk occurs when the bank is charged with the responsibility of acting as a trustee for third parties."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 5",
+    "question": "Is it right to state that in the absence of approved credit programs, transaction for individual customers or customer relationships will be treated as individual/business credit?",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.9.2 Individual / Business Credit) In the absence of approved credit programs, transactions for individual customers or customer relationships will be treated as individual/business credits. With this approach, credit is approved using the approval process as defined in the risk management policies to the bank. This shall entail detailed and comprehensive evaluation of the proposed transaction in the context of existing exposures to a particular customer. Credit approval may be for a single, simple product or for a series of large complex transactions."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 6",
+    "question": "Risk rating limits is the only mechanism to control the Bank’s portfolio of credit exposures.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 5.3.5 Risk Rating Limits) Access Bank will use Risk Rating Limits as the primary mechanism not the only mechanism to control its portfolio of credit exposures."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 7",
+    "question": "For purposes of applying Risk rating limits, which of the following is true; the obligor risk rating that is used must be:",
+    "options": {
+      "A": "For corporations, the obligor risk rating of the present company",
+      "B": "For bank syndicated loans, the risk rating of the bank",
+      "C": "For other entities, the risk rating as determined in accordance with the Risk Rating Policy.",
+      "D": "All the above"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 5.3.5.1 Measuring Exposure against Risk Rating Limits) \"The Risk Rating Limit process outlined below applies to exposure at the overall relationship level. For the purposes of applying Risk Rating Limits, the obligor risk rating that is used must be: • For corporations, the obligor risk rating of the parent company. • For banks, the risk rating of the lead bank. • For other entity types, the risk rating as determined in accordance Access Bank’s Risk Rating Policy. Exposure against Risk Rating Limits is measured as the Outstanding’s and Unused Commitments (“OSUC”) to a given relationship. • OSUC is the sum of all Outstandings (including Direct and Contingent Exposure) against Total Facilities, as well as the unused portion of any Committed Facility included in Total Facilities. • OSUC does not include settlement and clearing exposure, or the Underwritten Position of a credit underwriting transaction unless the position becomes aged beyond the Extension Period. • For purposes of measuring exposure against Risk Rating Limit tenor buckets, contractual principal repayments may be taken into consideration."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All the above"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 8",
+    "question": "A proposal or marketing letter does not require credit approval if it does not obligate the bank in any way.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 5.3.6 Establish Total Facilities) A proposal or marketing letter does not require credit approval if it expressly disclaims any commitment or any undertaking to provide a commitment or other services and does not obligate Access Bank in any way."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 9",
+    "question": "All extensions of credit or individual / Business credit transactions shall require concurrence of at least 5 bank officers whose role pertain to creating credit",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.2.10.4.2 Guidelines for Determining Approval Authority and Level) All extensions of credit or Individual/Business transactions shall require concurrence of a minimum of three (3) bank officers whose role pertain to creating credit."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 10",
+    "question": "When an established credit facility undergoes a material change in terms, total facility must be re-approved. Who determines materiality?",
+    "options": {
+      "A": "RM",
+      "B": "Head of Risk",
+      "C": "MCC",
+      "D": "BCC"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.2.14 Drawdown of Approved Facilities) \"When an established credit facility undergoes a material change in terms, tenor or conditions (with materiality determined by the Head of Risk), Total Facilities must be reapproved, in accordance with the Credit Facility Approval Authority Limits."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Head of Risk"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 11",
+    "question": "The following are examples of credit products that can qualify as term loans except",
+    "options": {
+      "A": "Equipment financing",
+      "B": "Operating expenses",
+      "C": "Asset replacement"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.6.1 Term / Time Loan) Operating expenses are short term requirements"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Operating expenses"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 12",
+    "question": "Periodic stock taking is required to verify the quantity and quality of goods financed.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.6.5 Warehouse Financing) \"Periodic stock taking is required to verify the quantity and quality of goods financed. The frequency may vary with the type of goods.\""
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 13",
+    "question": "Disrepute could result in loss of business and reduced profit. Considering all the negative results of non-compliance to regulations, \"We are in a much better situation\"complying with them.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 5.2.18 Identification of adverse outcomes) Loss of reputation due to unethical business practices is likely to cause significant losses and must be avoided at all costs."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 14",
+    "question": "The type of customer selected to be approached for banking services would depend on whether the company falls within the Bank’s target market and that the company falls within our risk acceptance criteria.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.1.4 Target Market and Risk Acceptance CriteriA) Two well established techniques for expressing risk appetite and which shall play critical roles in portfolio management in Access Bank are “Target market definition” and “Risk acceptance criteria”"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 15",
+    "question": "Delinquent facilities where normal repayment of principal and/or interest is in arrears for more than 90 days, but less than 360 days shall be reviewed at _____ meeting\"",
+    "options": {
+      "A": "Management Credit Committee (MCC)",
+      "B": "Criticized Assets Committee (CAC)",
+      "C": "Enterprise Risk Management Committee (ERMC)",
+      "D": "Digital Credit Committee (DCC)"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 4.2.1.5 Criticized Assets Committee) The Criticized Assets Committee shall review all such facilities where normal repayment of principal and/or interest is in arrears for more than 90 days but less than 360 days"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Criticized Assets Committee (CAC)"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 16",
+    "question": "Management Credit Committee (MCC) approvals may also be obtained by telephone/video conference meetings\"",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 4.2.1.4 Composition, Quorum and Frequency) \"In exceptional circumstances, MCC approvals may be obtained by telephone/video conference meetings or written comments and formal approval of MCC members properly captured in the MCC minutes\""
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 17",
+    "question": "\"_____________ is the secretariat of the Management Credit Committee (MCC) meeting?\"",
+    "options": {
+      "A": "Relationship Manager",
+      "B": "Credit Governance",
+      "C": "Credit Portfolio Management",
+      "D": "ESRM"
+    },
+    "discussion": [
+      "Selected Answer: B. The Credit Governance Team shall act as Secretariat of the MCC (Section 4.2.1.4 Composition, Quorum and Frequency)"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Credit Governance"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 18",
+    "question": "Which of the following is not a responsibility of the Credit Portfolio Management Unit?\"",
+    "options": {
+      "A": "Laying down risk assessment systems, monitor quality of loan portfolio, identify problems and correct deficiencies, develop MIS and undertake loan portfolio review.",
+      "B": "Monitor the exposure and risk limits set by the bank under various dimensions on a continuous basis.",
+      "C": "Exploring out-of-court settlement.",
+      "D": "Maintain database on bank-wide credit portfolio and up-to-date accurate record performance of individual credit exposures"
+    },
+    "discussion": [
+      "Selected Answer: C. (4.2.2.3 Credit Portfolio Management) It is the Remedial assets team that may be responsible for Exploring out-of-court settlement."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Exploring out-of-court settlement."
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 19",
+    "question": "The objectives of the Bank’s risk acceptance criteria include the following except\"",
+    "options": {
+      "A": "improving the quality of appraisal",
+      "B": "reducing the turnaround time",
+      "C": "first level filtering mechanism to decide whether the applicant should be subjected to a more detailed review.",
+      "D": "none of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 5.2.1 Acceptance CriteriA) Access Bank will operate within a sound and well-defined criterion for fresh credit request from new customer as well as existing customer, with an objective of improving the quality of appraisal, reducing the turnaround time there by optimizing cost. Acceptance Criteria will be used as an entry level filtering mechanism to decide whether the applicant should be subjected to a detailed appraisal."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. none of the above"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 20",
+    "question": "Which of the following is not on the Bank’s Negative List?\"",
+    "options": {
+      "A": "Defence / Weapons procurements for unauthorized contractors",
+      "B": "Production of Ozone depleting materials",
+      "C": "Large construction projects",
+      "D": "Loans to finance a company acquisition, which is expected to be “hostile”."
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 5.2.2 Negative List) Full Negative list is available in section 5.2.2 Negative List of the CPG"
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Large construction projects"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 21",
+    "question": "Insider Related loans include the following except\"",
+    "options": {
+      "A": "Loans to thebank’s directors",
+      "B": "Loans to the significant Shareholders of the bank",
+      "C": "Loan to thefamily members of directors of the bank",
+      "D": "Credits granted to employees under their employment scheme of service."
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 5.2.6 Insider Related Exposures) Insider Related loans are credit facilities granted by the Bank to its own officers, managers, directors, significant shareholders and other related entities (section 3.5 of the Prudential Guidelines July 2010 and BOFIA as amendeD) . These do not apply to credits extended to employees under their employment scheme of service, or to shareholders whose shareholding and related interests are less than 5% of the bank’s paid- up capital as at the date of the financial report or to public limited liability companies in which a director has an interest that is less than 5%."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Credits granted to employees under their employment scheme of service."
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 22",
+    "question": "The portfolio plan is updated and approved on a ____ basis\"",
+    "options": {
+      "A": "Monthly.",
+      "B": "Quarterly",
+      "C": "Weekly.",
+      "D": "Yearly"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.1 Credit Risk Portfolio Planning) The credit risk portfolio plan shall be prepared by Credit Portfolio Management and approved by the Board at the beginning of every financial year."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Yearly"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 23",
+    "question": "The core objective of the Credit Risk Management Policy Guide is to enable",
+    "options": {
+      "A": "The minimization of returns on the bank’s credit risk portfolio, from a risk adjusted perspective",
+      "B": "The maximization of returns on the bank’s credit risk portfolio, from a risk adjusted perspective",
+      "C": "The maximization of returns on the bank’s credit risk portfolio, from a return adjusted perspective",
+      "D": "None of the above"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 2.1 Core Objective) The core objective of the Credit Risk Management Policy Guide is to enable maximization of returns on the bank’s credit risk portfolio, from a risk adjusted perspective. This is done by putting in place robust Credit Risk Management Systems consisting of Risk Identification, Risk Measurement, Setting of Exposure & Risk Limits, Risk Monitoring & Control and Reporting of Credit Risk in the Banking Book."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The maximization of returns on the bank’s credit risk portfolio, from a risk adjusted perspective"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 24",
+    "question": "What does the Bank’s Risk Management philosophy seeks to achieve?",
+    "options": {
+      "A": "Sustainable growth in employees’ value and reputation",
+      "B": "Sustainable growth in shareholders’ value and reputation",
+      "C": "Sustainable growth in communities’ value and reputation",
+      "D": "Sustainable growth in markets’ value and reputation"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.2 Risk Management Philosophy of the Bank) The Bank’s Risk Management philosophy is that moderate and guarded risk attitude will ensure sustainable growth in shareholder value and reputation."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Sustainable growth in shareholders’ value and reputation"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 25",
+    "question": "The Risk Appreciation Program shall be on",
+    "options": {
+      "A": "an ongoing basis",
+      "B": "a need basis",
+      "C": "an annual basis",
+      "D": "a quarterly basis"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.4.1 Risk Appreciation Programme) The program shall be held on a need basis"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. a need basis"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 26",
+    "question": "A Bank Guarantee requires",
+    "options": {
+      "A": "no cash cover",
+      "B": "50% cash cover",
+      "C": "75% cash cover",
+      "D": "100% cash cover"
+    },
+    "discussion": [
+      "Selected Answer: D. Bank Guarantees - (Section3.6.12 Off-Balance Sheet Credit Facilities) This will include guarantees issued by the bank to third parties on behalf of a customer. These lines are contingent liabilities and shall require 100% cash cover, a counter indemnity from a first-class Bank or adequate acceptable tangible security cover."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 100% cash cover"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 27",
+    "question": "Approved credit product programs shall specify -------- program limit and -------- individual limit per customer",
+    "options": {
+      "A": "maximum, minimum",
+      "B": "minimum, maximum",
+      "C": "maximum, maximum",
+      "D": "minimum, minimum"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 3.6.11 Credit Product Programs) Approved credit product programs shall: specify maximum program limit and maximum individual limit per customer."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. maximum, maximum"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 28",
+    "question": "Import Finance Facility is targeted at customers",
+    "options": {
+      "A": "who have shown huge volume in import transactions",
+      "B": "who do not have challenges with import transactions",
+      "C": "who have established irregular demand for foreign exchange",
+      "D": "who do not have a strong presence in the import market"
+    },
+    "discussion": [
+      "Selected Answer: A. Import finance facility (Section 3.6.9 Import finance facility) This facility is designed as a working capital facility for customers engaged in importation of goods. The tenor of an IFF shall be up to 12 months, subject to renewal. It is targeted at customers who have shown huge volume of import transactions and have established regular demand for foreign exchange."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. who have shown huge volume in import transactions"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 29",
+    "question": "The Staff Loan Policy shall be subject to periodic review by the",
+    "options": {
+      "A": "CRO",
+      "B": "MCC",
+      "C": "BCC",
+      "D": "the Board of Directors"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 3.6.6 Loans to Staff) Loans to staff will comply with the guidelines stated in the Staff Loan Policy, which shall be subject to periodic review by the Board."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. the Board of Directors"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 30",
+    "question": "A time loan is usually for tenors longer than one year, while a term loan is for tenors of one year or less",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.6.1 Term / Time Loan) Time loans are 12 Months or less while Term loans are greater than 12 months."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 31",
+    "question": "Price Risk",
+    "options": {
+      "A": "is the risk that market conditions may change for an individual instrument or for all securities of the same general class",
+      "B": "occurs when the bank invests in, holds or receives equity, equity-like securities or other junior securities in non-affiliated entities",
+      "C": "is risk that the bank may be unable to meet its financial commitments to customers or markets when due",
+      "D": "is the risk of default on a contractual obligation before settlement of the contract by a counter party in a transaction"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.8 Price Risk) Price risk is the risk that market conditions may change for an individual instrument or for all securities of the same class"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. is the risk that market conditions may change for an individual instrument or for all securities of the same general class"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 32",
+    "question": "All credit extensions to corporate obligations must be secured by an all-assets debenture",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 7.7.2 Collateral) It is Access Bank policy that all credit extensions to corporate obligors shall be secured by all assets debenture"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 33",
+    "question": "Who is responsible for the implementation of the collateral management plan?",
+    "options": {
+      "A": "Credit risk Management",
+      "B": "Relationship management",
+      "C": "Legal department",
+      "D": "Administrative department"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 7.4 Implementation of policy) The policy guidelines (Collateral Management Policy) will be followed by all business units that deal with assets i.e. credit exposure creation and development, exposure management, delinquency management and loan recovery. The policy will be implemented by Credit Risk Management Department."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Credit risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 34",
+    "question": "Consideration of waivers of interest and /or credit charge shall be limited to credit exposures classified as very doubtful.\"",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 8.3.2 Interest and Charge Waivers) Consideration of waivers of interest and/or credit charge shall be limited to credit exposures classified as lost (i.e. after prospect of full recovery are dim and there is no realizable security)"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 35",
+    "question": "Clearing risk is the risk that the bank may be reimbursed on another value date for payments made on behalf of customers. \"",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.6 Clearing Risk) Clearing risk is the risk that the bank may not be reimbursed on the same value date for payments made on behalf of customers."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 36",
+    "question": "Country risk events may include political events.\"",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.14 Country Risk) This is a broad risk category that encompasses political risk, transfer risk and convertibility risk."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 37",
+    "question": "Regardless of Risk Rating Limits, Legal Lending Limits will always prevail. \"",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 5.3.5 Risk Rating Limits) Note that regardless of the Risk Rating Limits, Legal Lending Limits set by the Regulators shall always prevail"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 38",
+    "question": "The Bank will not take any action that may compromise its integrity.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.2 Risk Management Philosophy of the Bank) The Bank’s Risk Management philosophy is that moderate and guarded risk attitude will ensure sustainable growth in shareholder value and reputation."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 39",
+    "question": "A key principle of credit policy is that the Bank will always comply with all Government regulations.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 10.7.5.2 Compliance Risk) Compliance risk can lead to a diminished reputation, reduced franchise value, limited business opportunities, lessened expansion potential, and lack of contract enforceability."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 40",
+    "question": "What cannot be a substitute for a comprehensive assessment of the borrower or the counterparty?",
+    "options": {
+      "A": "Credit derivatives",
+      "B": "Collateral",
+      "C": "Guarantees",
+      "D": "Financial strength and debt-servicing capacity"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 7.5 Credit Risk Mitigants) Collateral cannot be a substitute for a comprehensive assessment of the borrower or the counterparty, nor can it compensate for insufficient information"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Collateral"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 41",
+    "question": "What characteristic does collateral need to have regarding liquidity?",
+    "options": {
+      "A": "It should be difficult to liquidate",
+      "B": "It should be easy to liquidate without a significant reduction in its realizable value",
+      "C": "It should have a fluctuating market value",
+      "D": "It should have a high correlation with the underlying exposure"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 7.7.2.1 Selection of Collateral / Eligibility CriteriA) Liquidity: Collateral should be easily liquidated without resulting in any material reduction in its realizable value"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. It should be easy to liquidate without a significant reduction in its realizable value"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 42",
+    "question": "Life assurance policies can stand alone as security for facilities without any additional collateral.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 7.7.2.3.5 Life Assurance Policies) life assurance policies cannot stand alone as security for facilities, but must be additional to some other forms of tangible collateral"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 43",
+    "question": "What is a requirement for the realizable value of collateral?",
+    "options": {
+      "A": "The value must be depreciating",
+      "B": "The value should be appreciating or at least stable",
+      "C": "The value must be decreasing rapidly",
+      "D": "The value should be volatile"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 7.7.2.5.2 Realizable Value) Collateral value must be appreciating or at least stable"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The value should be appreciating or at least stable"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 44",
+    "question": "Waivers or amendments for facilities exceeding the MD/CEO limit for credits require approval by the responsible business ED.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 7.7.2.14 Waivers or Amendments to Existing Legal Documentation) Requests to waive or amend the provisions contained in existing credit agreements must be considered carefully, as they may be a critical component of problem identification and remedial management activities. Such requests must be approved by the responsible business ED and in accordance with the Credit Approval Grid, but not to exceed the MD/CEO limit for credits. Any waiver or amendments for facilities above that must be approved by the MD"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 45",
+    "question": "Which of the following is NOT included in a collateral valuation report?",
+    "options": {
+      "A": "Description of the assignment",
+      "B": "Assumption upon which the valuation is based",
+      "C": "History of the borrower's loan repayments",
+      "D": "Valuation principles and methods used"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 7.7.2.17.3 Minimum Requirements to be included in report on Collateral Valuation) The type, content, and length of a report vary according to the intended user, legal requirements, the property type, and the nature and complexity of the assignment. It includes ➢ Valuation date ➢ Description of Assignment ➢ Purpose and Scope of the Report ➢ Valuation Approach Summary ➢ Description of the Obligor ➢ Description of the asset (collateral) including date of purchase, technical specifications etc. ➢ Capitalization and Ownership of the collateral ➢ Fair Market Value of the collateral ➢ Forced Sale Value ➢ Insurable Value ➢ Other Value as and when required:"
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. History of the borrower's loan repayments"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 46",
+    "question": "What is the primary requirement for a guarantee to be acceptable?",
+    "options": {
+      "A": "It should be conditional",
+      "B": "It should be revocable",
+      "C": "It should be legally enforceable",
+      "D": "It should not be referenced to specific exposures"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 7.7.3.1 Guideline on Acceptance of the Guarantee) Guarantee should be properly documented and legally enforceable"
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. It should be legally enforceable"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 47",
+    "question": "Delinquency management aims to minimize credit loss to the bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 8 Delinquency Management and Loan Workout) In the undesired event of decline in quality of assets, prompt identification and management of such delinquency may significantly reduce credit loss to the bank."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 48",
+    "question": "Non-performing loans should be classified into four categories: sub-standard, doubtful, lost, and standard.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 8.1.2 Non-performing Loans) Non-performing loans are loans that are classified as defaulted as per the default definition of the bank. They should be classified into three categories namely, substandard, doubtful or lost on the basis of criteria below:"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 49",
+    "question": "Portfolio management is not an integral part of the credit process and shall apply to all businesses of the bank and include all risk assets’ exposures.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 9.1 Portfolio Management Policies) Portfolio management is an integral part of the credit process and shall apply to all businesses of the bank and include all risk assets’ exposures."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 50",
+    "question": "It is not critical to the successful implementation of these credit policies that the comprehensive set of credit risk data generated by the businesses is identified and communicated throughout the applicable businesses, Credit Risk Management and senior management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 9.2 Management Reporting) It is critical to the successful implementation of these credit policies that the comprehensive set of credit risk data generated by the businesses is identified and communicated throughout the applicable businesses, Credit Risk Management and senior management."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 51",
+    "question": "Access Bank Credit Risk Management shall provide accurate, timely and complete credit reporting on obligor and portfolio basis for informed management decision making.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 9.2.4 Operational Level Reports) Access Bank Credit Risk Management shall provide accurate, timely and complete credit reporting on obligor and portfolio basis for informed management decision-making. Lending decisions are made on the basis of the provided information."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 52",
+    "question": "Why is deliberate portfolio strategy crucial for optimizing earnings?",
+    "options": {
+      "A": "It relies on random selection and chance outcomes",
+      "B": "It ensures a systematic approach to portfolio management",
+      "C": "It encourages impulsive decision-making",
+      "D": "It disregards performance assessment and reporting"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 9.1 Portfolio Management Policies) To ensure optimal earnings through high quality risk portfolio, deliberate portfolio strategy, planning, performance assessment and reporting will be emphasized"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. It ensures a systematic approach to portfolio management"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 53",
+    "question": "What is the purpose of planning in portfolio management?",
+    "options": {
+      "A": "To make impulsive decisions based on current market trends",
+      "B": "To ignore risk factors and focus solely on potential gains",
+      "C": "To set long-term financial goals and objective",
+      "D": "To disregard performance assessment and reporting"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.1 Credit Risk Portfolio Planning) Credit portfolio planning is the starting point of the Bank’s credit risk management process. It entails an analysis and evaluation of the current portfolio structure and a clear definition and agreement of the following: The Bank’s credit portfolio goals and objectives. These usually cover the following specific areas: Quality, Composition, Growth and Profitability."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. To set long-term financial goals and objective"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 54",
+    "question": "Who is responsible for articulating risk and return preferences within the bank?",
+    "options": {
+      "A": "The Chief Financial Officer (CFO)",
+      "B": "The Executive Committee (Credit)",
+      "C": "By applying to a select few risk assets within the bank",
+      "D": "The Chief Risk Officer (Risk and Management Control)"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 9.1 Portfolio Management Policies) The Executive Committee (Credit) shall articulate risk and return preferences that will influence risk asset behaviour in the bank."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The Executive Committee (Credit)"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 55",
+    "question": "How does portfolio management contribute to Access Bank's risk mitigation efforts?",
+    "options": {
+      "A": "By increasing concentrations and volatility",
+      "B": "By disregarding performance assessment and reporting",
+      "C": "By focusing solely on short-term gains",
+      "D": "By limiting concentrations, reducing volatility, and increasing liquidity"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 9.1 Portfolio Management Policies) Portfolio Management is an integral part of the credit process that enables Access Bank to limit concentrations, reduce volatility, increase liquidity and achieve optimum earnings."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. By limiting concentrations, reducing volatility, and increasing liquidity"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 56",
+    "question": "Who are the recipients of the unauthorized overdraft reports",
+    "options": {
+      "A": "Risk management",
+      "B": "Business units",
+      "C": "Policy MCC",
+      "D": "None of the above"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 9.2.4 Operational Level Reports) Unauthorized overdraft report; Recipients: Business units"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Business units"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 57",
+    "question": "Who approves the desired credit portfolio mix?",
+    "options": {
+      "A": "The Executive Committee (Credit)",
+      "B": "The Board of Directors",
+      "C": "The Chief Risk Officer (Risk and Management Control)",
+      "D": "The Board Credit Committee"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 9.1 Portfolio Management Policies) Annually and subject to quarterly reviews, Credit Risk Management shall articulate a desired credit portfolio mix for Board Credit Committee approval"
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The Board Credit Committee"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 58",
+    "question": "What is the objective regarding Access Bank's credit exposure?",
+    "options": {
+      "A": "To leave credit exposure uncovered for maximum profit potential",
+      "B": "To limit credit exposure to a few specific industries",
+      "C": "To ensure substantially all credit exposure is covered by Portfolio Management Processes",
+      "D": "To disregard Portfolio Management Processes in credit exposure management"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 9.1 Portfolio Management Policies) It is the objective that substantially all of Access Bank’s credit exposure is covered by one or more of the following Portfolio Management Processes, which may include Industry Reviews, Country or Region Reviews, Product Reviews, Risk Rating Limit Exception Reviews, High Risk Reviews, etc."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. To ensure substantially all credit exposure is covered by Portfolio Management Processes"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 59",
+    "question": "How does Access Bank aim to manage credit exposure across different sectors?",
+    "options": {
+      "A": "By disregarding Portfolio Management Processes",
+      "B": "By exclusively relying on Industry Reviews",
+      "C": "By limiting credit exposure to specific products only",
+      "D": "By ensuring Portfolio Management Processes cover substantially all credit exposure"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 9.1 Portfolio Management Policies) It is the objective that substantially all of Access Bank’s credit exposure is covered by one or more of the following Portfolio Management Processes, which may include Industry Reviews, Country or Region Reviews, Product Reviews, Risk Rating Limit Exception Reviews, High Risk Reviews, etc."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. By ensuring Portfolio Management Processes cover substantially all credit exposure"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 60",
+    "question": "What components should each Portfolio Management Process incorporate?",
+    "options": {
+      "A": "Only setting portfolio targets and concentrations",
+      "B": "Only monitoring the portfolio risk profile and risk concentrations",
+      "C": "Setting portfolio targets and concentrations, establishing target market, risk acceptance criteria, monitoring the portfolio risk profile, and more",
+      "D": "Ignoring risk-adjusted returns and economic/market/competitive data"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 9.1 Portfolio Management Policies) Each Portfolio Management Process should incorporate the following components, as applicable. ➢ Setting portfolio targets and concentrations. ➢ Establishing target market, risk acceptance criteria and/or Key Success Factors (or equivalent). ➢ Monitoring the portfolio risk profile, risk-adjusted returns, risk concentrations, and economic/market/competitive data. ➢ Identifying and analysing trends and concentrations that could affect the risk and performance of the portfolio. ➢ Performing stress testing, as appropriate to the Business or the portfolio. ➢ Coordinating and communicating with the business and senior risk management on portfolio issues."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Setting portfolio targets and concentrations, establishing target market, risk acceptance criteria, monitoring the portfolio risk profile, and more"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 61",
+    "question": "What is the role of coordinating and communicating with the business and senior risk management in Portfolio Management?",
+    "options": {
+      "A": "To address portfolio issues and ensure alignment with risk management strategies",
+      "B": "To disregard senior risk management input",
+      "C": "To coordinate actions that could increase risk exposure",
+      "D": "To isolate the portfolio from other business functions"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 9.1 Portfolio Management Policies) This is to ensure that the business teams are consulted in the portfolio planning process."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. To address portfolio issues and ensure alignment with risk management strategies"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 62",
+    "question": "What is a key aspect of the annual review by Credit Risk Management?",
+    "options": {
+      "A": "Ignoring portfolio composition",
+      "B": "Not documenting noteworthy trends or risk concentrations",
+      "C": "Evaluating risk-adjusted returns only",
+      "D": "Documenting portfolio composition vis-à-vis targets or limits"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 9.1.2 Minimum Review Standards) All Portfolio Management Processes should include an annual review by Credit Risk Management. The review must be documented, and must include, at minimum: Portfolio composition vis-à-vis targets or limits."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Documenting portfolio composition vis-à-vis targets or limits"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 63",
+    "question": "The authority to extend or approve credit is granted to individual credit officer based on their grades, portfolio and length of stay in the organization",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.2.10.3 Assignment of Approval Authorities) The authority to extend or approve credit will be granted to individual credit officers based upon a consistent set of standards of experience, judgment, and ability. At Access Bank, responsibility and accountability will be matched by appropriate authority to perform job duties and achieve desired results and outcomes. Hence individuals and groups with responsibility for credit creation and approval shall be accordingly empowered with the appropriate level of authority to carry out their tasks."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 64",
+    "question": "The level of authority required to approve credit will increase as amounts and transaction risks increase and as risk rating worsens",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.10.3 Assignment of Approval Authorities) This is taking into consideration the increased complexity in such transactions."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 65",
+    "question": "Pre-settlement risk is the risk of default on a contractual obligation before settlement of the contract by a counter party in a transaction.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.3 Pre-settlement Risk) Pre-settlement risk (PSR) is the risk of default on a contractual obligation before settlement of the contract by a counter party in a transaction."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 66",
+    "question": "Liquidity risk is the risk that the bank may be unable to meet its financial commitments to customers or markets when due.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.9 Liquidity Risk) Liquidity risk is risk that the bank may be unable to meet its financial commitments to customers or markets when due."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 67",
+    "question": "Disclosure risk is the risk that there is disclosure of information that the bank knows or should have known to be incorrect.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.11 Disclosure Risk) Disclosure risk occurs when the bank acts as an agent to other investors, as an underwriter, or as an advisor on a transaction. the risk is that there is disclosure of information that the bank either knows or should have known to be incorrect, that the bank does not disclose actual or potential conflicts of interest, or that the bank does not disclose or delay in disclosing material information."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 68",
+    "question": "Country risk is the risk that an event in a country will impair the value of the Bank’s assets or will adversely affect the ability of obligations within that country to honor their obligation to the Bank.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.5.14 Country Risk) This is a broad risk category that encompasses political risk, transfer risk and convertibility risk. It is the risk that an event in a country (precipitated by developments within or external to a country) will impair the value of Access Bank assets or will adversely affect the ability of obligors within that country to honour their obligations to Access Bank."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 69",
+    "question": "In the unlikely event of decline in quality of assets, prompt identification and management of such delinquency may likely reduce credit loss to the bank",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 8 Delinquency Management and Loan Workout) In the undesired event of decline in quality of assets, prompt identification and management of such delinquency may significantly reduce credit loss to the bank."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 70",
+    "question": "Is it right to state that in the absence of approved credit programs, transaction for individual customers or customer relationships will be treated as individual/business credit?",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.9.2 Individual / Business Credit) In the absence of approved credit programs, transactions for individual customers or customer relationships will be treated as individual/business credits."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 71",
+    "question": "The Board Credit Committee shall meet not more than once quarterly",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 4.2.1.2.1 Composition, Quorum and Frequency) The Board Credit Committee shall meet at least once quarterly. However, special Board Credit Committee meetings may be convened at the instance of the Chairman of the Committee."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 72",
+    "question": "For an MCC meeting to be valid, the CPG provides that such a meeting must be presided over by the GMD or GDMD only",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 4.2.1.2.1 Composition, Quorum and Frequency) For an MCC meeting to be valid, it must be presided over by the Chairman or Vice Chairman. In their absence, the Chairman may delegate any member of the Committee to act as Chairman."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 73",
+    "question": "Is it right to state that credit approval is always required for the establishment of a credit facility.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.10 Credit Approval) Credit approval is always required for the establishment of a credit facility."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 74",
+    "question": "Risk rating limits is the only mechanism to control the Bank’s portfolio of credit exposures.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 5.3.5 Risk Rating Limits) Access Bank will use Risk Rating Limits as the primary mechanism to control its portfolio of credit exposures."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 75",
+    "question": "The level of authority required to approve a credit facility is a function of the facilities amount",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.10.4.1 Determine the Required Approvals) The level of authority required for approval can be found on the Credit Facility Approval Grid, and is a function of the Total Facilities amount and the risk rating of the customer."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 76",
+    "question": "All credit requests that are above the limit of the Regional MD must be approved at the next higher appropriate level-GDMD/GMD/MCC/BCC/BOARD.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.10.4.1 Determine the Required Approvals) Credit requests that are above the limit of the Regional MDs will be approved at the next higher appropriate level MD / MCC / BCC / Board."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 77",
+    "question": "An offer letter is a commitment by the bank to lend to customers once the terms and conditions contained in the letter have been satisfied.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.15 Offer Letters) An Offer Letter is a commitment by the Bank to lend to a customer once the terms and conditions contained in the letter have been satisfied."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 78",
+    "question": "Revolving credits are short term facilities with predefined cycles that relate to the customer’s objectives and plans.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.6.2 Revolving Credits) Revolving credits are short term/tenured facilities with predefined cycles that relate to the customer’s business/trading cycle."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 79",
+    "question": "The Forced Sale Value of the goods financed ought to be adequate to cover the bank’s exposure at the commencement of the facility.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.6.5 Warehouse Financing) The forced sale value of the goods must be adequate to cover the bank’s exposure at all times."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 80",
+    "question": "All independent local policies of the country office must be endorsed by group Office Credit Risk Management and approved by the GMD",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "It depends"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 2.6 Establishment of Risk Management Policies) The countries may also originate independent local policies i.e. policies for issues not specifically addressed in Head Office policies. In addition to approval by the Head of Credit Risk Management at the country level and MD for the relevant country, such policies must be endorsed by Credit Risk Management, Group Office and approved by the MD."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 81",
+    "question": "Whose responsibility is it to ensure that the provisions of the CPG remain relevant and adequate?",
+    "options": {
+      "A": "The Board of directors",
+      "B": "Executive management",
+      "C": "Management credit committee",
+      "D": "Head, credit risk group",
+      "E": "All personnel who are involved in the credit process"
+    },
+    "discussion": [
+      "Selected Answer: E. (Section 2.8 Guidelines for Changing and Approving Policy Changes) All Access Bank personnel who are involved in the credit process and apply these guidelines on a continual basis shall be responsible for ensuring that the provisions remain relevant and adequate to address the changing needs of the environment, as well as support the achievement of the bank’s business goals and objectives."
+    ],
+    "vote_counts": {
+      "E": 1
+    },
+    "most_voted": "E",
+    "community_answer": "E. All personnel who are involved in the credit process"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 82",
+    "question": "The Board of Trustees will approve all changes to the CPG",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 4.2.1.2 Board Credit Committee) The Board Credit committee shall under delegated authority be responsible for the following: Approve changes to credit policy guidelines on the recommendation of the Management Credit Committee (MCC) ."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 83",
+    "question": "As a Banker, you must make a conscious effort to continuously strengthen your integrity.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 10.6.8 Appraisal Procedure and Lending Process) Access Bank officers (or appointed consultants where applicable) are fully responsible to the Bank and to no other institution or agency in carrying out their duties. They must therefore apply themselves with all sense of seriousness, professionalism and integrity."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 84",
+    "question": "A key principle of credit policy is that the Bank will always comply with all Government regulations.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 5.3.3.1 Regulatory Considerations) Access Bank Plc is subject to laws and regulations issued by the Central Bank of Nigeria, or other agencies of the Federal Republic of Nigeria that are established for the regulation of financial institutions."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 85",
+    "question": "If we break regulations and this information reaches the market, our reputation will be diminished.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 10.7.5.2) Compliance risk can lead to a diminished reputation."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 86",
+    "question": "A letter of credit (LC) is a conditional written undertaking issued by a bank to an exporter (beneficiary) at the request of an importer (applicant) to effect payment for a stated amount against a presentation of document that complies with the terms of the LC.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.6.14 Letter of Credit) A letter of credit (LC) is a conditional written undertaking issued by a bank to an exporter (beneficiary) at the request of an importer (applicant) to effect payment for a stated amount against a presentation of document that complies with the terms of the LC."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 87",
+    "question": "Access Bank can buy or fund the purchase of a capital asset at a client’s request and hire or lease it to them at an agreed rental.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 3.6.4 Lease Facilities) A lease facility exists where Access Bank acquires or funds the acquisition of capital assets at a client’s request and then hires or leases the asset back to the client for an agreed periodic rental."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 88",
+    "question": "The title of a financed capital asset resides with the client until the last instalment is paid and the client exercises its option to purchase the asset at the pre-determined price stated in the lease agreement.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 3.6.4 Lease Facilities) Title to the asset remains with the bank until when fully repaid and the client exercises the option to purchase the asset for a predetermined price."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 89",
+    "question": "What is a key responsibility of the relationship manager in facility performance monitoring?",
+    "options": {
+      "A": "Ignoring credit terms and conditions",
+      "B": "Monitor performance of credit facilities and confirming adherence to credit terms and conditions on an ongoing basis.",
+      "C": "Avoiding industry and market evaluations."
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.3.14 Facility Performance Monitoring) The relationship manager with responsibility for each customer relationship shall on an ongoing basis monitor the performance of individual credit facilities and confirm adherence to credit terms and conditions."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Monitor performance of credit facilities and confirming adherence to credit terms and conditions on an ongoing basis."
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 90",
+    "question": "Why are financial and non-financial covenants mandated for credit facilities?",
+    "options": {
+      "A": "To increase the complexity of loan agreements",
+      "B": "To facilitate monitoring and control activities efficiently",
+      "C": "To discourage continuous monitoring",
+      "D": "To eliminate any form of analysis on obligors' performance."
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.3.15 Standard Financial and Non-Financial Covenants) Financial and Non-Financial Covenants are mandated in order to monitor the financial and overall performance of the obligors with regard to the credit facilities granted."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. To facilitate monitoring and control activities efficiently"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 91",
+    "question": "How often are reports generated by Credit Risk Management Groups regarding adherence to financial and non-financial covenants?",
+    "options": {
+      "A": "Annually",
+      "B": "Quarterly",
+      "C": "Monthly"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.3.15.3 Monitoring of Adherence to Financial and Non-Financial Covenants) Credit Risk Management Groups will generate reports on a monthly basis, on the adherence to the financial and non-financial covenants at facility and borrower level."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Monthly"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 92",
+    "question": "The bank-wide credit portfolio is reviewed on a monthly basis in compliance with Prudential Guidelines.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.4.20 Exposure Quality Classifications) The bank wide credit portfolio will be reviewed on a quarterly basis in compliance with Prudential Guidelines."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 93",
+    "question": "A restructured facility can be further restructured without any improvement in the obligor's performance.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.5.4 Restructuring of Credit Facilities) A restructured facility cannot be further restructured unless definite improvement has been recorded."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 94",
+    "question": "When is a credit facility considered performing?",
+    "options": {
+      "A": "When payments of interest are up-to-date",
+      "B": "When payments of principal are up-to-date",
+      "C": "When the facility is reclassified",
+      "D": "When both principal and interest payments are up-to-date"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.4.21 Definition of Default) A credit facility is deemed to be performing if payments of both principal and interest are up-to-date in accordance with the agreed terms."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. When both principal and interest payments are up-to-date"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 95",
+    "question": "In what circumstances is a credit facility deemed non-performing?",
+    "options": {
+      "A": "If interest is due for 90 days or more",
+      "B": "If principal is due for 90 days or more",
+      "C": "If both interest and principal are due for 90 days or more",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.4.21 Definition of Default) A credit facility will be deemed as non-performing when any of the following conditions exists: • interest or principal is due and unpaid for 90 days or more • interest payments equal to 90 days’ interest or more have been capitalized, rescheduled or rolled over into a new loan (except where facilities have been reclassifieD) ."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 96",
+    "question": "What is an Offer Letter in the context of credit facilities from the bank?",
+    "options": {
+      "A": "A request for credit",
+      "B": "A legal commitment by the customer",
+      "C": "An invitation to apply for a loan.",
+      "D": "A commitment by the bank to lend once certain conditions are met"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.2.15 Offer Letters) An Offer Letter is a commitment by the Bank to lend to a customer once the terms and conditions contained in the letter have been satisfied."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A commitment by the bank to lend once certain conditions are met"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 97",
+    "question": "The Legal Department must review and initial each page of an Offer Letter that deviates from the standard format.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.15 Offer Letters) Any Offer Letter that deviates from the standard format must be reviewed by an officer in Legal Department, and such review will be evidenced by the initial of the officer on each page of the offer letter."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 98",
+    "question": "The frequency of customer visits is solely based on the Chief Risk Officer's discretion.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.6.1 Customer Meetings and Call Reports) The frequency of these visits shall be risk differentiated, such that riskier obligors or large exposures are more frequent than less risky obligors of smaller exposures."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 99",
+    "question": "All legal documentation can be stored in a location of equivalent security and safety, not necessarily a bank vault.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.6.4 Documentation Lodging, Review and Follow-up) All legal documentation in respect of approved credit exposures shall be held in an appropriately secured bank vault or a location of equivalent security and safety."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 100",
+    "question": "The documentation and collateral need not agree with the approval document and customer agreement.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.6.4 Documentation Lodging, Review and Follow-up) Documentation and collateral must agree with that specified in the approval document as well as the agreement executed with the customer."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 101",
+    "question": "Existence and location of legal documentation shall be indicated in the credit file by an initialled receipt by the bank officer with responsibility for custody of such documentation.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.6.4 Documentation Lodging, Review and Follow-up) Existence and location of such legal documentation shall be indicated in the credit file by an initialled receipt by the bank officer with responsibility for custody of such documentation."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 102",
+    "question": "Credit files serve as the primary information source for decision-making on credits and customer relationships.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.7.1 File Management) The credit file serves as the primary information source for decision-making on credits and customer relationships."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 103",
+    "question": "Safe custody of credit files and maintaining records of file movement lies with",
+    "options": {
+      "A": "Marketing Department",
+      "B": "Credit Risk Management",
+      "C": "Customer Service Department"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.7.1 File Management) Credit Risk Management shall be responsible for safe custody of credit files and maintaining records of file movement and use in and out of the file room."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 104",
+    "question": "What is the expected access level to credit files according to the provided information?",
+    "options": {
+      "A": "Accessible to anyone in the bank",
+      "B": "Restricted to authorized officers of the bank",
+      "C": "Accessible to external auditors"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.7.1 File Management) Access to credit files shall be properly restricted to authorized officers of the bank."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Restricted to authorized officers of the bank"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 105",
+    "question": "All documentation generated during the credit cycle will be filed in the appropriate section of the credit file by Credit Risk Management.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.7.1 File Management) All documentation / correspondence generated during the credit cycle will be filed in the appropriate section of the credit file by the originating department."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 106",
+    "question": "Credit documents originating from the bank shall be domiciled on a Customer Credit Information Database accessible only to Credit Risk Management.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.7.1 File Management) All credit documents originating from the bank shall be (domiciled on a Customer Credit Information Database on the bank’s intranet), which shall be accessible to both credit risk management and relationship management function."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 107",
+    "question": "What is the purpose of credit portfolio planning?",
+    "options": {
+      "A": "Determine target markets and criteria for risk acceptance",
+      "B": "Define the Bank's credit portfolio goals and objectives",
+      "C": "Analyze and evaluate the current portfolio structure",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.1 Credit Risk Portfolio Planning) Credit portfolio planning is the starting point of the Bank’s credit risk management process. It entails an analysis and evaluation of the current portfolio structure and a clear definition and agreement of the following: ➢ Target risk asset portfolio structure, broken down according to sector, product type, geographic regions, credit risk rating class, etc.; ➢ The Board-approved risk limits that the Bank is willing to permit relative to the Bank’s risk bearing capacity. ➢ The target markets and criteria for risk acceptance at the overall corporate level and across each risk creating business unit in the Bank. ➢ The Bank’s credit portfolio goals and objectives."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 108",
+    "question": "How often should the credit risk portfolio plan be approved by the Board?",
+    "options": {
+      "A": "Monthly",
+      "B": "Quarterly",
+      "C": "As needed",
+      "D": "Annually"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.1 Credit Risk Portfolio Planning) The credit risk portfolio plan shall be prepared by Credit Portfolio Management and approved by the Board at the start of every financial year."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Annually"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 109",
+    "question": "Which of the following is NOT mentioned as an external factor in credit portfolio planning?",
+    "options": {
+      "A": "Macroeconomic variables",
+      "B": "Global economic conditions",
+      "C": "Loan underwriting standards",
+      "D": "Political factors"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.1.2 Steps for carrying out credit portfolio planning) External factors include macroeconomic variables, global economic conditions, competition, inflation and political factors."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Loan underwriting standards"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 110",
+    "question": "What factors influence Access Bank's portfolio concentration limits?",
+    "options": {
+      "A": "Random selection",
+      "B": "Industry outlook and growth prospects",
+      "C": "Alphabetical order",
+      "D": "Geographic location"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.1.3 Industry Selection and Prioritization) Our portfolio concentration limits will continue to be based on outlook and growth prospects, strategic importance of the industry and opportunities available to Access Bank."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Industry outlook and growth prospects"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 111",
+    "question": "What is the primary objective of Access Bank in optimizing its credit portfolio performance?",
+    "options": {
+      "A": "Minimizing returns",
+      "B": "Maximizing risk",
+      "C": "Maximizing returns while minimizing risk",
+      "D": "Avoiding exposures"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.1.3 Industry Selection and Prioritization) Access Bank will continuously employ techniques to optimize the performance of its credit portfolio with the objective of maximizing returns while minimizing risk."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Maximizing returns while minimizing risk"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 112",
+    "question": "Which of the following is mentioned as a sector that Access Bank intends to AVOID in its exposures?",
+    "options": {
+      "A": "Health services",
+      "B": "Educational institutions",
+      "C": "Gambling",
+      "D": "Agricultural businesses"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.1.3 Industry Selection and Prioritization) We intend to AVOID exposures to Non-Target Market or high-risk names such as: Gambling."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Gambling"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 113",
+    "question": "Why are exposures to hazardous industries, like health-damaging or environmentally unfriendly businesses, intended to be avoided?",
+    "options": {
+      "A": "Due to alphabetical order",
+      "B": "To minimize returns",
+      "C": "To protect the environment and public health",
+      "D": "Random selection"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.1.3 Industry Selection and Prioritization) We aim to avoid areas that are harmful to the environment and do not form part of the bank’s target market."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. To protect the environment and public health"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 114",
+    "question": "What are the two well-established techniques for expressing risk appetite in Access Bank?",
+    "options": {
+      "A": "Target market definition and Risk rejection criteria",
+      "B": "Market segmentation and Credit program guidelines",
+      "C": "Risk acceptance criteria and Industry profiles",
+      "D": "Target market definition and Risk acceptance criteria"
+    },
+    "discussion": [
+      "Selected Answer: D. (Section 6.1.4 Target Market and Risk Acceptance CriteriA) Two well established techniques for expressing risk appetite and which shall play critical roles in portfolio management in Access Bank are “Target market definition” and “Risk acceptance criteria”."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Target market definition and Risk acceptance criteria"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 115",
+    "question": "The use of unaudited financial statements for credit approval requests is encouraged.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.2.4.1 Unaudited Financial Statements) The use of unaudited financial statements for credit approval requests is discouraged."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 116",
+    "question": "Syndications involve situations where several banks come together to finance a given transaction due to its size or complexity",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.6 Syndications) Syndications are situations where several banks come together to finance a given transaction due to its size or complexity."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 117",
+    "question": "Is preliminary credit screening the responsibility of the relevant customer-facing market/relationship officer?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Maybe"
+    },
+    "discussion": [
+      "Selected Answer: A. (Section 6.2.1 Preliminary Credit Screening) Preliminary credit screening shall be the responsibility of the relevant customer-facing market/relationship officer and shall involve a largely high level and peripheral analysis of the acceptability of credit facility against credit criteria and facilitates early identification of unacceptable risk exposures and/or priority credits."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 118",
+    "question": "What is the role of the credit analyst in the credit risk evaluation process?",
+    "options": {
+      "A": "Verification of signatures",
+      "B": "Submission of financial projections",
+      "C": "Conducting detailed credit analysis",
+      "D": "Approval of credit terms"
+    },
+    "discussion": [
+      "Selected Answer: C. (Section 6.2.4 Credit Risk Evaluation) Detailed credit analysis shall be conducted by credit analysts and documented on the Facility Approval Memorandum (FAM)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Conducting detailed credit analysis"
+  },
+  {
+    "url": null,
+    "question_no": "CPG Practice Question 119",
+    "question": "What is the primary document used to document the detailed credit analysis in the credit risk evaluation process?",
+    "options": {
+      "A": "Target Market / Risk Acceptance Criteria screen",
+      "B": "Facility Approval Memorandum (FAM)",
+      "C": "Risk Rating document",
+      "D": "Financial spreads"
+    },
+    "discussion": [
+      "Selected Answer: B. (Section 6.2.4 Credit Risk Evaluation) Detailed credit analysis shall be conducted by credit analysts and documented on the Facility Approval Memorandum (FAM)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Facility Approval Memorandum (FAM)"
+  }
+]

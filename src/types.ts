@@ -14,7 +14,7 @@ export interface Question extends RawQuestion {
 	validIndex: number;
 }
 
-export type ExamKey = "CBAP" | "DP-900" | "ITILFND-V4" | "SIMI";
+export type ExamKey = "CBAP" | "DP-900" | "ITILFND-V4" | "SIMI" | "CPG-LMS";
 export type QuizMode = "study" | "exam";
 
 export interface QuizConfig {
@@ -36,4 +36,5 @@ export const EXAMS: ExamMeta[] = [
 	{ key: "DP-900", label: "DP-900", description: "Azure Data Fundamentals" },
 	{ key: "ITILFND-V4", label: "ITILFND V4", description: "ITIL 4 Foundation" },
 	{ key: "SIMI", label: "SIMI CBAP", description: "Simi's assessment of CBAP knowledge Areas" },
+	{ key: "CPG-LMS", label: "CPG-LMS", description: "Credit Policy Guide LMS past questions" },
 ];

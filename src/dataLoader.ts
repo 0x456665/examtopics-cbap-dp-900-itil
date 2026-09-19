@@ -42,6 +42,10 @@ export async function loadExamQuestions(exam: ExamKey): Promise<Question[]> {
 				(await import("./assets/Simi-CBAP questions.json")) as { default: RawQuestion[] }
 			).default;
 			break;
+		case "CPG-LMS":
+			rawData = ((await import("./assets/cpg_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
 	}
 
 	let idx = 0;
