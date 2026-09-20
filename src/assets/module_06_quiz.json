@@ -1,0 +1,2937 @@
+[
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 1",
+    "question": "Tentative action shall be taken on a reactive basis to minimize the bank's loss on a non-performing asset",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 8.3 requires deliberate, proactive action, not tentative/reactive."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 2",
+    "question": "As soon as a credit facility is identified as delinquent, adequate loan loss provision ought to be made in accordance with the Prudential Guidelines and the Bank's credit policy",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 8.2.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 3",
+    "question": "How much loan loss provision is required for credit exposures classified as 'Sub-Standard'?",
+    "options": {
+      "A": "10% of the outstanding balance",
+      "B": "50% of the outstanding balance",
+      "C": "100% of the outstanding balance",
+      "D": "2% of the outstanding balance"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 8.2.1: Sub-Standard = 10%."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 10% of the outstanding balance"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 4",
+    "question": "Where a credit exposure has been classified as 'Lost,' how much loan loss provision does the CPG stipulate?",
+    "options": {
+      "A": "50% of the outstanding balance",
+      "B": "10% of the outstanding balance",
+      "C": "75% of the outstanding balance",
+      "D": "100% of the outstanding balance"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 8.2.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 100% of the outstanding balance"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 5",
+    "question": "What general provision must the Bank make on outstanding credit facility balances not specifically provided for?",
+    "options": {
+      "A": "At least 10%",
+      "B": "At least 1%",
+      "C": "At least 2%",
+      "D": "At least 5%"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 8.2.1."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. At least 2%"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 6",
+    "question": "Interest accruals on non-performing exposures will be suspended in accordance with the Bank's CPG",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 8.2.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 7",
+    "question": "Under the CPG's asset classification framework, credit facilities on which unpaid principal and/or interest remain outstanding for more than 90 days but less than 180 days are classified as:",
+    "options": {
+      "A": "Sub-Standard",
+      "B": "Watch List",
+      "C": "Doubtful",
+      "D": "Lost"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 8.1.2.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Sub-Standard"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 8",
+    "question": "Under the CPG's asset classification framework, credit facilities on which unpaid principal and/or interest remain outstanding for at least 180 days but less than 360 days, and are not secured by legal title to leased assets or perfected realizable collateral, are classified as:",
+    "options": {
+      "A": "Sub-Standard",
+      "B": "Lost",
+      "C": "Watch List",
+      "D": "Doubtful"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 8.1.2.2."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Doubtful"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 9",
+    "question": "Under the CPG's asset classification framework, facilities on which unpaid principal and/or interest remain outstanding for 360 days or more, and are not secured by legal title to leased assets or perfected realizable collateral, are classified as:",
+    "options": {
+      "A": "Sub-Standard",
+      "B": "Watch List",
+      "C": "Lost",
+      "D": "Doubtful"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 8.1.2.3."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Lost"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 10",
+    "question": "What are 'Watch List Accounts' under the CPG's asset classification framework?",
+    "options": {
+      "A": "Accounts already formally classified as Sub-Standard",
+      "B": "Performing assets past due 60-91 days, showing early weakness symptoms",
+      "C": "Any account dormant for more than 30 days",
+      "D": "Any account in a high-risk industry, regardless of payment status"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 8.1.1."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Performing assets past due 60-91 days, showing early weakness symptoms"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 11",
+    "question": "Which of the following is listed as a potential weakness symptom for a Watch List account?",
+    "options": {
+      "A": "No operations in the account during the reporting month",
+      "B": "The account holder recently updated their contact address",
+      "C": "The account was opened less than 12 months ago",
+      "D": "The customer requested a new chequebook"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 8.1.1's list."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. No operations in the account during the reporting month"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 12",
+    "question": "In exceptional instances where it is determined that the probability of a facility's performance turning around is remote, such facility may be immediately classified as lost",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim, section 6.4.21."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 13",
+    "question": "Besides remote turnaround probability, which of the following is listed as an exceptional instance that will trigger transfer of a facility to the Remedial Assets Management Unit?",
+    "options": {
+      "A": "A change of Relationship Manager on the account",
+      "B": "The customer relocating to a new business address",
+      "C": "Death or disappearance of an obligor",
+      "D": "A routine annual review with no adverse findings"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 6.4.21."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Death or disappearance of an obligor"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 14",
+    "question": "In the event of delinquency, the required approach to resolve lost credits shall be generic and identical in every instance",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 8.3 says the approach shall be unique to each instance."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 15",
+    "question": "Generally, recovery action may be instigated at any point in time in the life of a credit exposure",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False as a general rule – recovery action follows defined triggers."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 16",
+    "question": "In the event of recovery, to what is the Bank's entitlement limited?",
+    "options": {
+      "A": "The full amount of principal and interest unpaid to date of recovery only, with recovery costs borne by the Bank",
+      "B": "Only the principal amount, excluding any accrued interest",
+      "C": "Whatever amount the customer is able to pay, regardless of the original debt",
+      "D": "The full amount of principal and interest unpaid to date of recovery, plus all associated costs incurred in the recovery"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 8.3.5."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The full amount of principal and interest unpaid to date of recovery, plus all associated costs incurred in the recovery"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 17",
+    "question": "Where sale proceeds from realizing a collateral security fall short of the Bank's entitlement, may the difference be forgiven to the customer?",
+    "options": {
+      "A": "Yes, but only with Board of Directors approval",
+      "B": "The CPG is silent on this point",
+      "C": "No — demand shall be made for the balance from the customer",
+      "D": "Yes, shortfalls are automatically written off as a matter of policy"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against the recovery guidelines."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. No — demand shall be made for the balance from the customer"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 18",
+    "question": "Where sale proceeds from realizing a collateral security exceed the Bank's entitlement, what happens to the surplus?",
+    "options": {
+      "A": "The surplus is used to offset unrelated facilities of the same customer without consent",
+      "B": "The surplus shall be credited to the customer's account",
+      "C": "The surplus is retained by the Bank as a recovery fee",
+      "D": "The surplus is forwarded to the Central Bank of Nigeria"
+    },
+    "discussion": [
+      "Selected Answer: B. New question from the recovery guidelines."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The surplus shall be credited to the customer's account"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 19",
+    "question": "Under the CPG, all write-offs require approval by which parties?",
+    "options": {
+      "A": "The Board and the CBN, where relevant",
+      "B": "The RM and CRO only",
+      "C": "MCC alone, with no escalation",
+      "D": "The customer's own auditors"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 8.3.3."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The Board and the CBN, where relevant"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 20",
+    "question": "Under which of the following circumstances will a non-performing exposure be recommended for write-off?",
+    "options": {
+      "A": "Only where the customer has formally requested that the debt be written off",
+      "B": "Only where the exposure has been outstanding for exactly 90 days",
+      "C": "Never, under any circumstance, while the customer remains alive",
+      "D": "Where contact fails, recovery costs exceed the debt, or no further recovery is possible"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 8.3.3."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Where contact fails, recovery costs exceed the debt, or no further recovery is possible"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 21",
+    "question": "Consideration of waivers of interest and/or credit charge shall be limited to credit exposures classified as:",
+    "options": {
+      "A": "Sub-Standard",
+      "B": "Watch List",
+      "C": "Lost",
+      "D": "Doubtful"
+    },
+    "discussion": [
+      "Selected Answer: C. CORRECTION – section 8.3.2 limits waivers to Lost exposures."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Lost"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 22",
+    "question": "Who is responsible for discussions and negotiation regarding repayment/waiver terms on a lost exposure?",
+    "options": {
+      "A": "The Board Credit Committee directly, with no delegated unit involved",
+      "B": "The Remedial Asset Unit of Credit Risk Management",
+      "C": "The original Relationship Manager who booked the facility",
+      "D": "The Legal Department, acting alone"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 8.3.2."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The Remedial Asset Unit of Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 23",
+    "question": "If a customer has previously enjoyed a waiver arrangement, under what condition will a new facility be granted to them?",
+    "options": {
+      "A": "Only upon full settlement of the terms of any previously granted waiver",
+      "B": "New facilities are granted freely regardless of prior waiver settlement status",
+      "C": "Only if the customer changes Relationship Manager",
+      "D": "Only if the new facility is smaller than the previously written-off amount"
+    },
+    "discussion": [
+      "Selected Answer: A. New question from section 8.3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Only upon full settlement of the terms of any previously granted waiver"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 24",
+    "question": "Whenever amounts are recovered on previously written-off credit exposures, how is the facility treated?",
+    "options": {
+      "A": "Left classified as lost permanently, regardless of the amount recovered",
+      "B": "Automatically converted into a new term loan for the recovered amount",
+      "C": "Reported to the CBN but not reclassified internally",
+      "D": "Reclassified as performing, with the recovered amount recognized on a cash basis only"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 8.3.5."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Reclassified as performing, with the recovered amount recognized on a cash basis only"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 25",
+    "question": "In cases of erroneous interest or charges debited to a customer's account, who is authorized to approve the reversal?",
+    "options": {
+      "A": "Only the Central Bank of Nigeria may authorize such reversals",
+      "B": "The customer must obtain a court order before any reversal is possible",
+      "C": "Reversals of interest and charges shall be approved by the Managing Director",
+      "D": "Any front-line teller may approve the reversal without escalation"
+    },
+    "discussion": [
+      "Selected Answer: C. New question from section 8.3.4."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Reversals of interest and charges shall be approved by the Managing Director"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 26",
+    "question": "What is the Global Standing Instruction (GSI), as used for debt recovery?",
+    "options": {
+      "A": "A CBN blacklist barring a defaulting customer from opening any other account",
+      "B": "A set-off mechanism recovering past-due principal and interest from a defaulter's qualifying accounts",
+      "C": "A court order compelling repayment within 24 hours",
+      "D": "An instruction permanently freezing accounts, with no recovery mechanism attached"
+    },
+    "discussion": [
+      "Selected Answer: B. New question covering section 8.3.1."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A set-off mechanism recovering past-due principal and interest from a defaulter's qualifying accounts"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 27",
+    "question": "Why is it critical for Marketing/relationship management officers to maintain direct contact with customers through periodic visits after extending credit?",
+    "options": {
+      "A": "None of the above",
+      "B": "It will help the bank get more business from the customer",
+      "C": "It will ensure that the customer believes we genuinely care",
+      "D": "It gives reliable, ongoing insight into exposure quality and business condition"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 141) – visits provide ongoing management information."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. It gives reliable, ongoing insight into exposure quality and business condition"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 28",
+    "question": "What determines the frequency of credit calls?",
+    "options": {
+      "A": "Risky obligor/large exposures.",
+      "B": "Less risky obligor/smaller exposure.",
+      "C": "Pressure of work (or lack of) on Relationship Manager.",
+      "D": "A & B."
+    },
+    "discussion": [
+      "Selected Answer: D. Frequency depends on risk and exposure size (page 141)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A & B."
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 29",
+    "question": "Why is Bank and trade check an important component of the credit process?",
+    "options": {
+      "A": "To satisfy customer service and operations units",
+      "B": "It confirms the obligor's status and going-concern condition",
+      "C": "All of the above",
+      "D": "To fulfil know-your-customer requirements"
+    },
+    "discussion": [
+      "Selected Answer: B. Bank and trade checks confirm ongoing viability (page 141)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. It confirms the obligor's status and going-concern condition"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 30",
+    "question": "The ongoing administration of the quality and performance of loans depends on:",
+    "options": {
+      "A": "All of the above.",
+      "B": "None of the above.",
+      "C": "Periodic analysis of up-to-date financial information.",
+      "D": "The character, ability and willingness of customer to meet its obligations to the bank."
+    },
+    "discussion": [
+      "Selected Answer: A. Both are required (page 141)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. All of the above."
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 31",
+    "question": "All legal documentation in respect of approved credit exposure are kept in:",
+    "options": {
+      "A": "A bank vault, or equally secure location",
+      "B": "The RM's own secured drawer",
+      "C": "A filing cabinet in the secretary's custody",
+      "D": "A fireproof cabinet in the GH's office"
+    },
+    "discussion": [
+      "Selected Answer: A. Secured location required (page 142)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. A bank vault, or equally secure location"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 32",
+    "question": "How often does CRM and relevant approval authority review all outstanding credit transactions and commitments?",
+    "options": {
+      "A": "Monthly",
+      "B": "Quarterly",
+      "C": "Semi-annually",
+      "D": "Annually"
+    },
+    "discussion": [
+      "Selected Answer: D. Annual review (page 142)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Annually"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 33",
+    "question": "How often must obligor and facility exposure quality and performance grades be reviewed?",
+    "options": {
+      "A": "Quarterly",
+      "B": "Annually",
+      "C": "On a case by case basis",
+      "D": "As the need arises"
+    },
+    "discussion": [
+      "Selected Answer: A. Quarterly reviews (page 133)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Quarterly"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 34",
+    "question": "What is the primary information source for decision-making on credits and customer relationships?",
+    "options": {
+      "A": "Bank & credit checks",
+      "B": "Newspapers and business journals",
+      "C": "Credit files",
+      "D": "Direct customer contacts"
+    },
+    "discussion": [
+      "Selected Answer: C. Credit files are primary (page 142)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Credit files"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 35",
+    "question": "Credit files must contain at a minimum:",
+    "options": {
+      "A": "Memoranda and correspondence with customer",
+      "B": "Copies of international passport of obligor, driver's licence",
+      "C": "Passport photograph and utility bill",
+      "D": "Lease agreements between him and his tenants"
+    },
+    "discussion": [
+      "Selected Answer: A. Correspondence is required (page 143)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Memoranda and correspondence with customer"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 36",
+    "question": "How often must credit files be reviewed?",
+    "options": {
+      "A": "If the need arises",
+      "B": "Periodically",
+      "C": "Monthly",
+      "D": "Quarterly"
+    },
+    "discussion": [
+      "Selected Answer: B. Files reviewed periodically (page 143)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Periodically"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 37",
+    "question": "How do you treat information of an unfavourable nature in the credit file e.g. a significant problem in the relationship?",
+    "options": {
+      "A": "Deliberately remove the information from the file so as not to implicate yourself.",
+      "B": "Permanently retain and mark the information",
+      "C": "File the information away in your personal \"just in case\" file folder.",
+      "D": "Hide the information away from prying eyes and busy bodies"
+    },
+    "discussion": [
+      "Selected Answer: B. Must be permanently retained and marked (page 143)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Permanently retain and mark the information"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 38",
+    "question": "How many components are there to each customer credit file?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "5",
+      "D": "4"
+    },
+    "discussion": [
+      "Selected Answer: B. Two components: electronic and hard copy (page 144)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 2"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 39",
+    "question": "Excess Over Approval Limits recipients",
+    "options": {
+      "A": "BCC",
+      "B": "Business Units",
+      "C": "MCC",
+      "D": "GCRO, GMD"
+    },
+    "discussion": [
+      "Selected Answer: B. Reports go to business units."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Business Units"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 40",
+    "question": "On what basis does the bank extend credit facilities?",
+    "options": {
+      "A": "Sometimes on the customer's ability to negotiate a good deal",
+      "B": "On the forces of demand and supply in the marketplace",
+      "C": "Sometimes on verbal commitments from executive management",
+      "D": "On legal commitments notified in writing, once terms are satisfied"
+    },
+    "discussion": [
+      "Selected Answer: D. Legal commitments in writing (page 114)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. On legal commitments notified in writing, once terms are satisfied"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 41",
+    "question": "On repayment, a customer may re-borrow under the same condition provided that:",
+    "options": {
+      "A": "Customer's business/trading cycle remains defined",
+      "B": "There is no material change to his financial position",
+      "C": "There must be management approval",
+      "D": "The tenor of revolving credit does not exceed 3 years"
+    },
+    "discussion": [
+      "Selected Answer: B. Material change prevents re-borrowing (page 28)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. There is no material change to his financial position"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 42",
+    "question": "What time frame does the CPG prescribe for the completion of preliminary screening of all credit facility requests?",
+    "options": {
+      "A": "72hrs",
+      "B": "7 days",
+      "C": "24hrs",
+      "D": "48hrs"
+    },
+    "discussion": [
+      "Selected Answer: C. Preliminary screening within 1 working day (page 98)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 24hrs"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 43",
+    "question": "What is the purpose of the preliminary credit screening?",
+    "options": {
+      "A": "To prevent customers from wasting our time.",
+      "B": "It is a requirement of Access Bank CPG",
+      "C": "It is a fundamental of the law of credit",
+      "D": "To facilitate the early identification of unacceptable risk exposures"
+    },
+    "discussion": [
+      "Selected Answer: D. Early identification of unacceptable risks (page 97)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. To facilitate the early identification of unacceptable risk exposures"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 44",
+    "question": "The CPG provides that all recommendation for denial of credit facility shall require the endorsement of",
+    "options": {
+      "A": "Relationship Manager",
+      "B": "Group Head",
+      "C": "Executive Director",
+      "D": "GMD/GDMD"
+    },
+    "discussion": [
+      "Selected Answer: B. Group Head endorsement required (page 97)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Group Head"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 45",
+    "question": "What is the primary outcome of the credit analysis process?",
+    "options": {
+      "A": "A rejection recommendation only",
+      "B": "An approval or rejection recommendation only",
+      "C": "A risk rating plus an approval/rejection recommendation",
+      "D": "An approval recommendation only"
+    },
+    "discussion": [
+      "Selected Answer: C. Both risk rating and recommendation (page 101)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A risk rating plus an approval/rejection recommendation"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 46",
+    "question": "Which one of the following components must be included in a full credit review?",
+    "options": {
+      "A": "Facility approval means",
+      "B": "All of the above",
+      "C": "Financial spreads",
+      "D": "Risk rating document"
+    },
+    "discussion": [
+      "Selected Answer: B. Full review includes all (page 147)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 47",
+    "question": "Why does the CPG direct that risk ratings be assigned to each facility?",
+    "options": {
+      "A": "None of the above",
+      "B": "To provide a uniform basis for comparing all facility proposals regardless of the nature, type or looks of the credit facility",
+      "C": "To indicate assessment of credit risk inherent in the facility and to overall acceptability of the credit exposure",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. Risk ratings serve both purposes (page 105)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 48",
+    "question": "Under the CPG, how long does the credit analyst have to do his work upon receipt of the credit request and complete information required for detailed analysis?",
+    "options": {
+      "A": "12-24hrs",
+      "B": "24-36hrs",
+      "C": "36-48hrs",
+      "D": "48-72hrs"
+    },
+    "discussion": [
+      "Selected Answer: D. 2-3 working days (page 106)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 48-72hrs"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 49",
+    "question": "How long does a customer have to accept a credit offer before it lapses?",
+    "options": {
+      "A": "Within 45 days of facility offer date",
+      "B": "Within 60 days of facility offer date",
+      "C": "Within 90 days of facility offer date",
+      "D": "Within 30 days of facility offer date"
+    },
+    "discussion": [
+      "Selected Answer: D. Acceptance within 30 days (page 123)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Within 30 days of facility offer date"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 50",
+    "question": "What mode(s) of acceptance of facility offer is / are required by the CPG?",
+    "options": {
+      "A": "Electronic",
+      "B": "SMS",
+      "C": "Verbal",
+      "D": "Written"
+    },
+    "discussion": [
+      "Selected Answer: D. Written acceptance required (page 123)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Written"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 51",
+    "question": "In the event that a single bank customer has multiple exposures and facilities with more than one Market facing unit, how many credit files should be maintained?",
+    "options": {
+      "A": "None of the above",
+      "B": "One credit file per exposure / facility",
+      "C": "One single credit file",
+      "D": "It depends"
+    },
+    "discussion": [
+      "Selected Answer: C. Single file per customer (page 123)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. One single credit file"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 52",
+    "question": "Who is responsible for the establishment of the customer's credit file?",
+    "options": {
+      "A": "The Customer",
+      "B": "The Relationship Manager",
+      "C": "Credit Administration",
+      "D": "B & C in partnership"
+    },
+    "discussion": [
+      "Selected Answer: C. Credit Administration establishes file (page 123)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Credit Administration"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 53",
+    "question": "Whose responsibility shall it be to ensure complete and legally enforceable documentation of credit?",
+    "options": {
+      "A": "Credit Admin. & Customer",
+      "B": "Relationship Manager in conjunction with customers",
+      "C": "None of the above",
+      "D": "Relationship Manager in conjunction with Credit Admin."
+    },
+    "discussion": [
+      "Selected Answer: B. RM with customer (page 123)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Relationship Manager in conjunction with customers"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 54",
+    "question": "What may trigger the need for an Exposure Quality Review?",
+    "options": {
+      "A": "Significant change in the indemnity of the customer.",
+      "B": "None of the above",
+      "C": "A change in relationship Management",
+      "D": "Identification of a decline in the quality of the facility"
+    },
+    "discussion": [
+      "Selected Answer: D. Decline triggers review (page 127)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Identification of a decline in the quality of the facility"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 55",
+    "question": "Which one of the following is True? Credit facilities may be restructured:",
+    "options": {
+      "A": "None of the above",
+      "B": "At the request of the Obligor requiring a revision of the credit terms and condition",
+      "C": "By the RM on identification of need to restructure based on performance of the facility",
+      "D": "Both A & B"
+    },
+    "discussion": [
+      "Selected Answer: D. Restructure can be initiated by obligor or RM (page 138)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Both A & B"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 56",
+    "question": "Before granting credit to an individual or sole proprietorship you must do all the following except",
+    "options": {
+      "A": "Have a personal relationship with the client.",
+      "B": "Have a complete and accurate picture of their financial position.",
+      "C": "Independent check of their sources of income.",
+      "D": "Interviews and personal visits to their place of business."
+    },
+    "discussion": [
+      "Selected Answer: A. Personal relationship not required; financial assessment is key."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Have a personal relationship with the client."
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 57",
+    "question": "Acceptance of an advised credit by a corporate client must be supported by a. among other requirements of the facility terms.",
+    "options": {
+      "A": "Mandate",
+      "B": "Memo and Article",
+      "C": "All of the above",
+      "D": "Board Resolution"
+    },
+    "discussion": [
+      "Selected Answer: D. Board Resolution required (page 63)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Board Resolution"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 58",
+    "question": "The tenor of revolving credits must not exceed",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "1 year",
+      "D": "2 years"
+    },
+    "discussion": [
+      "Selected Answer: A. Maximum 3 years (page 28)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 3 years"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 59",
+    "question": "An Overdraft (OD) is a line of credit that allows a customer write cheque for the actual balance on the account with a finance charge on the excess.",
+    "options": {
+      "A": "None of the above",
+      "B": "exactly",
+      "C": "less than",
+      "D": "more than"
+    },
+    "discussion": [
+      "Selected Answer: D. Overdraft allows withdrawals exceeding balance (page 28)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. more than"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 60",
+    "question": "It is imperative for an account officer to study the client's business and satisfy himself as to which of the following:",
+    "options": {
+      "A": "The reasonableness of the overdraft amount required",
+      "B": "The usage of the facility matching the client's business cycle",
+      "C": "The client's profits being able to absorb the interest payable by carefully assessing its profitability",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. All are important considerations (page 28)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 61",
+    "question": "For customers wishing to draw against confirmed drafts (\"DAU/D of DAUE\"), the facility shall be approved for",
+    "options": {
+      "A": "The tenor the draft is in clearing",
+      "B": "30 years",
+      "C": "90 years",
+      "D": "Not more than 1 year"
+    },
+    "discussion": [
+      "Selected Answer: A. Approved for clearing period (page 29)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The tenor the draft is in clearing"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 62",
+    "question": "The tenor of the Revolving Credit must not exceed The facility should be made available only to clients in more stable industries and who have strong financial planning systems. Draw down can be via Promissory Notes.",
+    "options": {
+      "A": "Five years",
+      "B": "None of the above",
+      "C": "180 days",
+      "D": "Three years"
+    },
+    "discussion": [
+      "Selected Answer: D. Maximum 3 years (page 28)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Three years"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 63",
+    "question": "What is the maximum tenure of a time loan?",
+    "options": {
+      "A": "More than 2 years but definitely not more than 3 years",
+      "B": "One year or less",
+      "C": "More than 1 year but less than 2 years",
+      "D": "Not more than 2 years"
+    },
+    "discussion": [
+      "Selected Answer: B. Time loan <=1 year (page 28)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. One year or less"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 64",
+    "question": "Under the Group EXCO limits, what is the Deputy Managing Director's approval limit for new credits of Standard Grade?",
+    "options": {
+      "A": "N600 million",
+      "B": "N150 million",
+      "C": "N800 million",
+      "D": "N300 million"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTED: the flat N150 million figure is outdated. Current DMD limits (Group EXCO Limits table) are N600mm for Standard Grade new credits, N700mm for Investment Grade, and N800mm for renewals — consistent with Module 2's finding. Note: title updated from 'GDMD' to 'Deputy Managing Director.'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. N600 million"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 65",
+    "question": "Where sale proceeds from recovery are in excess of the Bank's entitlement, the surplus shall be credited to the customer's account.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §8.4.2: Guidelines for Recovery, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 66",
+    "question": "By definition, for the purpose of credit creation at Access Bank, a group of companies is deemed to exist where one or more shareholders hold up to what percentage in another company?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "50%"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG §6.2.10.4.2: a group of companies exists where one or more shareholders have up to 20% holding in another company."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 20%"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 67",
+    "question": "The bank's pricing strategy shall be based on the following except:",
+    "options": {
+      "A": "Customers ability to pay",
+      "B": "Cost of funds",
+      "C": "Cost of administering and servicing the relationship",
+      "D": "Risk and return preference"
+    },
+    "discussion": [
+      "Selected Answer: A. Pricing based on costs and risk, not customer ability (page 110)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Customers ability to pay"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 68",
+    "question": "Which of the following is not a consideration in ascertaining the margins to be applied in estimating lending rate:",
+    "options": {
+      "A": "Desired profitability of target market segment",
+      "B": "Desired profitability per customer",
+      "C": "Lending rates of peer banks",
+      "D": "Size of the customer"
+    },
+    "discussion": [
+      "Selected Answer: D. Size is not a margin consideration."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Size of the customer"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 69",
+    "question": "An approval may be given by a designee other than the primary authority for such approval",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Delegation allowed if in writing (page 18)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 70",
+    "question": "It covers the marketing, analysis, processing, approval and reporting of loans.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG covers entire credit cycle."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 71",
+    "question": "If you follow this guide, you will have the confidence of knowing that you are using proven methods that will result in high quality loans that are efficiently managed",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG provides proven methods."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 72",
+    "question": "As an Account Officer or Relationship Manager, you must know all aspects of the CPG.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. All involved must know CPG."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 73",
+    "question": "You may not keep up to date with Banking laws, Central Bank credit guidelines and market trends.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Must stay up to date."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 74",
+    "question": "This is a confidential document. You must not reveal or discuss its contents with non-Bank staff without approval from a senior officer. You must return this guide to the Credit Administration Department if you leave the Bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confidentiality and return required."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 75",
+    "question": "Understanding these principles will give you a better understanding of credit policy.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Principles underpin policy."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 76",
+    "question": "Individual and companies place their funds with us trusting our integrity in managing these funds.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Trust is fundamental."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 77",
+    "question": "As the funds you lend come from so many sources you often feel no specific responsibility.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. You must feel responsibility regardless of source."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 78",
+    "question": "All too often we take the interest and fees we charge as fixed and simply apply our efforts to structuring a credit.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Common pitfall."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 79",
+    "question": "In many instances the return on the credit is far too low for the risk of lending. For instance, a 10% profit margin on a loan is a small compensation for losing the whole loan.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Risk-return trade-off."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 80",
+    "question": "In special cases we might decide to have an exposure to a company at a low return with the expectation of getting other business/accounts, which will improve the profitability of the name.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Cross-selling may justify low return."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 81",
+    "question": "A guiding principle of credit is that all information should be independently verified.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Independent verification is key."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 82",
+    "question": "An important aspect of independent verification is the separation controls. For instance, the person who prepares a credit should not be the one who approves it.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Separation of duties is important."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 83",
+    "question": "If we break regulations and this information reaches the market, our reputation will be diminished.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Regulatory breaches harm reputation."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 84",
+    "question": "An OD fluctuates regularly and even moves into credit periodically as the business cycle is completed.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Overdraft fluctuates with business cycle."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 85",
+    "question": "The company's ability to complete its asset conversion cycle, its profitability, relationships and exposures to other Banks are key considerations in fixing an initial overdraft limit for a client. The extent of utilization of the facility and turnover recorded on the client's account are principal issues to be considered when the facility is due for renewal; assuming the quality of the underlying credit still meets the CPG minimum rating.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Key considerations for OD (page 28)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 86",
+    "question": "All temps shall be approved by officers who have authority to do so while clean accommodations should require one-up approval.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Temporary overdraft approval rules."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 87",
+    "question": "Good clients with substantial turnover, strong management can be offered direct credit (instant credit) for cheques lodged into their accounts for clearing.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Direct credit possible for strong clients."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 88",
+    "question": "Financial Institutions are often given direct credit if they carry a risk rating of 2 or 3.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Require rating 1 or 2 (page 29)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 89",
+    "question": "Rollover of BAs is dependent on prompt liquidation of the earlier draw down. It is often discouraged that a standby OD line be put in place for the customer.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Standby OD is often encouraged (page 29)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 90",
+    "question": "For a Revolving Credit, the customer may re-borrow sums as needed up to the limit of the facility. It is usually given to finance a company's permanent working capital and is ever- green for the period of the total facility.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Revolving credit features (page 28)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 91",
+    "question": "Loans supported by unaudited statements are encouraged and will not require one- 1 approval.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Unaudited statements are discouraged (page 101)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 92",
+    "question": "Access Bank's Credit Risk Management Framework is made up of five distinct modules.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §6: the framework has five distinct MODULES (Risk Portfolio Planning; Exposure Development and Creation; Exposure Management; Delinquency Management/Loan Workout; Credit Recovery) — not an old 'credit management cycle' concept."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 93",
+    "question": "The type of customer selected to be approached for banking services would depend on whether the company falls within the Bank's target market and that the company falls within our risk acceptance criteria.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Target market and RAC determine selection."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 94",
+    "question": "Credit Analysis under the CPG requires detailed analysis of credit risk in respect of facility requests, performed by credit analysts within each marketing team, as a basis for informed credit approval decisions.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §6.2.3 'Credit Analysis', confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 95",
+    "question": "Developing the association with our clients and monitoring their business is unnecessary, not only to ensure repayment but also to explore new business opportunities and keep our competitive edge.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Monitoring is necessary."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 96",
+    "question": "Administration of Existing Exposures under the CPG includes maintaining direct contact with customers through periodic visits, credit checking, and ongoing analysis of financial information to monitor exposure quality.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §6.6 'Administration of Existing Exposures' (§6.6.1 Customer Meetings and Call Reports, §6.6.2 Credit Checking, §6.6.3 Financial Information)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 97",
+    "question": "Establishment of a target market and a client focus form the basis of strategically strong business and credit relationships.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Target market is strategic."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 98",
+    "question": "The target markets are the industries a particular credit team concentrates its marketing efforts on.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Target market definition (page 80)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 99",
+    "question": "Recovery action, per the CPG's general recovery guidelines, may include legal proceedings against a defaulting obligor.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §8.4.2: Guidelines for Recovery, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 100",
+    "question": "A good Account Officer is not one that aims at winning and retaining any client at all costs but the one that learns to say 'no' not just to low quality credit proposals but also those credit requests do not fit into our corporate strategy.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Saying no is important."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 101",
+    "question": "You must know clearly its target market to both at the industry level and the client level.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Know target market."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 102",
+    "question": "The authority to extend or approve credit is granted to individual credit office based upon their grades, portfolio and length of stay in the organization.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Approval authority based on experience (page 114)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 103",
+    "question": "Credit approval officers are recommended by service members of risk and business management for approval by shareholders at general meeting.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Recommended by senior management and approved by Board (page 114)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 104",
+    "question": "The level of authority required to approve credit will increase as amounts and transaction risks increase and as risk rating worsens.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Higher risk requires higher authority (page 114)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 105",
+    "question": "Is it right to state that in the absence of approval credit programs, transaction for individual customers or customer relationships will be treated as individual/business credit?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Individual/business credits apply (page 111)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 106",
+    "question": "As a result of their peculiar nature, all exposures to a customer or a group approval as individual/business credits must be aggregated and managed by credit risk management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Managed by relationship manager (page 112)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 107",
+    "question": "Is it right to state that credit approval is always required for the establishment of a credit facility.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Approval always required (page 113)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 108",
+    "question": "A proposal or marketing letter does not require credit approval as long as it does not obligate the bank in any way.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Marketing letters without commitment do not require approval (page 75)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 109",
+    "question": "When establishing total facilities for a relationship total facilities must include the seller risk in a securitization transaction, i.e. a minimum of 5% of the notional amount.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Seller risk included (page 75)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 110",
+    "question": "The level of authority required for approval is a function of the facilities amount",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Approval amount based on facility size."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 111",
+    "question": "All extensions of credit or individual / Business credit transactions shall require investment of at least 5 bank officers whose position involve responsibility for credit creation",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Minimum 3 officers (page 116)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 112",
+    "question": "Is it right of state that the sign off by at least one officer from credit Risk Management with exposure endorsement authority is not always a condition for approval of credit?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Always required (page 116)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 113",
+    "question": "Availments under approval credit facilities shall be through availment note approval by an officer in credit risk Management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Requires drawdown memo approved by CRM and Legal (page 125)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 114",
+    "question": "Which of the following statements is not correct?",
+    "options": {
+      "A": "Extension beyond 30 days, up to 60 days must be approval by GDMD",
+      "B": "Extension beyond 60 days must be approval by MCC",
+      "C": "All credit facilities must be reviewed one every 12 months",
+      "D": "The periodic reviews may be temporally extended for up to 30 days with approval of the Business ED and Head of credit Risk Management"
+    },
+    "discussion": [
+      "Selected Answer: B. Extensions beyond 60 days up to 180 days approved by MD, not MCC (page 63)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Extension beyond 60 days must be approval by MCC"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 115",
+    "question": "The use of unaudited financial statements for credit approval requests is generally discouraged but may suffice.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Discouraged but may suffice (page 101)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 116",
+    "question": "When an established credit facility undergoes a material change in terms, total facility must be re-approved. Who determines materiality?",
+    "options": {
+      "A": "RM",
+      "B": "Head, Credit Risk Management",
+      "C": "MCC",
+      "D": "BCC"
+    },
+    "discussion": [
+      "Selected Answer: B. CRO determines materiality (page 125)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Head, Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 117",
+    "question": "The following are examples of credit products that can qualify as term loans except",
+    "options": {
+      "A": "Operating expenses",
+      "B": "Asset replacement",
+      "C": "Working capital loan",
+      "D": "Equipment financing"
+    },
+    "discussion": [
+      "Selected Answer: A. Term loans not for operating expenses (page 28)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Operating expenses"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 118",
+    "question": "Qualification for revolving credit facilities shall be limited to customers with establishment business in emerging markets.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Limited to stable industries (page 28)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 119",
+    "question": "No drawings in excess of the approval DAUD/DAUE limits are allowed, however we may seek one up approval to accommodate customer.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Excess requires approval."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 120",
+    "question": "The issuance of guarantees to support offshore facilities is highly desirable and encouraged as long as Account officer obtains approval at the next higher level then is required under the Guide.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Offshore guarantees are strongly discouraged (page 34)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 121",
+    "question": "The appointment of acceptable warehousing agents will be approval by MCC based on the recommendation of the relationship Manager.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Based on recommendation of CRO (page 30)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 122",
+    "question": "Irrespective of the loan and amount, unsecured credit extension must be approved by the Managing Director/CEO ultimately.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Unsecured credits require Managing Director/CEO approval (CPG §5.2.4, page 52). Title updated: 'GMD' is obsolete; current title is Managing Director/CEO."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 123",
+    "question": "All credit extensions to corporate obligations must be secured by an all- assets debenture.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. All assets debenture required for corporates (page 159)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 124",
+    "question": "Preliminary screening of credit requests should be completed, ideally within 48 hrs of receipt of a credit facility request.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Within 1 working day (page 98)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 125",
+    "question": "In the event that the outcome of the preliminary credit screening of a request is a conclusion that such facility does not acceptance criteria, the relationship Manager may make a passionate appeal to the Group head for a review.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Facility shall be rejected (page 97)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 126",
+    "question": "In the event that a simple bank customer has multiple exposures and facilities, a single credit file may not be sufficient to maintain information on all the credit dealings with the bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Single file is sufficient (page 123)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 127",
+    "question": "Waivers of any pre-availment condition included in the credit approval may not require approval in writing at the appropriate approval credit authority level as by as their Head credit Risk Management's concurrence.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Require proper approval (page 124)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 128",
+    "question": "Availment and drawdown on approved credit facility should be subject to confirmation by legal department that all pre-availment & conditions are completed.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Requires Credit Administration and Legal (page 125)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 129",
+    "question": "Exposure management entails on an on- going basis prompt and timely identification of decline in quality/ performance of a credit exposure.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Exposure management includes identification (page 126)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 130",
+    "question": "According to the credit policy guide, it is the responsibility of the relationship manager to monitor the performance of credit facilities.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. RM monitors performance (page 127)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 131",
+    "question": "Whose responsibility is it to review credit facility performance?",
+    "options": {
+      "A": "None of the above",
+      "B": "Account Officer",
+      "C": "Relationship Manager",
+      "D": "Credit Risk Manager"
+    },
+    "discussion": [
+      "Selected Answer: C. RM reviews performance (page 127)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Relationship Manager"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 132",
+    "question": "Whose duty is it to confirm status and adequacy of collateral and legal documentation?",
+    "options": {
+      "A": "Relationship Manager",
+      "B": "Legal officer",
+      "C": "Credit Risk Manager",
+      "D": "None of the above"
+    },
+    "discussion": [
+      "Selected Answer: C. CRM confirms collateral adequacy (page 127)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Credit Risk Manager"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 133",
+    "question": "Whose duty is it to evaluate the impact of industry and market factors on the customer and customer's financial position?",
+    "options": {
+      "A": "Account officer",
+      "B": "Relationship Manager",
+      "C": "None of the above",
+      "D": "Credit Admin."
+    },
+    "discussion": [
+      "Selected Answer: B. RM evaluates industry factors (page 127)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Relationship Manager"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 134",
+    "question": "Exposure Management entails restructuring exposures as may be required.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Restructuring is part of exposure management (page 126)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 135",
+    "question": "Decline in the quality of a risk exposure is to be brought to the attention of the Managing Director/CEO and Deputy Managing Director immediately.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Brought to Business ED and CRO (page 134)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 136",
+    "question": "Delinquency in credit quality and performance can be as a result of a down grade in credit Risk Rating.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Downgrade indicates delinquency."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 137",
+    "question": "Relationship management shall maintain a watch list of the delinquent facilities for circulation to the CAC on a regular basis.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CRM maintains watch list (page 125)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 138",
+    "question": "Where a proposed plan to restructure an existing credit exposure in presented, detailed credit risk analysis of the proposed credit structure may not be required.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Detailed analysis may not be required (page 126)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 139",
+    "question": "As part of on- going exposure management, a credit facility may be restructured at the request of the obligor.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Restructure can be at obligor request (page 126)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 140",
+    "question": "As soon as a credit facility is identified as delinquent adequate loan loss provision ought to be made in accordance with the bank's credit policy.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Provisioning required upon delinquency (page 192)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 141",
+    "question": "According to the CPG, certain obligors and facilities may be assigned a risk rating in accordance with an approval Risk Rating process.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Risk rating assignment is required (page 105)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 142",
+    "question": "Under the CPG there will be various standards across the bank for the origination, documentation and maintenance of extensions of credit.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. There will be single set of standards (page 106)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 143",
+    "question": "According to the CPG, for obligor to whom we have extension of credit, there will be several approvals across the bank towards problem recognition, the classification of problem exposure and remedial action.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Problem recognition involves multiple approvals."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 144",
+    "question": "Under the CPG, approval credit product programs shall demonstrate that the behavior of the portfolio will not be predictable.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Must be predictable (page 31)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 145",
+    "question": "Individuals credits are applicable I respect of facility request and credit approvals for customers do not fit into credit product programmes and product offerings.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Individual credits for non-program customers (page 111)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 146",
+    "question": "Individuals / business credits are suitable for which, if any, of the under listed.",
+    "options": {
+      "A": "Transaction will result in multiple facilities",
+      "B": "Any of the above",
+      "C": "Where customer characteristic are unique",
+      "D": "Facility request is for a large, complex transaction that may resent in significant risk such that in depth and detail evaluation of customer is required."
+    },
+    "discussion": [
+      "Selected Answer: B. All are suitable (page 111)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Any of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 147",
+    "question": "Is it right to state that some credit activities in the Retail Banking business unit may be categorized as individual /business credits?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Exceptional cases may apply (page 112)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 148",
+    "question": "Where sale proceeds from recovery fall short of the Bank's full entitlement, a demand shall be made for the balance from the customer.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §8.4.2: Guidelines for Recovery, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 149",
+    "question": "The relationship Manager is responsible for bringing industry, product and other specialists (e.g., Legal, Tax) when required.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. RM brings specialists (page 49)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 150",
+    "question": "Which statement best describes \"Credit Officer Risk Rating (CORR)\"?",
+    "options": {
+      "A": "An external credit bureau score",
+      "B": "A measure of a credit officer's own personal credit score",
+      "C": "A measure of an officer's risk-consciousness over their portfolio",
+      "D": "A rating assigned to a customer by the credit officer"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG (page 21) – CORR definition."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A measure of an officer's risk-consciousness over their portfolio"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 151",
+    "question": "What is the minimum required promoter’s contribution for most products and facilities?",
+    "options": {
+      "A": "10% in clear funds",
+      "B": "20% in clear funds",
+      "C": "30% in clear funds",
+      "D": "50% in clear funds"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 102) – minimum promoter contribution of 20%."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 20% in clear funds"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 152",
+    "question": "What is the minimum tenor for loans under the Real Sector Support Fund (RSSF) via DCRR?",
+    "options": {
+      "A": "5 years",
+      "B": "7 years",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 224) – RSSF requires minimum 7 years tenor."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 7 years"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 153",
+    "question": "Under the Prudential Guidelines, what is the maximum total exposure (on and off balance sheet) by the bank to all tiers of government and their agencies?",
+    "options": {
+      "A": "15% of total credit portfolio",
+      "B": "20% of total credit portfolio",
+      "C": "5% of total credit portfolio",
+      "D": "10% of total credit portfolio"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 67) – 10% limit."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 10% of total credit portfolio"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 154",
+    "question": "Which of the following is a required element in an Offer Letter?",
+    "options": {
+      "A": "Only the repayment source",
+      "B": "Only the facility amount",
+      "C": "Full pricing, fees and drawdown conditions",
+      "D": "Only the tenor"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG (page 126) – offer letter must contain pricing and conditions."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Full pricing, fees and drawdown conditions"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 155",
+    "question": "What is the maximum number of consecutive extensions permitted for a credit facility review?",
+    "options": {
+      "A": "1 extension",
+      "B": "2 consecutive extensions",
+      "C": "3 consecutive extensions",
+      "D": "No limit"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 63) – not more than 2 consecutive extensions."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 2 consecutive extensions"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 156",
+    "question": "How often must the Bank conduct stress testing of its credit risk exposures?",
+    "options": {
+      "A": "Quarterly",
+      "B": "Monthly",
+      "C": "Only when required by the regulator",
+      "D": "Annually"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 108) – stress testing conducted quarterly."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Quarterly"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 157",
+    "question": "Who must approve the issuance of a guarantee to support an offshore facility?",
+    "options": {
+      "A": "The Branch Manager alone",
+      "B": "The customer's own board",
+      "C": "The RM alone",
+      "D": "The next level up the grid"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 34) – offshore guarantees require next higher level approval."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The next level up the grid"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 158",
+    "question": "Which of the following is NOT a recognised type of credit derivative for credit risk mitigation?",
+    "options": {
+      "A": "Credit linked note",
+      "B": "Credit default swap",
+      "C": "Total return swap",
+      "D": "Equity swap on own shares"
+    },
+    "discussion": [
+      "Selected Answer: D. Eligible credit derivatives are CDS, TRS, CLN, options – not equity swaps on own shares (page 184)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Equity swap on own shares"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 159",
+    "question": "Under the Prudential Guidelines, what is the minimum general provision required for outstanding credit facility balances not specifically provided for?",
+    "options": {
+      "A": "0.5%",
+      "B": "1%",
+      "C": "2%",
+      "D": "5%"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG (page 193) – general provision of at least 2%."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 2%"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 160",
+    "question": "What is the minimum number of years of audited financial statements required for a Tier I corporate borrower?",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "1 year"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 86) – Tier I requires minimum 3 years audited."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 3 years"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 161",
+    "question": "Under the Temporary Overdraft Limits for Value Chain Names table, what is the Standard Grade TOD limit at the GM1 approval level?",
+    "options": {
+      "A": "N500 million",
+      "B": "N700 million",
+      "C": "N100 million",
+      "D": "N300 million"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against the TOD Limits for Value Chain Names table: GM1 = N300mn, GM2 = N500mn, ED = N700mn (all Standard Grade). The question is now specific to the GM1 level to avoid ambiguity, since the same table has three different figures depending on approval grade."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. N300 million"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 162",
+    "question": "What is the purpose of a \"Covenant Check‑off List\"?",
+    "options": {
+      "A": "To approve new facilities",
+      "B": "To calculate interest rates",
+      "C": "Annual sign-off on covenant review",
+      "D": "To list overdue customers"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG (page 142) – covenant check-off list accompanies annual review."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Annual sign-off on covenant review"
+  },
+  {
+    "url": null,
+    "question_no": "Delinquency Management, Asset Classification, Provisioning & Recovery - Question 163",
+    "question": "Which of the following correctly lists the five modules of Access Bank's Credit Risk Management Framework?",
+    "options": {
+      "A": "Risk Portfolio Planning; Exposure Development and Creation; Exposure Management; Delinquency Management/Loan Workout; Credit Recovery",
+      "B": "Credit Marketing; Credit Analysis and Packaging; Relationship Management; Credit Administration and Control; Credit Audit or Review",
+      "C": "Origination; Underwriting; Disbursement; Monitoring; Recovery",
+      "D": "Planning; Analysis; Approval; Administration; Review"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §6 lists the five current modules verbatim. The second option is the old, obsolete five-phase list this question used to test as true — it's now a distractor."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Risk Portfolio Planning; Exposure Development and Creation; Exposure Management; Delinquency Management/Loan Workout; Credit Recovery"
+  }
+]

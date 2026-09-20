@@ -1,0 +1,21 @@
+[
+  {
+    "url": null,
+    "question_no": "Digital Lending - Question 1",
+    "question": "What is the central objective of Digital Lending as described in the CPG?",
+    "options": {
+      "A": "Eliminating all credit risk entirely",
+      "B": "Offering loans only to existing customers",
+      "C": "Reducing the number of loan officers on staff",
+      "D": "Efficiency, scale, reach, customer experience, and managing operational/cyber risk"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 279) – central objectives of digital lending."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Efficiency, scale, reach, customer experience, and managing operational/cyber risk"
+  }
+]

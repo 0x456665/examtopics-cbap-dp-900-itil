@@ -1,0 +1,2173 @@
+[
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 1",
+    "question": "Section 19(1a) of the Bank and Other Financial Institutions Act (BOFIA) 2020 states that a Bank shall not grant more than what percentage of its shareholders' funds unimpaired by losses to a company, its subsidiaries and associates?",
+    "options": {
+      "A": "25%",
+      "B": "20%",
+      "C": "50%",
+      "D": "10%"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 5.3.2 – the percentage (20%) is unchanged but the citation is now Section 19(1a) of BOFIA 2020."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 20%"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 2",
+    "question": "Section 19 (1a) of the Bank and Other Financial Institutions Act (BOFIA) 2020, as amended, states that a Bank shall not grant more than 50% of its shareholders' funds unimpaired by losses to a company, its subsidiaries and associates.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — CPG §5.3.2: the correct limit is 20%, not 50%. (Also corrected citation: current law is BOFIA 2020 §19(1a); the prior stem cited the obsolete 'BOFIA 1991' and wrong section number.)"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 3",
+    "question": "What concept describes the BOFIA requirement that a Bank shall not grant more than 20% of its shareholders' funds unimpaired by losses to a company, its subsidiaries and associates?",
+    "options": {
+      "A": "Legal Lending Limit",
+      "B": "Risk Rating Limit",
+      "C": "Exposure Limit",
+      "D": "One Obligor Limit"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed – this is the One Obligor concept (section 5.3.2)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. One Obligor Limit"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 4",
+    "question": "At Access Bank, the concept of one obligor is extended to include any company belonging to a group whose management are strongly linked by virtue of their related ownership structure, particularly where the business fortune of one entity affects the other",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 5",
+    "question": "With regard to the one obligor limit, it shall be the responsibility of the Board of Directors to determine whether related company obligations shall be aggregated, and the basis for their decision shall be documented",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – responsibility is with the Approving Officers, not the Board (section 5.3.2)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 6",
+    "question": "As a guide, the term 'One Obligor' to a borrower includes all subsidiaries owned at least 50%, such interest to be an aggregate of both direct and indirect shareholding",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 7",
+    "question": "As a guide, the term 'One Obligor' to a borrower includes any less-than-50%-owned affiliate where the borrower exercises management control, and where the affiliate's commercial fortunes are strongly influenced by the borrower",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 8",
+    "question": "As a guide, the term 'One Obligor' to a borrower includes any obligor related to the borrower as a result of guarantees, endorsements, or other similar arrangements in favour of the Bank",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 9",
+    "question": "As a guide, the term 'One Obligor' to a borrower includes all obligors under common ownership or control of a corporation or individual",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 10",
+    "question": "When establishing Total Facilities for a relationship, credit facilities to affiliates owned between 20% and 50% (where the borrower effectively controls the affiliate) should be:",
+    "options": {
+      "A": "Included in Total Facilities for the relationship",
+      "B": "Always excluded from Total Facilities regardless of control",
+      "C": "Only included if the affiliate is listed on a stock exchange",
+      "D": "Only included with the affiliate's own separate Board approval"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 5.3.6: Total Facilities 'should also include credit facilities to affiliates (up to 20% but less than 50% owned) where the borrower effectively controls' the affiliate."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Included in Total Facilities for the relationship"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 11",
+    "question": "At Access Bank, exposure against Risk Rating Limits is measured as the Outstandings and Unused Commitments ('OSUC') to a given relationship",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.5.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 12",
+    "question": "OSUC is the sum of all Outstandings (including Direct and Contingent Exposure) against Total Facilities, as well as the unused portion of any Committed Facility included in Total Facilities",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.5.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 13",
+    "question": "OSUC does not include settlement and clearing exposure, or the Underwritten Position of a credit underwriting transaction, unless the position becomes aged beyond the Extension Period",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.5.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 14",
+    "question": "For purposes of measuring exposure against Risk Rating Limits, OSUC may be considered gross of reductions resulting from sales of assets and risk mitigation efforts restricted to on- and off-balance-sheet netting",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 5.3.5.1 says OSUC may be considered NET OF those items, not gross."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 15",
+    "question": "For the purposes of applying Risk Rating Limits, which obligor risk rating is used?",
+    "options": {
+      "A": "Always the legal entity requesting the facility, regardless of group structure",
+      "B": "Always the lowest (weakest) rating among all group entities",
+      "C": "The average rating across all entities in the group",
+      "D": "Parent, lead-bank, or Risk Rating Policy rating, depending on entity type"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 5.3.5.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Parent, lead-bank, or Risk Rating Policy rating, depending on entity type"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 16",
+    "question": "It is the responsibility of the Head of Credit Risk Management to ensure that actual OSUC stays within the Risk Rating Limit or is covered by an approved Risk Rating Limit exception",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 5.3.6: 'It is the responsibility of the Relationship Manager to ensure that actual OSUC stays within the Risk Rating Limit or is covered by an approved Risk Rating Limit exception.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 17",
+    "question": "Risk Rating Limit Exceptions (RRLEs) are encouraged and need not be approved in advance",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 5.3.5.2: 'Risk Rating Limit Exceptions are discouraged and must be approved in advance at the appropriate level.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 18",
+    "question": "Approval requirements for a Risk Rating Limit Exception are determined by which factor?",
+    "options": {
+      "A": "The RRLE type",
+      "B": "The obligor's industry sector only",
+      "C": "The tenor of the underlying facility only",
+      "D": "The nationality of the obligor only"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed, section 5.3.5.3."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The RRLE type"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 19",
+    "question": "A Cash Exception, as an RRLE type, refers to exceptions attributable to:",
+    "options": {
+      "A": "Any facility priced below standard rate",
+      "B": "Facilities to salary account holders only",
+      "C": "Any exception under N1 million",
+      "D": "Cash collateralized facilities"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed, section 5.3.5.3."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Cash collateralized facilities"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 20",
+    "question": "An 'Immaterial' Risk Rating Limit Exception is defined as an overage of up to what percentage of the Risk Rating Limit?",
+    "options": {
+      "A": "25%",
+      "B": "15%",
+      "C": "10%",
+      "D": "5%"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed, section 5.3.5.3."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 10%"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 21",
+    "question": "Passive exceptions may be caused by which of the following?",
+    "options": {
+      "A": "The customer requesting a new chequebook",
+      "B": "A valuation change, or a downgrade in the obligor's rating",
+      "C": "A change of Relationship Manager on the account",
+      "D": "A change in the customer's registered business address"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed, section 5.3.5.4."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A valuation change, or a downgrade in the obligor's rating"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 22",
+    "question": "Passive exceptions need not be pre-approved; instead, they are flagged as part of the regular reporting process and must be reviewed, with their action plan approved as soon as possible but no later than the next quarterly review of Risk Rating Exceptions",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.5.4."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 23",
+    "question": "All RRLEs not captured under Cash, Immaterial, or Passive Exceptions are classified as:",
+    "options": {
+      "A": "Structural Exceptions",
+      "B": "Emergency Exceptions",
+      "C": "Provisional Exceptions",
+      "D": "Long Term and Continuing"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed, section 5.3.5.5."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Long Term and Continuing"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 24",
+    "question": "Cash, Immaterial and Passive Risk Rating Limit Exceptions (RRLEs) require approval from which officers?",
+    "options": {
+      "A": "Management Credit Committee only",
+      "B": "Board Credit Committee only",
+      "C": "Line ED and Chief Risk Officer (or their designees)",
+      "D": "Line ED and Head of Credit Risk Management (or their designees)"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 5.3.5.6, updated title."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Line ED and Chief Risk Officer (or their designees)"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 25",
+    "question": "All other Risk Rating Limit Exceptions, apart from Cash, Immaterial and Passive, require approval by which body?",
+    "options": {
+      "A": "Chief Risk Officer alone",
+      "B": "Management Credit Committee",
+      "C": "Board Credit Committee",
+      "D": "Line ED alone"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed, section 5.3.5.6."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Management Credit Committee"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 26",
+    "question": "An approved Risk Rating Limit Exception does not need to be re-approved during the Annual Review process, but must continue to be noted on the Facility Approval Memo",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.5.7."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 27",
+    "question": "All Risk Rating Limit Exceptions will be reported quarterly to the Management Credit Committee",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 5.3.5.8 states RRLEs are reported MONTHLY to the MCC, not quarterly."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 28",
+    "question": "On what basis does the Chief Risk Officer review all Risk Rating Limit Exceptions, including exceptions that have aged past their originally established resolution period?",
+    "options": {
+      "A": "Monthly",
+      "B": "Bi-weekly",
+      "C": "Quarterly",
+      "D": "Annually"
+    },
+    "discussion": [
+      "Selected Answer: C. CORRECTION – section 5.3.5.8: CRO reviews RRLEs quarterly, not annually."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Quarterly"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 29",
+    "question": "A proposal or marketing letter does not require credit approval as long as it expressly disclaims any commitment or undertaking to provide a commitment or other services, and does not obligate Access Bank in any way",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.6."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 30",
+    "question": "Marketing letters must be jointly approved by the Management Credit Committee and the Managing Director",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 5.3.6: 'Marketing letters will be jointly approved by the business head or ED and the Head of Risk.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 31",
+    "question": "Where a temporary overdraft (TOD) accommodation remains outstanding for longer than how many days shall it be classified as a Past Due Loan?",
+    "options": {
+      "A": "20 days",
+      "B": "60 days",
+      "C": "90 days",
+      "D": "30 days"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 6.4.21.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 30 days"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 32",
+    "question": "A temporary accommodation outstanding after 30 days shall be classified as a Past Due Loan.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG: a temporary overdraft outstanding for longer than 30 days is classified as a Past Due Loan."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 33",
+    "question": "Temporary Overdraft accommodation shall be approved for not more than how many days per request?",
+    "options": {
+      "A": "45 days",
+      "B": "30 days",
+      "C": "60 days",
+      "D": "90 days"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 3.6.4: TOD is approved for not more than 30 days per request."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 30 days"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 34",
+    "question": "If an obligor's overdraft account shows no credits continuously for how many days (or credits insufficient to cover interest debited over that period), should the obligor be considered in default?",
+    "options": {
+      "A": "90 days",
+      "B": "30 days",
+      "C": "60 days",
+      "D": "180 days"
+    },
+    "discussion": [
+      "Selected Answer: A. New question from section 6.4.21.1: default triggers after 90 days with no credits."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 90 days"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 35",
+    "question": "May Access Bank increase an approved overdraft limit solely in order to avoid the facility being classified as default?",
+    "options": {
+      "A": "Yes, an accepted, encouraged relationship-management practice",
+      "B": "Yes, for customers with a 10-year-plus relationship",
+      "C": "Yes, with retroactive Board ratification",
+      "D": "No, not just to avoid a default classification"
+    },
+    "discussion": [
+      "Selected Answer: D. New question from section 6.4.21.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. No, not just to avoid a default classification"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 36",
+    "question": "Where is this meeting most suitable to take place?",
+    "options": {
+      "A": "The customer's private residence",
+      "B": "The customer's business site or bank premises",
+      "C": "Ikoyi Club 1938",
+      "D": "The customer's place of worship"
+    },
+    "discussion": [
+      "Selected Answer: B. Credit calls should be at business location and bank premises (page 141)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The customer's business site or bank premises"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 37",
+    "question": "Under the CRG RM must conduct and document site visit prior to disbursement of funds under:",
+    "options": {
+      "A": "Term loans.",
+      "B": "Overdraft facility.",
+      "C": "Revolving credit facility.",
+      "D": "Import and export finance."
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 174) – site visit required prior to term loan disbursement."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Term loans."
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 38",
+    "question": "Customers request for withdrawal against uncleared effects or drafts will not be approved for one of the following reasons:",
+    "options": {
+      "A": "Drawings under DAUE/DAUD against company's own cheque",
+      "B": "Drawings in excess of the approved DAUE/DAUD",
+      "C": "Cheques drawn on persons or organizations rated as \"low risk\" by the bank.",
+      "D": "A and B exclusively"
+    },
+    "discussion": [
+      "Selected Answer: D. Drawings against company's own cheque and excess drawings are not allowed (page 29)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A and B exclusively"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 39",
+    "question": "How many parties are there to a typical transaction involving the issuance of a bond by the bank?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2"
+    },
+    "discussion": [
+      "Selected Answer: A. Bank, applicant, and beneficiary (page 33)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 3"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 40",
+    "question": "In what instance(s) will a bond /guarantee be issued on a clean basis to a client?",
+    "options": {
+      "A": "A highly rated multinational customer",
+      "B": "A clause tying effectiveness to cash cover received",
+      "C": "A major government contractor",
+      "D": "A customer with no prior default"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 33) – clean bonds may be issued to better rated obligors with appropriate clauses."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A clause tying effectiveness to cash cover received"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 41",
+    "question": "Which of the following statement is false with regards to the issuance of bond/guarantees?",
+    "options": {
+      "A": "None of the above",
+      "B": "Access Bank's obligation always contains a specific expiration date",
+      "C": "Offshore guarantees are strongly encouraged for their profitability",
+      "D": "The Bank's undertaking is always limited to a specific amount"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG (page 34) – issuance to support offshore is strongly discouraged."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Offshore guarantees are strongly encouraged for their profitability"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 42",
+    "question": "What kind of risk is the bank exposed to on ALL commercial papers it intermediates?",
+    "options": {
+      "A": "Reputation risk",
+      "B": "Contingent lending risk",
+      "C": "Direct lending risks",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 35) – bank is exposed to reputation risk on all CPs it intermediates."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Reputation risk"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 43",
+    "question": "When the Bank does not guarantee the CP's it issues, what role does the bank play?",
+    "options": {
+      "A": "Agency role",
+      "B": "Advisory role",
+      "C": "None of the above",
+      "D": "Managerial role"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 35) – without guarantee, the bank performs an agency role."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Agency role"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 44",
+    "question": "In a lease facility, what is the most important consideration?",
+    "options": {
+      "A": "Adequacy of insurance protection on the leased asset",
+      "B": "The specific make, model and nature of the leased asset",
+      "C": "How flexible the pricing structure is for the lessee",
+      "D": "The Bank's ability to promptly repossess the asset on default"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 29) – ability to take possession is key."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The Bank's ability to promptly repossess the asset on default"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 45",
+    "question": "How many parties are there in a lease arrangement?",
+    "options": {
+      "A": "5",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "discussion": [
+      "Selected Answer: C. Bank, lessee, and supplier (page 29)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 3"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 46",
+    "question": "What is the most important consideration for the bank when undertaking warehouse financing?",
+    "options": {
+      "A": "Appointment of a reputable warehousing agent",
+      "B": "Location of warehouse",
+      "C": "Nature of the warehoused goods",
+      "D": "Assumption of physical control of goods financed"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 30) – bank must take physical control using an independent agent."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Assumption of physical control of goods financed"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 47",
+    "question": "In general, warehouse financing should NOT be considered where:",
+    "options": {
+      "A": "A 12-month maximum tenor",
+      "B": "Forced sale value can't cover the exposure",
+      "C": "None of the above",
+      "D": "Fast-moving consumer goods are financed"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 30) – FSV must be adequate at all times."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Forced sale value can't cover the exposure"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 48",
+    "question": "Which one of the following consideration is not important in establishing the bank's lending rate?",
+    "options": {
+      "A": "Lending rates of poor banks",
+      "B": "None of the above",
+      "C": "Desired profitability of target market segment",
+      "D": "Desired profitability per customer"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 110) – pricing considerations do not include poor banks' rates."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Lending rates of poor banks"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 49",
+    "question": "What resource material will be most appropriate to find the average value of a share?",
+    "options": {
+      "A": "Any of the above",
+      "B": "Newspaper Cutting / Clipping from the Guardian or Business Time",
+      "C": "Daily reports on Radio & TV",
+      "D": "Bank approved Stock broker"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 163) – value based on SEDOL average, best sourced from bank-approved broker."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Bank approved Stock broker"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 50",
+    "question": "According to the Bank's Risk Management Philosophy, the Bank \"considers risk management philosophy and culture as the set of shared beliefs, values, attitudes and characterizing how the Bank considers risk in everything it does, from strategy development and implementation to its day-to-day activities\".",
+    "options": {
+      "A": "Culture",
+      "B": "Psychology",
+      "C": "Practices",
+      "D": "Expectation"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG (page 19) – the correct word is 'practices'."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Practices"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 51",
+    "question": "As a Systemically Important Bank (SIB) in Nigeria, Access Bank's risk practices are geared toward achieving/sustaining Moderate risk outcomes.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.4.1: Risk Appreciation Programme intro, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 52",
+    "question": "The following are all guiding principles for the Bank's risk culture except: Management and staff shall:",
+    "options": {
+      "A": "Adopt a portfolio view alongside individual risk",
+      "B": "Retain risk ownership at business-unit level",
+      "C": "Consider all risk forms in decisions",
+      "D": "Optimize their own unit's risk, ignoring the Bank overall"
+    },
+    "discussion": [
+      "Selected Answer: D. The principle says to consider both business unit and Bank-wide best interests (page 20)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Optimize their own unit's risk, ignoring the Bank overall"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 53",
+    "question": "Warehouse financing is best suited where:",
+    "options": {
+      "A": "All of the above",
+      "B": "The items financed in a fast moving consumer good",
+      "C": "Maximum tenor is 12 months",
+      "D": "Forced sale value of goods adequate to cover exposure"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 30) – all conditions apply."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 54",
+    "question": "Where a warehouse financing facility is granted which of the following is necessary to be done:",
+    "options": {
+      "A": "Periodic stock taking is required to verify quantity and",
+      "B": "Release from stock should be on FIFO basis quality",
+      "C": "Bank takes physical control of the goods",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 30) – all are required."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 55",
+    "question": "Under what condition will the Bank assume lead roles in syndication?",
+    "options": {
+      "A": "Providing over 50% of the funds",
+      "B": "Having the expertise and capacity to lead fully",
+      "C": "All of the above",
+      "D": "Where the customer is well known to it"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 105) – bank will only lead if it has the expertise and capacity."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Having the expertise and capacity to lead fully"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 56",
+    "question": "Advance Payment, Bid Bonds and Guarantees should contain all of the following elements except:",
+    "options": {
+      "A": "The Bank's obligation to pay must arise upon the fulfillment of certain specified conditions.",
+      "B": "The Bank may not charge fee for its issuance",
+      "C": "The Bank's undertaking must contain a specific expiration date or a defined term.",
+      "D": "The Bank's undertaking must be limited to a stated amount"
+    },
+    "discussion": [
+      "Selected Answer: B. Bank may charge a fee (page 33)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The Bank may not charge fee for its issuance"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 57",
+    "question": "The manual also reviews the different types of products offered by the Bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG section 3.6 reviews products."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 58",
+    "question": "If the CPG differs from regulations then the marketer will decide the approach the Bank will use. He will also resolve other conflicts that may arise from time to time.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Regulations override; decisions are not made by marketer alone."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 59",
+    "question": "The Bank may need to change these policies and procedures as laws, market conditions and the Bank's strategy change.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 18) – policies may change as needed."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 60",
+    "question": "One objective of the Risk Appreciation Programme (RAP) is to entrench a uniform risk culture within the organisation.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed — CPG §3.4.1: RAP objectives include entrenching a uniform risk culture within the organisation."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 61",
+    "question": "The Bank's main activity is to manage risk.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Banking is about managing risk."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 62",
+    "question": "Risk, simply defined, is the variability of possible outcomes.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Common definition."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 63",
+    "question": "For every transaction you must learn to identify and minimize all the potential risks in that transaction. One method is to think through the transaction step by step.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Prudent risk management approach."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 64",
+    "question": "For every risk the Bank takes we must have a matching return for taking that risk.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Risk-return principle."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 65",
+    "question": "An element of accuracy is being specific on all aspects of the transaction. Nothing must be ambiguous or left to interpretation.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Precision is essential."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 66",
+    "question": "Independently verified information helps to reduce risk considerably",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Independent verification reduces risk."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 67",
+    "question": "This is a very wide principle that occurs in several diverse forms.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Many principles apply broadly."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 68",
+    "question": "The Bank operates under a license",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Banks are licensed."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 69",
+    "question": "By not complying we not only breach our contract with the authorities we also risk loosing our license or incurring penalties.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Non-compliance leads to penalties."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 70",
+    "question": "Also if we assume that Government regulations are in the best interest of the country, then we work against this interest when we break them.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Breaking regulations harms national interest."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 71",
+    "question": "BA is usually revolving and available for periods up to 9 months.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Banker's Acceptance typically up to 9 months."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 72",
+    "question": "Usually, the line is available on standby to fund any type of transaction.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. General description of BA lines."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 73",
+    "question": "Commercial Paper (CP) are secured short- term promissory notes (usually between 30- 180 days) of corporate bodies, issued directly to the investing public sometimes through an issuing house. We will only issue Commercial Paper on behalf of companies whose risk ratings are not lower than 2 and where this classification is not due to strong collateral.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CPs are unsecured (page 35)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 74",
+    "question": "Although CPs are issued unsecured and carry no direct credit exposure for the Bank, the Bank's reputation is put on the line each time we issue a CP",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Reputation risk exists (page 35)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 75",
+    "question": "The title of the asset resides with the client until the last installment is paid and the client exercises its option to purchase the asset at the pre-determined price stated in the lease agreement.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Title remains with the bank until option exercised (page 29)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 76",
+    "question": "We intend to meet all the finance needs of all customers.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Bank focuses on target market (page 80)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 77",
+    "question": "Client focus identifies the specific customers outside that target market for whom we wish to be the primary Bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Client focus is within target market, not outside."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 78",
+    "question": "Lending to these customers will be dependent on their meeting our Risk Acceptance Criteria.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. All lending must meet RAC."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 79",
+    "question": "You must clearly see how your marketing goals fit into the Bank's strategy",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Alignment with strategy is essential."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 80",
+    "question": "The Bank, according to the guide, will play across the entire chain of its customers business.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Bank intends to play across value chain (page 27)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 81",
+    "question": "The risk asset portfolio of the bank shall be deliberately managed to ensure concentration of risk to choice industries, market sectors and individual customers to ensure portfolio liquidity",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. The bank avoids concentration (page 75)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 82",
+    "question": "Direct lending risk is that actual customer obligation and contingent obligations will not be repaid on time.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Direct lending risk is only actual obligations, not contingent (page 24)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 83",
+    "question": "Loans to staff will comply with the guidelines stated in the Staff Loan Policy, which shall be subject to periodic review by the Board.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.6.6: Loans to Staff, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 84",
+    "question": "Under Access Bank's warehouse financing conditions, release from stocks should be on a FIFO (first-in, first-out) basis.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.6.5: Warehouse Financing conditions, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 85",
+    "question": "In underwriting and distribution activities, in the event of a commitment to purchase a security or bother debt instrument from an issue or seller, there is a risk of inability to sell instrument within a predetermined distribution period to an investor or purchaser.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Issuer risk includes distribution risk (page 24)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 86",
+    "question": "Country risk is a broad risk category that encompasses political risk, transfer risk and convertibility risk.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.5.14: Country Risk, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 87",
+    "question": "Cleaning risk may occur when funds are transferred on a customer's instructions to transfer or to order the transfer of funds before the bank receives reimbursement or the customer's accounts is funded.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 25)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 88",
+    "question": "The Risk Appreciation Programme's (RAP) target participants include all Senior Lending Officers scoring 'Above Average' or 'High' on the Credit Officer Risk Rating (CORR).",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.4.1: RAP target participants, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 89",
+    "question": "Price risk is the risk that market conditions may change for an individual instrument or for all securities of the same general clears.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 25)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 90",
+    "question": "Liquidity risk is the risk that the bank may be unable to meet its financial commitments to customers or markets when due.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 25)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 91",
+    "question": "Fiduciary risk occurs when the bank in charged with the responsibilities of acting as a trustee for third parties i.e. in the event that a trust agreement is not in place clearly out timing the duties and responsibilities of the bank and when the bank may be exposed to potential or real conflict of interest.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 26)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 92",
+    "question": "Disclosure risk is the risk that there is disclosure of information that the bank knows or should have known to be incorrect.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 26)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 93",
+    "question": "Country risk is the risk that an event in a country will impair the value of the Bank's assets or will adversely affect the ability of obligations within that country to honor their obligation to the Bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 26)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 94",
+    "question": "In line with the bank's planning cycle, risk portfolio plans shall be developed approval at the over all bank level only.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Portfolio plans are developed at both bank and business unit levels (page 77)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 95",
+    "question": "In best efforts undertaking through the Bank does not assure a legal commitment to find any distribution shortfall, it will appear that there may be risk in the form of franchise damage associated with a failed undertaking.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Franchise damage risk exists (page 24)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 96",
+    "question": "Revolving credits are short term facilities with predefined cycles that relate to the customer's objectives and plans",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. They relate to customer's trading cycle (page 28)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 97",
+    "question": "Customer may be allowed a DAUD/DAUE where cheques are drawn on person or organizations that are considered and or rated as \"No Risk' by the bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Allowed only against 'Low Risk' rated drawers (page 29)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 98",
+    "question": "From your knowledge of issuance of bond, guarantees, is it right to state that in some cases, the bonds may be issued on a clean basis?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Clean basis possible for better rated obligors (page 33)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 99",
+    "question": "The bank's obligation in a bond could be limited to a specific amount, but this is not always necessary.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. It must be limited to a specific amount (page 34)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 100",
+    "question": "The Bank may guarantee a commercial paper issuance. Typically CPs have tenors between 45 days and 270 days.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 35) – typical tenor 30-180 days, but guarantee possible."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 101",
+    "question": "The Risk Appreciation Programme's (RAP) target participants include all Group Heads, both market-facing and non-market-facing.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.4.1: RAP target participants list, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 102",
+    "question": "In warehouse financing, it is always that the bank takes physical control of the goods; sometimes it is sufficient if a reportable warehousing agent is appointed.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Bank takes physical control via agent (page 30)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 103",
+    "question": "Normally maximum tenor for warehouse financing facility is 12 months, however depending on the nature of the goods financial it may be granted for a longer tenor.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Maximum 12 months, no longer (page 30)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 104",
+    "question": "Generally, goods financed under a warehouse financing on a LIFO basis.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Should be FIFO (page 30)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 105",
+    "question": "Periodic stock taking in desirable to verify the quantity and quality of goods financed.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Required (page 30)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 106",
+    "question": "The FSV of the goods ought to be adequate to cover the bank's exposure at the commencement of the facility.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Must be adequate at all times (page 30)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 107",
+    "question": "Counterparty risk is the risk that a counterparty to a transaction will fail to perform according to the terms and conditions of the contract, causing the holder of the claim to suffer a loss.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.5.1: Counterparty Risk definition, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 108",
+    "question": "Cross default risk is the risk that default on one debt obligation will trigger the automatic declaration of default on another debt obligation.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.5.1: Cross Default Risk definition, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 109",
+    "question": "Access Bank shall maintain a minimum leverage ratio of 4% at all times, guided by CBN and Basel requirements.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.5.4: Leverage Ratio, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 110",
+    "question": "Documentation risk is the risk that documentary evidence on which the bank depends to enforce rights under contracts or transactions will always be complete, covered and enforceable.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Risk is that it may not be complete/enforceable (page 26)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 111",
+    "question": "Legal and regulatory risks may occur when the Bank is subject to, a change in exposure resulting from legal or criminal sanctions or litigations.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 26)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 112",
+    "question": "Liquidity risk is that the bank will be able to meet all of its financial commitments to customers and markets when done.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. It is the risk of inability (page 25)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 113",
+    "question": "Under the one-obligor concept, credits extended to any member of a related group must be aggregated to determine both the total facility exposure and the appropriate level of approval.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §5.3.2: One Obligor Concept — purpose of aggregation, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 114",
+    "question": "Equity risk encompasses potential conflicts with the Bank's normal senior creditor role, as well as exposure to permanent declines in carrying values.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.5.7: Equity Risk, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 115",
+    "question": "Access Bank will only place funds with banks for which there are approved placement lines, and placements should generally be for tenors of less than 1 year.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.6.7: Local Placements and Takings from Banks, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 116",
+    "question": "Under Access Bank's warehouse financing conditions, periodic stock-taking is required to verify the quantity and quality of the goods financed.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §3.6.5: Warehouse Financing conditions, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 117",
+    "question": "What is the maximum tenor for a Commercial Paper (CP) as described in the CPG?",
+    "options": {
+      "A": "Up to 5 years",
+      "B": "30‑180 days",
+      "C": "1‑2 years",
+      "D": "6‑12 months"
+    },
+    "discussion": [
+      "Selected Answer: B. CPs have tenors between 30 and 180 days (page 35)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 30‑180 days"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 118",
+    "question": "In a lease facility, who holds legal title to the asset during the lease period?",
+    "options": {
+      "A": "The lessee (customer)",
+      "B": "Access Bank (the lessor)",
+      "C": "A third‑party trustee",
+      "D": "The manufacturer"
+    },
+    "discussion": [
+      "Selected Answer: B. Title remains with the bank until option exercised (page 29)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Access Bank (the lessor)"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 119",
+    "question": "Which of the following best describes \"Pre‑settlement Risk\"?",
+    "options": {
+      "A": "Default risk arising after settlement",
+      "B": "A counterparty simply not delivering at all",
+      "C": "Foreign exchange fluctuation risk",
+      "D": "Default on an obligation before contract settlement"
+    },
+    "discussion": [
+      "Selected Answer: D. Correct definition (page 24)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Default on an obligation before contract settlement"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 120",
+    "question": "What is the maximum tenor for warehouse financing?",
+    "options": {
+      "A": "24 months",
+      "B": "36 months",
+      "C": "6 months",
+      "D": "12 months"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 30) – maximum 12 months."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 12 months"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 121",
+    "question": "Although distribution efforts are similar to an underwriting, a Best Efforts undertaking also entails a legal commitment to fund any distribution shortfall. However, there is risk here in the franchise damage associated with a failed undertaking.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — a Best Efforts undertaking does NOT entail a legal commitment to fund any distribution shortfall (that is what distinguishes it from a full underwriting commitment). The risk instead is franchise/reputational damage if the undertaking fails, not a funding obligation."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 122",
+    "question": "In Assignments and Participations the distribution of Underwritten Position is normally accomplished by assignments, in which an investor assumes his pro rata share of a transaction on a full risk basis, with no recourse or future funding risk to the underwriter.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct as per CPG."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "One Obligor Limit, Exposure (OSUC) & Risk Rating Limit Exceptions - Question 123",
+    "question": "Revolving credits are long term/tenured facilities with predefined cycles that relate to the customer's business/trading cycle",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — this inverts the rule. Revolving credits are SHORT term facilities, not long term (section 3.6.2)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  }
+]

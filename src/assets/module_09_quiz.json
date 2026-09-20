@@ -1,0 +1,425 @@
+[
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 1",
+    "question": "All credit relationships are subject to reviews on at least an annual basis, in the form of either an 'Abbreviated' or a 'Full' Credit Review",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.8.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 2",
+    "question": "An Abbreviated Annual Review is allowable for relationships with Total Facilities of what amount or less, within the business unit's target market, adhering to approved Risk Acceptance Criteria, with no classified facilities?",
+    "options": {
+      "A": "N10 million",
+      "B": "N50 million",
+      "C": "N1 million",
+      "D": "N5 million"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 6.8.1.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. N5 million"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 3",
+    "question": "Relationships where all facilities are cash collateralized shall also undergo which type of review?",
+    "options": {
+      "A": "No review is required for fully cash-collateralized relationships",
+      "B": "A review only once every 3 years",
+      "C": "Abbreviated Annual Review",
+      "D": "Full Credit Review only, with no abbreviation permitted"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 6.8.1.1."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Abbreviated Annual Review"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 4",
+    "question": "Facilities below N5 million will only be approved under which mechanism?",
+    "options": {
+      "A": "No facility below N5 million may be approved at all",
+      "B": "A Credit Program",
+      "C": "Individual, bespoke underwriting only",
+      "D": "Board Credit Committee approval only"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 6.8.1.1."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A Credit Program"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 5",
+    "question": "At a minimum, an Abbreviated Credit Review must include which of the following?",
+    "options": {
+      "A": "A Risk Trends summary, facility appropriateness check, collateral reaffirmation, and updated risk ratings",
+      "B": "Only a one-line confirmation that the facility remains outstanding",
+      "C": "Nothing beyond the previous year's review, copied forward unchanged",
+      "D": "Only a signature from the Relationship Manager, with no further content"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.8.1.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. A Risk Trends summary, facility appropriateness check, collateral reaffirmation, and updated risk ratings"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 6",
+    "question": "A Full Credit Review is required every year for which relationships?",
+    "options": {
+      "A": "Any relationship not meeting Abbreviated-only criteria, or flagged by Portfolio Review",
+      "B": "Only relationships above N50 billion",
+      "C": "Only relationships with FX exposure",
+      "D": "None, if an Abbreviated Review was done last year"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 6.8.1.2."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. None, if an Abbreviated Review was done last year"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 7",
+    "question": "A Full Credit Review must include the standard Credit Analysis criteria",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.8.1.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 8",
+    "question": "The approval requirement for a Full Credit Review is the same as that required for:",
+    "options": {
+      "A": "No approval is required once the review document is filed",
+      "B": "A new credit facility, per the Credit Approval Grid",
+      "C": "Only a rubber-stamp sign-off with no reference to the approval grid",
+      "D": "Board of Directors approval, regardless of facility size"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 6.8.1.2."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A new credit facility, per the Credit Approval Grid"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 9",
+    "question": "At any time, may a credit approval authority or the Chief Risk Officer determine that a more frequent review cycle is appropriate for a particular relationship, geography, industry or business?",
+    "options": {
+      "A": "Yes — this discretion exists regardless of the Abbreviated/Full criteria otherwise applicable",
+      "B": "No, the review cycle is always fixed at exactly 12 months with no exceptions",
+      "C": "Only the Board of Directors may make this determination, not the CRO or approval authorities",
+      "D": "This discretion applies only to relationships below N1 million"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.8.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes — this discretion exists regardless of the Abbreviated/Full criteria otherwise applicable"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 10",
+    "question": "Under no circumstance are unaudited financial statements acceptable in the annual review process",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – the manual does not impose an absolute, no-exceptions prohibition; exceptions and mitigants are handled through the standard approval/exception architecture."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 11",
+    "question": "All assets and items pledged to the Bank as credit collateral must be appropriately covered by what, throughout the duration of the credit?",
+    "options": {
+      "A": "A police clearance certificate",
+      "B": "A letter of comfort from the customer's auditors",
+      "C": "A valid insurance policy",
+      "D": "A notarized valuation report only, with no insurance requirement"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against the General Restrictions on Collateral Acceptability section."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A valid insurance policy"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 12",
+    "question": "Which of the following risks should a comprehensive collateral insurance program cover, per the CPG?",
+    "options": {
+      "A": "No specific risk types are named — coverage is left entirely to the customer's discretion",
+      "B": "Property/real estate risks such as fire, earthquake, tornado, and flood",
+      "C": "Only theft, with fire and weather-related risks excluded",
+      "D": "Only risks occurring within Lagos State"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against the collateral insurance requirements."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Property/real estate risks such as fire, earthquake, tornado, and flood"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 13",
+    "question": "Is a collateral management plan required for each approved facility?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's general collateral governance framework."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 14",
+    "question": "A credit facility made known to the customer in writing through an Offer Letter is known as what?",
+    "options": {
+      "A": "An unadvised facility",
+      "B": "A contingent facility",
+      "C": "A shadow facility",
+      "D": "An advised facility"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed – this is the standard CPG terminology."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. An advised facility"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 15",
+    "question": "Acceptance of an advised credit facility by a corporate client must be supported by which of the following, among other requirements of the facility terms?",
+    "options": {
+      "A": "Nothing further beyond a signed offer letter copy",
+      "B": "A newspaper publication of the facility terms",
+      "C": "A Board Resolution",
+      "D": "A verbal confirmation from any company employee"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed – corporate acceptance requires a Board Resolution."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A Board Resolution"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 16",
+    "question": "Does acceptance of an unadvised facility require the same Board Resolution as an advised facility?",
+    "options": {
+      "A": "Only above N1 billion needs a Resolution",
+      "B": "No, since it was never formally communicated in writing",
+      "C": "Yes, identical in every respect",
+      "D": "Unadvised facilities don't exist"
+    },
+    "discussion": [
+      "Selected Answer: B. Reinforces the advised/unadvised distinction."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. No, since it was never formally communicated in writing"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 17",
+    "question": "Access Bank's risk appetite is described in the CPG as:",
+    "options": {
+      "A": "Moderate and guarded",
+      "B": "Aggressive and expansionary",
+      "C": "Conservative and risk-averse to the point of avoiding all new lending",
+      "D": "Undefined — the CPG deliberately leaves risk appetite unspecified"
+    },
+    "discussion": [
+      "Selected Answer: A. Reinforces section 3.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Moderate and guarded"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 18",
+    "question": "According to the CPG, should equal or unequal attention be paid to quantifiable versus non-quantifiable risks?",
+    "options": {
+      "A": "Only quantifiable risks matter; non-quantifiable risks are outside the CPG's concern",
+      "B": "Non-quantifiable risks take priority over quantifiable ones in all cases",
+      "C": "The distinction between the two is not addressed anywhere in the CPG",
+      "D": "Equal attention shall be paid to both quantifiable and non-quantifiable risks"
+    },
+    "discussion": [
+      "Selected Answer: D. Reinforces the risk culture guiding principle."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Equal attention shall be paid to both quantifiable and non-quantifiable risks"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 19",
+    "question": "A key principle of the CPG is that the Bank will always comply with all applicable government regulations",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's Supporting Objectives (section 2)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 20",
+    "question": "A guiding principle of credit at Access Bank is that all information used in a credit decision should be:",
+    "options": {
+      "A": "Verified solely by the customer's own auditors, with no Bank-side check",
+      "B": "Independently verified",
+      "C": "Accepted at face value from the customer, without independent verification",
+      "D": "Verified only where the facility exceeds N1 billion"
+    },
+    "discussion": [
+      "Selected Answer: B. Consistent with the CPG's broader credit analysis and documentation-integrity principles."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Independently verified"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 21",
+    "question": "Building a profitable, high-quality credit portfolio should be a key aim of every Account Officer",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's core objective."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 22",
+    "question": "A low-quality loan portfolio will give the Bank a competitive advantage in the banking industry",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – the CPG's stated aim is a high-quality portfolio."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Annual Review Types, Collateral Insurance & Foundational Credit Principles - Question 23",
+    "question": "Is Access Bank committed to conducting business in an environmentally and socially responsible manner, with reference to the Equator Principles?",
+    "options": {
+      "A": "Only for transactions located outside Nigeria",
+      "B": "Only where the customer specifically requests an ESG review",
+      "C": "Yes — Project Finance transactions are specifically addressed with reference to the Equator Principles",
+      "D": "No, environmental and social considerations are outside the scope of the CPG entirely"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed – the manual includes a dedicated appendix on Project Finance and the Equator Principles."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Yes — Project Finance transactions are specifically addressed with reference to the Equator Principles"
+  }
+]

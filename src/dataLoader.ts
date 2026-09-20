@@ -46,6 +46,66 @@ export async function loadExamQuestions(exam: ExamKey): Promise<Question[]> {
 			rawData = ((await import("./assets/cpg_quiz.json")) as { default: RawQuestion[] })
 				.default;
 			break;
+		case "CPG-Module 1":
+			rawData = ((await import("./assets/module_01_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 2":
+			rawData = ((await import("./assets/module_02_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 3":
+			rawData = ((await import("./assets/module_03_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 4":
+			rawData = ((await import("./assets/module_04_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 5":
+			rawData = ((await import("./assets/module_05_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 6":
+			rawData = ((await import("./assets/module_06_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 7":
+			rawData = ((await import("./assets/module_07_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 8":
+			rawData = ((await import("./assets/module_08_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 9":
+			rawData = ((await import("./assets/module_09_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 10":
+			rawData = ((await import("./assets/module_10_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 11":
+			rawData = ((await import("./assets/module_11_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG-Module 12":
+			rawData = ((await import("./assets/module_12_quiz.json")) as { default: RawQuestion[] })
+				.default;
+			break;
+		case "CPG":
+			rawData = [];
+			for (let i = 1; i <= 12; i++) {
+				const moduleFile = i < 10 ? `module_0${i}_quiz` : `module_${i}_quiz`;
+				const moduleData = (
+					(await import(`./assets/${moduleFile}.json`)) as { default: RawQuestion[] }
+				).default;
+				rawData = rawData.concat(...moduleData);
+			}
+			break;
+		default:
+			throw new Error(`Unknown exam key: ${exam}`);
 	}
 
 	let idx = 0;

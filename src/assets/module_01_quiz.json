@@ -1,0 +1,524 @@
+[
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 1",
+    "question": "Settlement risk occurs when there is a simultaneous exchange of value with a counter party for the same value date and verification that payment is received is not made until after the bank has paid / delivered on the obligation",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.5.5 (Settlement Risk)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 2",
+    "question": "While considering settlement risk, there is also a risk that the counter party does not deliver at all and as such resulting in exposure of the bank to direct lending risk",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.5 continues: 'There is a risk that the counter party does not deliver as such resulting in exposure of the bank to direct lending risk.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 3",
+    "question": "Clearing risk is the risk that the bank may be reimbursed on another value date for payments made on behalf of customers",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.6 (Clearing Risk) now reads: 'Clearing risk is the risk that the bank may NOT be reimbursed on the SAME value date for payments made on behalf of customers.' This is the logical equivalent of the original phrasing ('reimbursed on another/later date' = 'not reimbursed on the same date') – the concept and the True answer both still hold."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 4",
+    "question": "Documentation risk is the risk that documentary evidence on which the bank depends to enforce rights under contracts or transactions will not be complete, covered and enforceable",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.12 (mislabelled 3.2.12 in the current manual) reads: 'Documentary risk is the risk that documentary evidence on which the bank depends to enforce rights under contracts or transactions may not be complete, correct or enforceable.' Close paraphrase, same substance – confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 5",
+    "question": "Legal and regulatory risks may occur when the Bank, a related corporate entity, a transaction or a customer is subject to a change in exposure resulting from legal or criminal sanctions or litigations",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.13 now reads: 'Legal and regulatory risk occurs when the bank, a related corporate entity (such as nonbank subsidiary or affiliate), a transaction or a customer is subject to a change in exposure resulting from regulatory, civil or criminal approvals, or litigation.' Wording updated slightly but the tested statement remains True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 6",
+    "question": "Liquidity risk is the risk that the bank will be able to meet all of its financial commitments to customers and markets when due",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Section 3.5.9 defines liquidity risk as: 'Liquidity risk is risk that the bank may be UNABLE to meet its financial commitments to customers or markets when due.' The statement describes the opposite – so False."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 7",
+    "question": "Contingent lending risks may occur in products ranging from letters of credit to guarantees to unusual commitments",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.1.4 lists the product range as 'letters of credits to guarantees to unused loan commitments' – the current manual says 'unused loan commitments,' not 'unusual commitments.' The overall statement (that contingent lending risk spans these product types) remains True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 8",
+    "question": "Direct lending risk exists for the entire life a transaction",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.1 (Direct Lending Risks): 'It exists for the entire life of the transaction.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 9",
+    "question": "Direct lending risk exists only at the commencement of the credit extension",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Directly contradicted by section 3.5.1, which states direct lending risk exists for the entire life of the transaction, not only at commencement. False."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 10",
+    "question": "Direct lending risk is the risk that actual customer obligation and contingent obligations will not be repaid on time",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Section 3.5.1 defines direct lending risk as concerning only 'actual customer obligations.' Contingent obligations belong to the separately defined Contingent Lending Risk (3.5.1.4). Folding contingent obligations into the direct lending risk definition conflates the two risk types, so this statement is False."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 11",
+    "question": "Contingent lending risk exists for the entire life of the transaction",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.1.4: 'It exists for the entire life of the transaction.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 12",
+    "question": "Contingent lending risk is the risk that potential customer obligation will become actual obligation and will not be repaid on time",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.1.4: 'Contingent lending risk is the risk that potential customer obligations will become actual obligations and will not be repaid on time.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 13",
+    "question": "Country risk events may include political events",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.14: 'Country Risk events may include sovereign defaults, currency convertibility and/or transferability restrictions, or political events.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 14",
+    "question": "Country risk is the risk that an event in a country will impair the value of the Bank's assets or will adversely affect the ability of obligors within that country to honor their obligation to the Bank",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.5.14 verbatim: 'It is the risk that an event in a country ... will impair the value of Access Bank assets or will adversely affect the ability of obligors within that country to honour their obligations to Access Bank.'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 15",
+    "question": "Equity risk occurs when the bank invests in, holds or receives equity, equity-like securities or other junior securities in non-affiliated entities",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.5.7 (Equity Risk). True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 16",
+    "question": "Fiduciary risk occurs when the bank is charged with the responsibilities of acting as a trustee for third parties",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.5.10: 'Fiduciary risk occurs when the bank is charged with the responsibility of acting as a trustee for third parties.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 17",
+    "question": "Disclosure risk is the risk that there is disclosure of information that the bank knows or should have known to be incorrect, or fails to disclose actual or potential conflicts of interest or material information",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.5.11: 'The risk is that there is disclosure of information that the bank either knows or should have known to be incorrect, that the bank does not disclose actual or potential conflicts of interest, or that the bank does not disclose or delay in disclosing material information.' True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 18",
+    "question": "Pre-settlement risk is the risk of default on a contractual obligation before settlement of the contract by a counter party in a transaction",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.5.3 (Pre-settlement Risk). True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 19",
+    "question": "Price risk is the risk that market conditions may change for an individual instrument or for all securities of the same general class",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.5.8 (Price Risk). True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 20",
+    "question": "Access Bank's risk appetite is moderate and guarded",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.2 (Risk Management Philosophy): 'the Bank's Risk Management philosophy is that moderate and guarded risk attitude will ensure sustainable growth in shareholder value and reputation.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 21",
+    "question": "The Bank's Risk Management philosophy is that a moderate and guarded risk attitude will ensure sustainable growth in shareholder value and reputation",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.2. True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 22",
+    "question": "According to the Bank's Risk Management Philosophy, the Bank considers risk management philosophy and culture as the set of shared beliefs, values, attitudes and practices characterizing how the Bank considers risk in everything it does",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.2: 'the Bank considers risk management philosophy and culture as the set of shared beliefs, values, attitudes and practices characterizing how the Bank considers risk in everything it does, from strategy development and implementation to its day-to-day activities.' True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 23",
+    "question": "Equal attention shall be paid to both quantifiable and non-quantifiable risks",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against the Bank's risk culture guiding principles (section 3.2/3.3): 'Equal attention shall be paid to both quantifiable and non-quantifiable risks.' True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 24",
+    "question": "The Bank shall avoid products and businesses it does not understand",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Listed among the Bank's risk culture guiding principles: 'The Bank shall avoid products and businesses it does not understand.' Confirmed True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 25",
+    "question": "What is the risk that a counterparty to a transaction will fail to perform according to the terms and conditions of the contract, causing the holder of the claim to suffer a loss in cash flow or market value?",
+    "options": {
+      "A": "Direct Lending Risk",
+      "B": "Contingent Lending Risk",
+      "C": "Issuer Risk",
+      "D": "Counterparty Risk"
+    },
+    "discussion": [
+      "Selected Answer: D. New question covering section 3.5.1, Counterparty Risk – definition confirmed verbatim."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Counterparty Risk"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 26",
+    "question": "Where the default on one debt obligation automatically triggers the default of another debt obligation, this is known as:",
+    "options": {
+      "A": "Leverage Risk",
+      "B": "Clearing Risk",
+      "C": "Cross Default Risk",
+      "D": "Country Risk"
+    },
+    "discussion": [
+      "Selected Answer: C. New question covering section 3.5.1 (Cross Default Risk): 'Failure of one set of obligation to perform leads to the automatic declaration of other obligations to be in default.'"
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Cross Default Risk"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 27",
+    "question": "Access Bank shall maintain a minimum leverage ratio of what percentage at all times?",
+    "options": {
+      "A": "6%",
+      "B": "4%",
+      "C": "2%",
+      "D": "10%"
+    },
+    "discussion": [
+      "Selected Answer: B. New question covering section 3.5.4 (Leverage Ratio): 'Access Bank shall maintain a minimum leverage ratio of 4% at all times.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 4%"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 28",
+    "question": "Operational risk, as defined in the CPG, refers to the risk of loss to the bank resulting from:",
+    "options": {
+      "A": "Failed procedures, people, systems, policies, fraud or crime",
+      "B": "Only fraud committed by external parties",
+      "C": "Market price fluctuations on the trading book",
+      "D": "A counterparty's failure to deliver at settlement"
+    },
+    "discussion": [
+      "Selected Answer: A. New question covering section 3.5.15 (Operational Risk)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Failed procedures, people, systems, policies, fraud or crime"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 29",
+    "question": "Foreign exchange rate risk refers to the risk of:",
+    "options": {
+      "A": "The Bank's own inability to source foreign currency for its operations",
+      "B": "A customer defaulting solely due to an interest rate change",
+      "C": "Fluctuation in the Bank's own share price",
+      "D": "A currency mismatch between the borrower's earnings and the Bank's exposure"
+    },
+    "discussion": [
+      "Selected Answer: D. New question covering section 3.5.16 (Foreign Exchange Rate Risk)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A currency mismatch between the borrower's earnings and the Bank's exposure"
+  },
+  {
+    "url": null,
+    "question_no": "Types of Risk & Risk Management Philosophy - Question 30",
+    "question": "Issuer risk is best described as:",
+    "options": {
+      "A": "The risk that a bond is issued in the wrong currency",
+      "B": "The risk that a guarantee is issued without a corresponding master facility",
+      "C": "The risk that a security's market value changes as the issuer's credit standing changes",
+      "D": "The risk that a bank employee issues credit without proper authority"
+    },
+    "discussion": [
+      "Selected Answer: C. New question covering section 3.5.2 (Issuer Risk)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. The risk that a security's market value changes as the issuer's credit standing changes"
+  }
+]

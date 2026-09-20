@@ -1,0 +1,446 @@
+[
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 1",
+    "question": "Ownership of the Credit Risk Management Policy Guide (CPG) rests with which officer?",
+    "options": {
+      "A": "The Chief Risk Officer (CRO)",
+      "B": "The Board of Trustees",
+      "C": "The Managing Director/CEO alone",
+      "D": "The Group Head, Credit Risk Management"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 1.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The Chief Risk Officer (CRO)"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 2",
+    "question": "The Board of Trustees of Access Bank has approved these policies for use bank-wide",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – Access Bank is governed by a Board of Directors, not a Board of Trustees."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 3",
+    "question": "The Board of Trustees will approve all changes to the CPG",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – same reason: no Board of Trustees."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 4",
+    "question": "The CPG guide eliminates the need for personal judgement in banking",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – the CPG channels judgement, it does not eliminate it."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 5",
+    "question": "If the CPG differs from applicable regulations, does the marketer (Relationship Manager) decide which approach the Bank will use?",
+    "options": {
+      "A": "No, since the CPG is intended to align with, not override, regulatory requirements",
+      "B": "Yes, the marketer has full discretion to choose whichever approach favours the customer",
+      "C": "Yes, but only for facilities below N10 million",
+      "D": "The CPG is entirely silent on regulatory conflicts"
+    },
+    "discussion": [
+      "Selected Answer: A. False as originally framed – section 2 commits to regulatory compliance, not marketer discretion."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. No, since the CPG is intended to align with, not override, regulatory requirements"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 6",
+    "question": "Any deviations from the CPG must always be explained and justified in writing",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's documentation-heavy approach to exceptions."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 7",
+    "question": "The Bank may need to change the CPG's policies and procedures as laws, market conditions and the Bank's strategy change",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed – section 1.4 and 2.7 provide for periodic review and revision."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 8",
+    "question": "The CPG may be altered or even withdrawn as the need arises; any such change must be communicated to all concerned parties",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed, consistent with version control and review framework."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 9",
+    "question": "What is the core objective of the Credit Risk Management Policy Guide?",
+    "options": {
+      "A": "To maximize risk-adjusted returns through identification, measurement, limits, monitoring and reporting",
+      "B": "To eliminate all credit risk from the Bank's balance sheet entirely",
+      "C": "To ensure the Bank never records a single non-performing loan",
+      "D": "To transfer all credit risk decision-making to the Central Bank of Nigeria"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 2 (Core Objective)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. To maximize risk-adjusted returns through identification, measurement, limits, monitoring and reporting"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 10",
+    "question": "Which of the following is listed among the Supporting Objectives of the CPG?",
+    "options": {
+      "A": "To guarantee zero credit losses under all circumstances",
+      "B": "To restrict lending exclusively to government-backed obligors",
+      "C": "To eliminate the Relationship Manager's role in origination",
+      "D": "Lowest industry NPLs while maximizing returns on assets"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 2's Supporting Objectives list."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Lowest industry NPLs while maximizing returns on assets"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 11",
+    "question": "Does the CPG's scope cover exposures in the Trading Book that are subject to market risk capital charge?",
+    "options": {
+      "A": "Yes, but only above N1 billion",
+      "B": "The CPG is silent on this distinction",
+      "C": "No, that falls under the Market Risk Policy instead",
+      "D": "Yes, Banking and Trading Book exposures are treated equally"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 2 (Scope)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. No, that falls under the Market Risk Policy instead"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 12",
+    "question": "Preliminary screening of credit facility requests shall be completed within what timeframe of receipt of the request?",
+    "options": {
+      "A": "24 calendar hours, including weekends",
+      "B": "1 working day",
+      "C": "3 working days",
+      "D": "5 working days"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 6.2.1."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 1 working day"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 13",
+    "question": "Preliminary credit screening shall be the responsibility of which officer?",
+    "options": {
+      "A": "The relevant customer-facing market/relationship officer",
+      "B": "The Chief Risk Officer personally, for every request regardless of size",
+      "C": "The Head of Credit Administration",
+      "D": "The Board Credit Committee Secretary"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.2.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The relevant customer-facing market/relationship officer"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 14",
+    "question": "If a facility request fails preliminary credit screening against the Bank's target market and risk acceptance criteria, what happens?",
+    "options": {
+      "A": "The request is automatically escalated to the Board Credit Committee for a second opinion",
+      "B": "The request proceeds to full underwriting anyway, since preliminary screening is only advisory",
+      "C": "The request is held indefinitely, without any customer communication",
+      "D": "It is rejected then, in writing, with denial endorsed by the relevant Group Head"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 6.2.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. It is rejected then, in writing, with denial endorsed by the relevant Group Head"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 15",
+    "question": "Techno-Economic Viability (TEV) studies shall be conducted using which of the following?",
+    "options": {
+      "A": "External experts only, always",
+      "B": "Outsourced entirely to the CBN",
+      "C": "Internal or external experts, per project need",
+      "D": "Internal experts only, always"
+    },
+    "discussion": [
+      "Selected Answer: C. CORRECTION – TEV can use internal or external experts."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Internal or external experts, per project need"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 16",
+    "question": "A Techno-Economic Viability (TEV) study must be carried out in which of the following cases?",
+    "options": {
+      "A": "TEV studies are never mandatory, only optional at the customer's own request",
+      "B": "Whenever a new technology or the appropriate authority's own assessment demands critical feasibility analysis",
+      "C": "Only for facilities below N10 million",
+      "D": "Only for facilities extended to first-time individual retail customers"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against the TEV Study guidelines."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Whenever a new technology or the appropriate authority's own assessment demands critical feasibility analysis"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 17",
+    "question": "External experts engaged to conduct a TEV study must meet what standard?",
+    "options": {
+      "A": "High repute, qualified chartered engineers/technicians in the field",
+      "B": "No specific qualification standard, only availability",
+      "C": "Must be employed exclusively by the CBN",
+      "D": "Must be a serving Board Credit Committee member"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against the TEV Study guidelines."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. High repute, qualified chartered engineers/technicians in the field"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 18",
+    "question": "What is the purpose of Credit Audit under the CPG?",
+    "options": {
+      "A": "To independently re-negotiate pricing on existing facilities",
+      "B": "To replace the annual review process entirely",
+      "C": "To handle customer complaints about credit facility declines",
+      "D": "To ensure appraisal standards were followed before each approval level"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 6.8."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. To ensure appraisal standards were followed before each approval level"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 19",
+    "question": "Under the current CPG, all standard borrower accounts with a limit of what amount and above, having a risk rating of 5 or better, are covered under Credit Audit?",
+    "options": {
+      "A": "N5 million",
+      "B": "N100 million",
+      "C": "N10 million",
+      "D": "N50 million"
+    },
+    "discussion": [
+      "Selected Answer: C. CORRECTION – section 6.8 states N10 million, not N50 million."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. N10 million"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 20",
+    "question": "Which of the following is a factor considered when scheduling accounts for Credit Audit?",
+    "options": {
+      "A": "The number of dependents listed by the obligor",
+      "B": "Exposure above N10 million, or a Risk Rating below 5",
+      "C": "The obligor's preferred branch location only",
+      "D": "Whether the obligor uses online banking"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 6.8's factors."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Exposure above N10 million, or a Risk Rating below 5"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 21",
+    "question": "What is the minimum requirement for all items pledged as security for credit facilities?",
+    "options": {
+      "A": "A perfected legal mortgage in the name of Access Bank Plc",
+      "B": "A simple letter of comfort from the obligor's auditors",
+      "C": "An unregistered deed of assignment",
+      "D": "Verbal confirmation of ownership by the obligor"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against the collateral requirements section."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. A perfected legal mortgage in the name of Access Bank Plc"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 22",
+    "question": "It is Access Bank policy that all credit extensions to corporate obligors shall be secured by:",
+    "options": {
+      "A": "A personal guarantee from a company director only",
+      "B": "Nothing further beyond the loan agreement itself",
+      "C": "A minimum of three trade references",
+      "D": "An all-assets debenture"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against the collateral requirements section."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. An all-assets debenture"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 23",
+    "question": "Is there any exception to the all-assets debenture requirement for corporate obligors?",
+    "options": {
+      "A": "Yes, but only for obligors owned by the Federal Government",
+      "B": "Yes, but only for obligors with facilities below N1 million",
+      "C": "Yes, for strongly-rated obligors with a clean 5-year default history",
+      "D": "No, this requirement applies without exception to every corporate obligor"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against the collateral requirements section."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Yes, for strongly-rated obligors with a clean 5-year default history"
+  },
+  {
+    "url": null,
+    "question_no": "Foundational Policy Principles, Credit Process, Collateral & Credit Audit - Question 24",
+    "question": "Deviations to Policy guidelines regarding Acceptance Criteria, Techno-Economic Viability Study requirements, and Minimum Acceptable Margin Guidelines shall be approved by which body?",
+    "options": {
+      "A": "The Central Bank of Nigeria directly",
+      "B": "The Board Credit Committee (BCC)",
+      "C": "The Relationship Manager, at their own discretion",
+      "D": "The Chief Risk Officer alone, without further escalation"
+    },
+    "discussion": [
+      "Selected Answer: B. New question from the manual's list of deviations."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The Board Credit Committee (BCC)"
+  }
+]

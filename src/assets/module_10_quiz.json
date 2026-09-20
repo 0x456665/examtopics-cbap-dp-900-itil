@@ -1,0 +1,1219 @@
+[
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 1",
+    "question": "Acceptability of a mortgage on landed property as collateral shall be limited to property situated in which locations?",
+    "options": {
+      "A": "Only property owned by the obligor for more than 20 years",
+      "B": "Highly industrialized/commercialized areas or high-value residential areas",
+      "C": "Any location whatsoever, provided the title is registered",
+      "D": "Only property located within Federal Capital Territory"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 7.7.2.3.1."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Highly industrialized/commercialized areas or high-value residential areas"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 2",
+    "question": "For a mortgage on landed property, the Expected Forced Sale Value (EFSV) must be adequate to cover what minimum threshold?",
+    "options": {
+      "A": "120% of the loan, plus 12 months' interest",
+      "B": "Exactly 100%, no buffer",
+      "C": "150%, no buffer",
+      "D": "80% of the loan only"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 7.7.2.3.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 120% of the loan, plus 12 months' interest"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 3",
+    "question": "Landed property with less than how many years of remaining ground lease shall NOT be acceptable as collateral?",
+    "options": {
+      "A": "5 years",
+      "B": "25 years",
+      "C": "10 years",
+      "D": "15 years"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 7.7.2.3.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 15 years"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 4",
+    "question": "Which of the following is also listed as unacceptable landed property collateral?",
+    "options": {
+      "A": "Any property valued below N100 million",
+      "B": "Any property located outside Lagos State",
+      "C": "An uncompleted building, or a country home in a rural area",
+      "D": "Any property with a Certificate of Occupancy under 30 years old"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 7.7.2.3.1."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. An uncompleted building, or a country home in a rural area"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 5",
+    "question": "Can life assurance policies stand alone as security for a credit facility?",
+    "options": {
+      "A": "Left entirely to the discretion of the Relationship Manager",
+      "B": "No, they must be additional to some other tangible collateral",
+      "C": "Yes, always sufficient as sole security",
+      "D": "Yes, but only for facilities below N1 million"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 7.7.2.3.5."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. No, they must be additional to some other tangible collateral"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 6",
+    "question": "Acceptability of life assurance policies as credit collateral is limited to which type of credit?",
+    "options": {
+      "A": "Personal credits, such as mortgages and personal loans",
+      "B": "Corporate credits exceeding N1 billion only",
+      "C": "Agricultural loans exclusively",
+      "D": "Trade finance facilities only"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 7.7.2.3.5."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Personal credits, such as mortgages and personal loans"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 7",
+    "question": "Does Access Bank vet the insurance companies whose life assurance policies it will accept as collateral?",
+    "options": {
+      "A": "No, any registered insurer's policy is automatically acceptable",
+      "B": "Done once, at the Bank's founding, and never repeated",
+      "C": "Outsourced entirely to the customer's own broker",
+      "D": "Yes, via an annual due-diligence list of acceptable insurers"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 7.7.2.3.5."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Yes, via an annual due-diligence list of acceptable insurers"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 8",
+    "question": "May the collateral currency for cash-collateralized lending be any convertible currency, or must it be local currency only?",
+    "options": {
+      "A": "It must be in US Dollars only",
+      "B": "Collateral currency is not addressed by the CPG",
+      "C": "It could be any convertible currency",
+      "D": "It must be in local currency (Naira) only, with no exceptions"
+    },
+    "discussion": [
+      "Selected Answer: C. Consistent with the CPG's general cash-collateral provisions."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. It could be any convertible currency"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 9",
+    "question": "Must collateral held by the Bank be revalued periodically, and if so, why?",
+    "options": {
+      "A": "Only if the customer requests it",
+      "B": "Yes, since values fluctuate and coverage must stay adequate",
+      "C": "No, the drawdown valuation stays valid forever",
+      "D": "Only real estate needs revaluation"
+    },
+    "discussion": [
+      "Selected Answer: B. Consistent with the CPG's collateral monitoring principles."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Yes, since values fluctuate and coverage must stay adequate"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 10",
+    "question": "In the event of non-compliance with collateralization conditions on a facility, whose responsibility is it to report this?",
+    "options": {
+      "A": "The Relationship Manager / Originating Officer responsible for the facility",
+      "B": "Solely the customer's own external auditors",
+      "C": "The Central Bank of Nigeria, as first responder",
+      "D": "No reporting obligation exists once the facility has been disbursed"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's broader principle that the Relationship Manager bears responsibility for the integrity of the credit process."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The Relationship Manager / Originating Officer responsible for the facility"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 11",
+    "question": "Is careful consideration of collateral adequacy required in every situation, without exception?",
+    "options": {
+      "A": "No, only above N10 billion",
+      "B": "No, only for retail obligors",
+      "C": "Only assessed at write-off",
+      "D": "Yes, always, as sound credit practice"
+    },
+    "discussion": [
+      "Selected Answer: D. Consistent with the CPG's overall collateral governance framework."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Yes, always, as sound credit practice"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 12",
+    "question": "For obligors to whom the Bank has extended credit, is there typically a single approval, or several approvals across the Bank, involved in problem recognition, classification of problem exposure, and remedial action?",
+    "options": {
+      "A": "No approval is needed once a facility becomes delinquent",
+      "B": "Only the Board of Directors is involved, with no other layer",
+      "C": "Several distinct approvals — for recognition, classification and remedial action",
+      "D": "A single blanket approval covers all three steps together"
+    },
+    "discussion": [
+      "Selected Answer: C. Reinforces the delinquency/remedial framework already confirmed in Module 6."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Several distinct approvals — for recognition, classification and remedial action"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 13",
+    "question": "All Cash, Immaterial and Passive Risk Rating Limit exceptions require approval from the Managing Director and the Head of Credit Risk Management",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – they require Line ED and CRO, not MD and Head of CRM."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 14",
+    "question": "Risk Rating Limits are established by the Head of Credit Risk Management and approved by the Criticized Assets Committee",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – they are established by CRO and approved by MCC, not CAC."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 15",
+    "question": "Under Access Bank's agricultural financing policy, start-ups and businesses in the first cycle of their operations shall not be considered for funding.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §10.3.3: Excluded Projects, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 16",
+    "question": "For the purposes of applying Risk Rating Limits, is a single, uniform method used to determine which obligor risk rating governs, regardless of entity type?",
+    "options": {
+      "A": "The obligor self-declares its rating",
+      "B": "Ratings are irrelevant here",
+      "C": "No, it depends on entity type",
+      "D": "Yes, one method fits every entity"
+    },
+    "discussion": [
+      "Selected Answer: C. Reinforces Module 3's Q81."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. No, it depends on entity type"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 17",
+    "question": "Any increases to Total Facilities, whether caused by new facilities or increases to existing facilities, must be approved based on the new Total Facilities amount, per the Credit Facility Approval Grid",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the Credit Facility Approval Grid's general re-approval principle."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 18",
+    "question": "Recommendation and approval of facilities shall be by a minimum of how many Credit Officers, at least one of whom must have the authority to approve the recommended amount?",
+    "options": {
+      "A": "3",
+      "B": "1",
+      "C": "2",
+      "D": "5"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against the CPG's approval process requirement."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 3"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 19",
+    "question": "An approval may be given by a designee other than the primary named approval authority",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's repeated use of '(or their designees)' language."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 20",
+    "question": "Discussions and negotiation in respect of repayment or waiver terms on a lost exposure are the responsibility of which unit?",
+    "options": {
+      "A": "The customer's own legal counsel",
+      "B": "The Central Bank of Nigeria",
+      "C": "The Remedial Asset Unit of Credit Risk Management",
+      "D": "The original Relationship Manager, acting entirely alone"
+    },
+    "discussion": [
+      "Selected Answer: C. Reinforces Module 6's Q175."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. The Remedial Asset Unit of Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 21",
+    "question": "The release of collateral, guarantees or support for any type of credit transaction requires confirmation of what, before release?",
+    "options": {
+      "A": "The customer's own board approval",
+      "B": "Full repayment and liquidation of the exposure",
+      "C": "Nothing beyond a verbal request",
+      "D": "A fresh valuation, repayment status aside"
+    },
+    "discussion": [
+      "Selected Answer: B. Reinforces Module 2's Q59."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Full repayment and liquidation of the exposure"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 22",
+    "question": "Adequate security shall be taken for temporary overdrafts not supported by confirmed drafts. Is this a correct statement of policy?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's overdraft/TOD security expectations."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 23",
+    "question": "Normally, the maximum tenor for a warehouse financing facility is 12 months. Does the CPG allow this to vary depending on the nature of the goods financed?",
+    "options": {
+      "A": "No, 12 months is an absolute ceiling in every case",
+      "B": "No maximum tenor applies to warehouse financing at all",
+      "C": "The maximum is always exactly 6 months, regardless of goods type",
+      "D": "Yes, it may flex with the nature of goods and stock cycle"
+    },
+    "discussion": [
+      "Selected Answer: D. Reinforces Module 4's Q124 with additional nuance."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Yes, it may flex with the nature of goods and stock cycle"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 24",
+    "question": "To qualify for Agricultural financing, a customer should generally have operated an account with the Bank for at least how long?",
+    "options": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "12 months",
+      "D": "24 months"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG §10.3.1: Loan Administration and Disbursement, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 6 months"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 25",
+    "question": "When the Bank finances the acquisition of heavy equipment and machinery under Agricultural financing, disbursement shall be made directly to the vendors upon presentation of relevant invoices.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §10.3.1: Loan Administration and Disbursement, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 26",
+    "question": "Under the Bank's agricultural financing guidelines, moratoriums should generally be limited to principal repayments alone.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §10.3.1: Loan Administration and Disbursement, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 27",
+    "question": "Which of the following is NOT a typical risk associated with Real Estate Project Finance?",
+    "options": {
+      "A": "Construction Risk",
+      "B": "Compliance Risk",
+      "C": "Clearing Risk",
+      "D": "Environmental Risk"
+    },
+    "discussion": [
+      "Selected Answer: C. Clearing Risk is a type of credit risk related to payment systems and is not a specific risk associated with Real Estate Project Finance. Construction, Compliance, and Environmental Risks are typical (section 10.7.5)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Clearing Risk"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 28",
+    "question": "For Real Estate Finance projects, the Bank will NOT finance:",
+    "options": {
+      "A": "Professional fees",
+      "B": "Land costs",
+      "C": "Cost of building materials",
+      "D": "Construction costs"
+    },
+    "discussion": [
+      "Selected Answer: B. Access Bank will not finance the cost of land, professional and other fees. Lending shall be used entirely to finance construction cost components (section 10.7.11)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Land costs"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 29",
+    "question": "What is the minimum equity contribution for a Real Estate Finance project?",
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "10%",
+      "D": "20%"
+    },
+    "discussion": [
+      "Selected Answer: A. The borrower must have equity in the project of not less than 30% of the total cost, including land (section 10.7.11)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 30%"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 30",
+    "question": "What is the maximum loan tenor for direct loans to developers for financing housing estates (including any moratorium period)?",
+    "options": {
+      "A": "10 years",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "7 years"
+    },
+    "discussion": [
+      "Selected Answer: C. Direct loans to developers for financing housing estates will be for a period or tenor not exceeding five years (including any moratorium period) (section 10.7.16)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 5 years"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 31",
+    "question": "In Project Finance, the primary source of loan repayment is:",
+    "options": {
+      "A": "The parent company’s balance sheet",
+      "B": "The revenues generated by the project itself",
+      "C": "The sponsor’s personal assets",
+      "D": "A government bailout"
+    },
+    "discussion": [
+      "Selected Answer: B. In project finance, the lender looks primarily to the revenues generated by a single project, both as the source of repayment and as security for the exposure (section 10.4)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The revenues generated by the project itself"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 32",
+    "question": "Which type of risk is mitigated by a fixed‑price, fixed‑delivery Engineering, Procurement and Construction (EPC) contract in Project Finance?",
+    "options": {
+      "A": "Construction risk, cost and delay",
+      "B": "Political risk",
+      "C": "Operating risk",
+      "D": "Market risk"
+    },
+    "discussion": [
+      "Selected Answer: A. A General Constructor Agreement (or EPC contract) that provides a fixed price and a fixed delivery term is a key mitigant for Construction Risk (section 10.4)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Construction risk, cost and delay"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 33",
+    "question": "What is the minimum sponsor equity contribution required for a Project Finance loan?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "10%",
+      "D": "20%"
+    },
+    "discussion": [
+      "Selected Answer: D. The Sponsor has to ensure a minimum contribution of 20% to the project (section 10.4)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 20%"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 34",
+    "question": "In Project Finance, what is the purpose of a Debt Service Reserve Account (DSRA)?",
+    "options": {
+      "A": "To fund project expansion",
+      "B": "To provide extra collateral",
+      "C": "To reserve against debt-service shortfalls",
+      "D": "To pay operating expenses"
+    },
+    "discussion": [
+      "Selected Answer: C. A DSRA is built up to ensure debt service payments can be made even if project cash flows are insufficient (section 10.4)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. To reserve against debt-service shortfalls"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 35",
+    "question": "Which of the following is a typical security for Project Finance loans?",
+    "options": {
+      "A": "Assignment of operating revenues",
+      "B": "Personal guarantee of the project manager",
+      "C": "Letter of comfort from the government",
+      "D": "A verbal undertaking from the sponsor"
+    },
+    "discussion": [
+      "Selected Answer: A. Project finance security includes assignment of operating revenues, mortgage on project facilities, pledge of bank accounts, etc. (section 10.4)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Assignment of operating revenues"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 36",
+    "question": "In Object Finance, which of the following is a major risk that must be mitigated?",
+    "options": {
+      "A": "Repayment Risk",
+      "B": "Diversion Risk",
+      "C": "All of the above",
+      "D": "Performance Risk (the object may not perform as expected)"
+    },
+    "discussion": [
+      "Selected Answer: C. Major risks in Object Finance include Performance Risk, Repayment Risk, Diversion Risk, and Tenor Mismatch (section 10.6.3)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 37",
+    "question": "For Object Finance, what is the minimum equity contribution required from the customer?",
+    "options": {
+      "A": "30% to 40%",
+      "B": "40% to 50%",
+      "C": "10% to 30%",
+      "D": "20% to 30%"
+    },
+    "discussion": [
+      "Selected Answer: C. Customer shall make an equity contribution of 10% to 30% depending on the risk profile of the obligor and the transaction (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 10% to 30%"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 38",
+    "question": "In Object Finance, a Marine surveyor report from an Access Bank approved Marine Surveyor shall be obtained as condition precedent to:",
+    "options": {
+      "A": "review/analysis for vessels that are brand new",
+      "B": "Drawdown for vessels that are not brand new",
+      "C": "review/analysis for vessels that are not brand new",
+      "D": "Drawdown for vessels that are brand new"
+    },
+    "discussion": [
+      "Selected Answer: C. Marine surveyor report from Access Bank approved Marine Surveyor shall be obtained as condition precedent to review/analysis for vessels that are not brand new (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. review/analysis for vessels that are not brand new"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 39",
+    "question": "Under Object Finance, the Marine Survey report must state the following, EXCEPT:",
+    "options": {
+      "A": "market value of the vessel",
+      "B": "the date for the next special survey",
+      "C": "the date for the next dry docking",
+      "D": "Forced Sale Value of the vessel"
+    },
+    "discussion": [
+      "Selected Answer: D. The Marine Survey report must state the market value of the vessel, the date for the next special survey, and the date for the next dry docking. Forced Sale Value is not required (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Forced Sale Value of the vessel"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 40",
+    "question": "In Object Finance, the customer must have a minimum of how many years of proven experience in the type of contract to be undertaken?",
+    "options": {
+      "A": "4 years",
+      "B": "5 years",
+      "C": "6 years",
+      "D": "3 years"
+    },
+    "discussion": [
+      "Selected Answer: B. Customer must have minimum of 5 years of proven experience in the type of contract to be undertaken (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 5 years"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 41",
+    "question": "In Object Finance, can a second‑hand vessel be financed if it is free from encumbrance and fit for purpose?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "discussion": [
+      "Selected Answer: A. Second hand vessel can be financed if it is free from encumbrance and fit for purpose (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 42",
+    "question": "In Reserve Based Lending (RBL), which type of reserves does the Bank primarily lend against?",
+    "options": {
+      "A": "Exploration prospects",
+      "B": "Possible reserves only",
+      "C": "Proven, Developed, and Producing (PDP) reserves",
+      "D": "Undeveloped reserves without any production history"
+    },
+    "discussion": [
+      "Selected Answer: C. The lending shall be restricted to Proven, Developed, and Producing (PDP) reserves (section 10.5)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Proven, Developed, and Producing (PDP) reserves"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 43",
+    "question": "In Reserve Based Lending, the borrowing base is determined by:",
+    "options": {
+      "A": "The customer's turnover",
+      "B": "Technical valuation of the borrower's proved reserves",
+      "C": "The customer's credit history",
+      "D": "The Bank's internal risk rating"
+    },
+    "discussion": [
+      "Selected Answer: B. The borrowing base is determined by analysing previous production reports and independent engineering evaluations of proved reserves (section 10.5)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Technical valuation of the borrower's proved reserves"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 44",
+    "question": "In Reserve Based Lending, what is the purpose of a Competent Persons Report (CPR)?",
+    "options": {
+      "A": "To assess the borrower's management team",
+      "B": "To confirm the borrower's tax status",
+      "C": "To evaluate the political risk in the host country",
+      "D": "To provide an independent reserve valuation"
+    },
+    "discussion": [
+      "Selected Answer: D. The Competent Persons report (CPR) shall contain sufficient information and documentation to support the assumptions and the analysis used to derive the forecasted cash flows and discounted PV (section 10.5)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. To provide an independent reserve valuation"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 45",
+    "question": "In Reserve Based Lending, how often is the borrowing base normally reset?",
+    "options": {
+      "A": "Annually",
+      "B": "Only at the inception of the loan",
+      "C": "Every 3 months",
+      "D": "Every 6 months"
+    },
+    "discussion": [
+      "Selected Answer: D. The borrowing base is normally reset every six months (section 10.5)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Every 6 months"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 46",
+    "question": "In Reserve Based Lending, the Bank shall require an independent reserve audit every:",
+    "options": {
+      "A": "5 years",
+      "B": "1 year",
+      "C": "2 years",
+      "D": "4 years"
+    },
+    "discussion": [
+      "Selected Answer: D. The revaluation of the reserves shall require an independent reserve audit company to prepare or audit the reserve reports and shall be conducted every 4 years from the date of first availment (section 10.5)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 4 years"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 47",
+    "question": "Which of the following is a characteristic of Reserve Based Lending (RBL)?",
+    "options": {
+      "A": "Secured by liens on oil/gas interests",
+      "B": "Unsecured lending",
+      "C": "Based on credit score",
+      "D": "Only for retail customers"
+    },
+    "discussion": [
+      "Selected Answer: A. RBLs take the form of a borrowing base revolving credit facility secured by liens on oil and gas mineral interests (section 10.5)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Secured by liens on oil/gas interests"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 48",
+    "question": "In Reserve Based Lending, how is the borrowing base deficiency typically cured?",
+    "options": {
+      "A": "Reducing the loan amount immediately",
+      "B": "The bank simply calling the loan",
+      "C": "The borrower issuing new shares",
+      "D": "Adding more reserves to the collateral base"
+    },
+    "discussion": [
+      "Selected Answer: D. The borrowing base deficiency shall be cured by the borrower adding additional oil and gas properties to the collateral base, or by monthly commitment reductions (section 10.5)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Adding more reserves to the collateral base"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 49",
+    "question": "Under the Mining lending framework, which team acts as the Centre of Excellence for coordinating lending activities to Mining companies?",
+    "options": {
+      "A": "The Subsidiary Relationship Management team",
+      "B": "The Project Monitoring Unit",
+      "C": "The Corporate Banking team in South Africa",
+      "D": "The Head Office Credit Risk Management team"
+    },
+    "discussion": [
+      "Selected Answer: C. The Corporate Banking team in South Africa will act as the Center of Excellence, responsible for coordinating the lending activities to Mining companies (section 10.10)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. The Corporate Banking team in South Africa"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 50",
+    "question": "For a Mining transaction, what must be in place before any lending is considered?",
+    "options": {
+      "A": "A fully paid‑up shareholder loan",
+      "B": "A Mining Permit",
+      "C": "A personal guarantee from the mining engineer",
+      "D": "A letter of comfort from the host government"
+    },
+    "discussion": [
+      "Selected Answer: B. Mining Permit must be in place (section 10.8)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A Mining Permit"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 51",
+    "question": "Which of the following is an example of a government‑sponsored agricultural financing scheme mentioned in the CPG?",
+    "options": {
+      "A": "Commercial Agricultural Credit Scheme (CACS)",
+      "B": "Anchor Borrowers' Programme (ABP)",
+      "C": "Accelerated Agricultural Development Scheme (AADS)",
+      "D": "All of the above"
+    },
+    "discussion": [
+      "Selected Answer: D. The CPG mentions CACS, ABP, AADS, Rice Distributors' Facility, Export Facilitation Initiative, etc. (section 10.3.5)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 52",
+    "question": "What is the maximum loan limit under the Commercial Agricultural Credit Scheme (CACS)?",
+    "options": {
+      "A": "N2 billion",
+      "B": "N5 billion",
+      "C": "N10 billion",
+      "D": "N1 billion"
+    },
+    "discussion": [
+      "Selected Answer: A. The SOL for CACS is set at N2 billion per project (section 10.3.5.1)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. N2 billion"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 53",
+    "question": "What is the all‑in interest rate for loans under the Anchor Borrowers' Programme (ABP)?",
+    "options": {
+      "A": "9%",
+      "B": "12%",
+      "C": "5%",
+      "D": "7%"
+    },
+    "discussion": [
+      "Selected Answer: A. Loans under the Anchor Borrowers' Programme are disbursed at an all‑in interest rate of 9% (section 10.3.5)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 9%"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 54",
+    "question": "Which of the following is an excluded project under the Agricultural Finance Policy?",
+    "options": {
+      "A": "A project to finance an agro‑processing plant",
+      "B": "A mechanized commercial farming project",
+      "C": "A project proposed by an unprofitable company",
+      "D": "A project to finance the purchase of agricultural equipment"
+    },
+    "discussion": [
+      "Selected Answer: C. Projects proposed by loss‑making or unprofitable companies are excluded (section 10.3.3)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A project proposed by an unprofitable company"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 55",
+    "question": "For Agricultural financing, what is the target market segment?",
+    "options": {
+      "A": "Producers, processors, aggregators, exporters, mechanization",
+      "B": "Large-scale commercial farmers only",
+      "C": "Cooperative societies only",
+      "D": "Government-owned projects only"
+    },
+    "discussion": [
+      "Selected Answer: A. The target market includes these value chain activities (section 10.3.2)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Producers, processors, aggregators, exporters, mechanization"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 56",
+    "question": "In Project Finance, what is the purpose of a ‘Preferred Creditor Status’ protection?",
+    "options": {
+      "A": "To mitigate transfer and convertibility risk",
+      "B": "To increase the interest rate",
+      "C": "To bypass the Environmental Impact Assessment",
+      "D": "To obtain preferential treatment in case of country default"
+    },
+    "discussion": [
+      "Selected Answer: A. Multilateral development banks (i.e. IFC, AfDB) “Preferred Creditor Status” protection mitigates transfer and convertibility risk for B Loan participants (section 10.4)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. To mitigate transfer and convertibility risk"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 57",
+    "question": "In Project Finance, what is the typical maximum moratorium period?",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "6 months",
+      "D": "1 year"
+    },
+    "discussion": [
+      "Selected Answer: A. Under the RSSF scheme, moratorium period is 2 years; generally project finance moratoriums are set based on project gestation, not fixed, but often up to 2 years (section 10.4)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 2 years"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 58",
+    "question": "In Object Finance, the Bank shall ensure that the expiration of the certificate of class is at least:",
+    "options": {
+      "A": "48 months",
+      "B": "12 months",
+      "C": "24 months",
+      "D": "36 months"
+    },
+    "discussion": [
+      "Selected Answer: C. Only vessels that are in class shall be financed. The bank shall ensure that the expiration of the certificate of class is at least 24 months (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 24 months"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 59",
+    "question": "In Object Finance, the customer's contract must be a multi‑year time charter agreement – what is the preferred alternative if only a Letter of Intent (LOI) is available?",
+    "options": {
+      "A": "Funding still possible with strong 6-month contract assurance",
+      "B": "An LOI is never accepted",
+      "C": "An LOI needs 100% cash collateral",
+      "D": "An LOI works only for government charters"
+    },
+    "discussion": [
+      "Selected Answer: A. The use of LOI is strongly discouraged, but the bank shall consider funding on a case‑by‑case basis where there is strong assurance of a firm contract within 6 months (section 10.6.2)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Funding still possible with strong 6-month contract assurance"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 60",
+    "question": "In Object Finance, what is the purpose of a Performance Bond (PB) from the ship builder (for new vessels)?",
+    "options": {
+      "A": "To provide additional collateral",
+      "B": "To ensure delivery on time",
+      "C": "All of the above",
+      "D": "To mitigate performance risk"
+    },
+    "discussion": [
+      "Selected Answer: C. Performance Bond is a risk mitigant for performance, delivery, and collateral (section 10.6.3)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 61",
+    "question": "In Object Finance, what is the maximum loan amount to one obligor (or group) as a percentage of the Bank's total shareholders' funds?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "10%",
+      "D": "20%"
+    },
+    "discussion": [
+      "Selected Answer: D. Financing of objects from one obligor (or a group of related obligors) shall not be more than 20% of the Bank's total shareholders’ funds (section 10.6.11)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 20%"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 62",
+    "question": "In Object Finance, the borrower must have a minimum of what percentage equity in the object's cost?",
+    "options": {
+      "A": "30%",
+      "B": "10%",
+      "C": "15%",
+      "D": "20%"
+    },
+    "discussion": [
+      "Selected Answer: B. The borrower must have minimum of 10% equity in the object’s cost (section 10.6.11)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 10%"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 63",
+    "question": "In Real Estate Finance, which of the following is NOT a stage of risk associated with Real Estate Project Finance?",
+    "options": {
+      "A": "Scheme Design / Development",
+      "B": "Construction",
+      "C": "Operation",
+      "D": "Syndication"
+    },
+    "discussion": [
+      "Selected Answer: D. The risks are associated with scheme design, construction, and operation stages; syndication is a funding method, not a risk stage (section 10.7.5)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Syndication"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 64",
+    "question": "In Real Estate Finance, the Bank shall not fund projects where the borrower is also the contractor, except under what condition?",
+    "options": {
+      "A": "Never, even if the borrower is a developer",
+      "B": "Always, given a personal guarantee",
+      "C": "Only if the project is below N1 billion",
+      "D": "For an established developer, with one-up approval"
+    },
+    "discussion": [
+      "Selected Answer: D. The bank shall not fund projects where the borrower is also the contractor except where the borrower is an established real estate developer (exception to this shall require one up approval) (section 10.7.13)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. For an established developer, with one-up approval"
+  },
+  {
+    "url": null,
+    "question_no": "Specialized Lending Policy - Question 65",
+    "question": "In Real Estate Finance, what is the maximum loan tenor for short‑term facilities?",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "1 year",
+      "D": "2 years"
+    },
+    "discussion": [
+      "Selected Answer: D. Short‑term facilities shall be for periods not exceeding 2 years (section 10.7.16)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 2 years"
+  }
+]

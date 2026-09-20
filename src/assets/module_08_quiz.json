@@ -1,0 +1,678 @@
+[
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 1",
+    "question": "An Export Finance Facility is designed to finance which stages of export trade?",
+    "options": {
+      "A": "Both pre-shipment and post-shipment credit",
+      "B": "Pre-shipment credit only, ending at the port",
+      "C": "Post-shipment credit only, starting at shipment",
+      "D": "Neither — only insurance costs on the shipment"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.10."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Both pre-shipment and post-shipment credit"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 2",
+    "question": "What is the tenor of an Export Finance Facility?",
+    "options": {
+      "A": "Up to 5 years, non-renewable",
+      "B": "A fixed 90 days with no renewal option",
+      "C": "No defined tenor — it runs for the life of the underlying export contract",
+      "D": "Up to 12 months, subject to renewal"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.6.10."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Up to 12 months, subject to renewal"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 3",
+    "question": "Approved credit product programs shall demonstrate that the behaviour of the portfolio will not be predictable in terms of yield, delinquencies and write-offs",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 3.6.11 requires the opposite: 'shall demonstrate that the behaviour of the portfolio will be predictable...'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 4",
+    "question": "Which of the following must an approved credit product program specify?",
+    "options": {
+      "A": "The font and letterhead for customer correspondence",
+      "B": "Program/individual limits, funding instruments, and tenor range",
+      "C": "The exact number of branches permitted to originate",
+      "D": "The approving Group Head's personal phone number"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 3.6.11's required elements."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Program/individual limits, funding instruments, and tenor range"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 5",
+    "question": "Which of the following is listed among the Bank's product programs?",
+    "options": {
+      "A": "Cash Collateralized Product Program",
+      "B": "Bills for Collection Program",
+      "C": "FUSS (Facility Upgrade and Support Scheme)",
+      "D": "DAUE (Drawings Against Uncleared Effects)"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.6.11's list."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Cash Collateralized Product Program"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 6",
+    "question": "The list of the Bank's credit product programs shall be subject to periodic reviews, which shall be approved by which body?",
+    "options": {
+      "A": "Board Credit Committee (BCC)",
+      "B": "Central Bank of Nigeria",
+      "C": "External auditors only",
+      "D": "Management Credit Committee (MCC)"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.6.11."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Management Credit Committee (MCC)"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 7",
+    "question": "Where are the specific terms and conditions for each individual credit product program detailed?",
+    "options": {
+      "A": "Only in the Board Credit Committee Charter",
+      "B": "In the customer's individual offer letter only, with no standing program document",
+      "C": "In the Product Program memo for that program",
+      "D": "Nowhere — they are left to each Relationship Manager's discretion"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 3.6.11."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. In the Product Program memo for that program"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 8",
+    "question": "Off-balance sheet credit facilities are best described as:",
+    "options": {
+      "A": "Facilities that automatically convert to term loans after 90 days",
+      "B": "Facilities creating contingent liabilities that crystallize when the underlying event occurs",
+      "C": "Facilities that never appear in the Bank's records under any circumstance",
+      "D": "Facilities available exclusively to government agencies"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Facilities creating contingent liabilities that crystallize when the underlying event occurs"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 9",
+    "question": "Must every approved contingent (off-balance sheet) facility have a simultaneously approved backup direct facility?",
+    "options": {
+      "A": "Yes, and that approval must guide disbursement if the contingent facility crystallizes",
+      "B": "No, backup direct facilities are optional and rarely used in practice",
+      "C": "Only for facilities exceeding N10 billion",
+      "D": "Only where the beneficiary is a foreign entity"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes, and that approval must guide disbursement if the contingent facility crystallizes"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 10",
+    "question": "Contingent facilities generally must have a clearly defined tenor tied to the underlying contract's tenor. Is there any exception to this rule?",
+    "options": {
+      "A": "No, every contingent facility must have a fixed tenor, with no exceptions",
+      "B": "Yes, but only for facilities below N1 million",
+      "C": "Yes, but only where the beneficiary waives the requirement in writing",
+      "D": "Yes, Federal Government/MDA-related exposures may stay open-ended until discharged"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Yes, Federal Government/MDA-related exposures may stay open-ended until discharged"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 11",
+    "question": "Under what conditions might a bond or guarantee still be effective without upfront 100% cash cover, counter-indemnity, or tangible security?",
+    "options": {
+      "A": "Only where the customer is a Bank staff member",
+      "B": "Only for instruments below N500,000",
+      "C": "Where the clause ties effectiveness to an equivalent cash amount",
+      "D": "Never — 100% cash cover is an absolute requirement"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 3.6.12's Bank Guarantees provisions."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Where the clause ties effectiveness to an equivalent cash amount"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 12",
+    "question": "Which of the following must Access Bank's obligation under a guarantee/bond instrument contain?",
+    "options": {
+      "A": "A requirement that the obligor be publicly listed",
+      "B": "A fixed term, with the contract outlasting the instrument",
+      "C": "No expiration date, by design",
+      "D": "Indefinite extension at the beneficiary's request"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 3.6.12."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A fixed term, with the contract outlasting the instrument"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 13",
+    "question": "If a guarantee/bond is called, what obligation does the underlying obligor have toward the Bank?",
+    "options": {
+      "A": "An unqualified obligation to reimburse the Bank on the instrument's terms",
+      "B": "No obligation at all — the Bank absorbs the full loss",
+      "C": "Reimbursement only if the obligor's own auditors approve",
+      "D": "An obligation capped at 50% of the amount paid out"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.6.12."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. An unqualified obligation to reimburse the Bank on the instrument's terms"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 14",
+    "question": "An Advance Payment Guarantee (APG) is typically used to underpin or guarantee the performance of which kind of contract?",
+    "options": {
+      "A": "Only employment contracts between the Bank and its own staff",
+      "B": "Only contracts for the purchase of Bank shares",
+      "C": "Only insurance contracts underwritten by the Bank itself",
+      "D": "A commercial contract, such as a goods sale or a construction contract"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A commercial contract, such as a goods sale or a construction contract"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 15",
+    "question": "Under an Advance Payment Guarantee, what is the issuer's obligation, and how may it be structured?",
+    "options": {
+      "A": "The issuer has no real obligation — the APG is purely a formality with no enforceability",
+      "B": "The issuer's obligation transfers automatically to the Contract Employer on issuance",
+      "C": "A primary (on-demand) or secondary (guarantee) obligation to cover the customer's default",
+      "D": "The issuer's obligation is always secondary, never an on-demand indemnity"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A primary (on-demand) or secondary (guarantee) obligation to cover the customer's default"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 16",
+    "question": "Commercial Papers (CP), as described in the CPG, are best defined as:",
+    "options": {
+      "A": "A retail savings product for salary accounts",
+      "B": "Unsecured short-term notes issued via an issuing house",
+      "C": "Secured long-term Federal Government bonds",
+      "D": "A collateral document used only in warehousing"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.6.13."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Unsecured short-term notes issued via an issuing house"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 17",
+    "question": "What is the typical tenor range for Commercial Papers under the CPG?",
+    "options": {
+      "A": "Between 30 and 180 days",
+      "B": "Between 1 and 5 years",
+      "C": "A fixed 12 months, with no variation permitted",
+      "D": "Between 360 and 720 days"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.13."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Between 30 and 180 days"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 18",
+    "question": "When Access Bank guarantees a Commercial Paper issuance, how is this treated from a risk perspective, compared to intermediating a CP without a guarantee?",
+    "options": {
+      "A": "Both are treated as direct exposure regardless",
+      "B": "Guaranteed CPs carry no risk to the Bank",
+      "C": "The Bank may never guarantee a CP",
+      "D": "Guaranteed CPs are direct exposure; others just earn a fee"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.6.13."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Guaranteed CPs are direct exposure; others just earn a fee"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 19",
+    "question": "How does the CPG define a Letter of Credit (LC)?",
+    "options": {
+      "A": "A guarantee covering only the importer's payroll obligations",
+      "B": "A retail product used only for domestic transactions",
+      "C": "A written undertaking to pay an exporter against complying documents",
+      "D": "An unconditional cash advance, with no documentary requirement"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 3.6.14."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A written undertaking to pay an exporter against complying documents"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 20",
+    "question": "Under the CPG's definition of an LC arrangement, what may the issuing bank do, acting at the request and instruction of the applicant?",
+    "options": {
+      "A": "Only accept drafts, never make direct payment",
+      "B": "Pay, accept/pay drafts, or authorize another bank to pay against documents",
+      "C": "Only pay directly to the applicant's own account",
+      "D": "Only issue the LC, with no authority to involve other banks"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.6.14."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Pay, accept/pay drafts, or authorize another bank to pay against documents"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 21",
+    "question": "What assurance does a Standby Letter of Credit (SBLC) give to its beneficiary?",
+    "options": {
+      "A": "A claim on the bank via draft and simple demand",
+      "B": "The underlying goods will arrive on time, dispute or not",
+      "C": "The issuing bank inspects the goods personally first",
+      "D": "Payment is automatic, with no documentation required"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.14."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. A claim on the bank via draft and simple demand"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 22",
+    "question": "What does CORR (Credit Officer Risk Rating) measure?",
+    "options": {
+      "A": "The Credit Officer's personal creditworthiness for their own bank facilities",
+      "B": "The number of years a Credit Officer has worked at the Bank",
+      "C": "The Credit Officer's sales and deposit-mobilization performance only",
+      "D": "A Credit Officer's risk-consciousness and efforts to protect portfolio quality"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.4."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A Credit Officer's risk-consciousness and efforts to protect portfolio quality"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 23",
+    "question": "The CORR measure is derived from a Credit Officer's performance in which two areas?",
+    "options": {
+      "A": "Years of service and academic qualifications",
+      "B": "Branch profitability and headcount managed",
+      "C": "Administration and Monitoring",
+      "D": "Sales volume and customer satisfaction scores"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 3.4."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Administration and Monitoring"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 24",
+    "question": "Within CORR's 'Administration' component, what does 'Limit Management' specifically focus on?",
+    "options": {
+      "A": "The officer's punctuality and attendance record",
+      "B": "Sector-limit, watch-listed, and low-mitigant exposures that pressure Capital Adequacy",
+      "C": "The number of new accounts opened by the officer each month",
+      "D": "The officer's personal compliance-training completion status"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.4."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Sector-limit, watch-listed, and low-mitigant exposures that pressure Capital Adequacy"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 25",
+    "question": "Why is CORR's 'Monitoring' component assigned a higher weight than 'Administration'?",
+    "options": {
+      "A": "To help reduce impairment and preserve profitability",
+      "B": "Because monitoring is easier to measure",
+      "C": "Because Administration is being phased out",
+      "D": "Because Monitoring is assessed once every 3 years"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.4."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. To help reduce impairment and preserve profitability"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 26",
+    "question": "Under the CORR Grid, what does a 'CORR 1' rating (5% of the scale) represent?",
+    "options": {
+      "A": "Above Average Risk",
+      "B": "Moderate Risk",
+      "C": "Unratable / No Data",
+      "D": "Low Risk"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 3.4.1's CORR Grid."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Low Risk"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 27",
+    "question": "What is the stated goal of the CORR framework with respect to Lending Officers?",
+    "options": {
+      "A": "To remove Administration entirely from performance measurement",
+      "B": "To replace the annual performance appraisal process altogether",
+      "C": "To align officers with target asset quality without excluding anyone from lending",
+      "D": "To rank officers competitively and terminate the bottom 10% annually"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 3.4.1."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. To align officers with target asset quality without excluding anyone from lending"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 28",
+    "question": "Commercial Paper (CP) are secured short-term promissory notes of corporate bodies, issued directly to the investing public, sometimes through an issuing house",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – CPs are unsecured (section 3.6.13)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 29",
+    "question": "Typically, Commercial Papers (CPs) have tenors between 45 days and 270 days",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – correct range is 30 to 180 days (section 3.6.13)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 30",
+    "question": "What kind of risk is the Bank exposed to on all Commercial Papers it intermediates, whether guaranteed or not?",
+    "options": {
+      "A": "No risk whatsoever",
+      "B": "Only market risk, never credit or reputation risk",
+      "C": "Sovereign risk exclusively",
+      "D": "Reputation risk"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 3.6.13."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Reputation risk"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 31",
+    "question": "Off-balance sheet (contingent) facilities generally require a clearly defined tenor tied to the tenor of the underlying contract. What is the practical reason for tying the two together?",
+    "options": {
+      "A": "Purely a documentation formality, with no risk rationale",
+      "B": "To ensure the Bank profits regardless of contract performance",
+      "C": "So the exposure period matches when the obligation could be called",
+      "D": "So the account officer earns a renewal fee each quarter"
+    },
+    "discussion": [
+      "Selected Answer: C. New question reinforcing section 3.6.12."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. So the exposure period matches when the obligation could be called"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 32",
+    "question": "A backup direct facility approved alongside a contingent facility exists for what purpose?",
+    "options": {
+      "A": "To fund the Bank's own operating expenses",
+      "B": "To guide disbursement if the contingent facility crystallizes",
+      "C": "To give the customer a wholly separate, unrelated facility",
+      "D": "To replace the contingent facility automatically after 30 days"
+    },
+    "discussion": [
+      "Selected Answer: B. Reinforces section 3.6.12."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. To guide disbursement if the contingent facility crystallizes"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 33",
+    "question": "Which of the following contingent exposures may be open-ended, without the usual fixed-tenor requirement?",
+    "options": {
+      "A": "Contracts awarded by the Federal Government and its MDAs",
+      "B": "Any state-owned enterprise, regardless of contract source",
+      "C": "Any customer with a 10-year account history",
+      "D": "No contingent exposure may ever be open-ended"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.6.12."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Contracts awarded by the Federal Government and its MDAs"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 34",
+    "question": "No credit exposure shall be created on the judgment or at the discretion of a single bank officer acting independently",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's entire approval-authority architecture."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 35",
+    "question": "Individual credits (as distinct from credit product programs) are applicable to which customers?",
+    "options": {
+      "A": "Only customers with facilities above N1 billion",
+      "B": "All customers by default, program or not",
+      "C": "Customers who don't fit any existing product programme",
+      "D": "Only customers who are also Bank staff"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed – individual credit assessment is the fallback path."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Customers who don't fit any existing product programme"
+  },
+  {
+    "url": null,
+    "question_no": "Export Finance, Product Programs, Off-Balance Sheet Facilities, Commercial Papers, LCs, CORR & Governance - Question 36",
+    "question": "May four officers from a business unit jointly approve a reallocation or sub-allocation from an approved facility to establish or increase another facility, where the obligor, exposure type and tenor are pre-established?",
+    "options": {
+      "A": "Yes, but only for reallocations below N1 million",
+      "B": "No — a flat group of any four officers is not the correct approval mechanism",
+      "C": "Yes, any four officers regardless of seniority may jointly approve such a reallocation",
+      "D": "Yes, but only if all four are Relationship Managers"
+    },
+    "discussion": [
+      "Selected Answer: B. False as originally stated – the correct mechanism requires a smaller, specifically-qualified group."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. No — a flat group of any four officers is not the correct approval mechanism"
+  }
+]

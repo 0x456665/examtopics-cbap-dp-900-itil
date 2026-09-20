@@ -1,0 +1,1694 @@
+[
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 1",
+    "question": "What distinguishes a 'time loan' from a 'term loan' under the CPG?",
+    "options": {
+      "A": "A time loan funds working capital; a term loan funds real estate only",
+      "B": "No distinction; the terms are interchangeable",
+      "C": "A time loan runs a year or less; a term runs longer",
+      "D": "A time loan is unsecured; a term loan is secured"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 3.6.1."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A time loan runs a year or less; a term runs longer"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 2",
+    "question": "Term/Time loans are normally given to finance specific transactions, capital projects, and expansion programs",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 3",
+    "question": "Which of the following is listed as an example of a credit product qualifying as a Term Loan?",
+    "options": {
+      "A": "Equipment Financing",
+      "B": "Temporary Overdraft",
+      "C": "Cash Collateralized Facility",
+      "D": "Bid Bond"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 3.6.1 lists Equipment Financing, New Technology Capital Loan, Asset Replacement, Personal Loan, and Mortgage Facilities."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Equipment Financing"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 4",
+    "question": "For project- or object-related loans where cash flows are tied to project completion or asset manufacture/installation, the Bank may approve bullet repayment provided which of the following is included?",
+    "options": {
+      "A": "A personal guarantee from the project engineer only",
+      "B": "Waiver of all collateral requirements",
+      "C": "Automatic conversion to a revolving credit at maturity",
+      "D": "A DSRA build-up, robust collections, and pre-liquidation ahead of maturity"
+    },
+    "discussion": [
+      "Selected Answer: D. New question from section 3.6.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A DSRA build-up, robust collections, and pre-liquidation ahead of maturity"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 5",
+    "question": "Term loans shall not be given to finance operating expenses",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the CPG's product categorization."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 6",
+    "question": "The tenor of a revolving credit facility must not exceed how many years?",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "1 year",
+      "D": "5 years"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.6.2."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 3 years"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 7",
+    "question": "Revolving credits are long-term/tenured facilities unrelated to the customer's business or trading cycle",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 3.6.2 says they are short-term and relate to the customer's trading cycle."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 8",
+    "question": "On repayment of a revolving credit, may the customer re-borrow under the same conditions?",
+    "options": {
+      "A": "No, a fresh full credit approval is always required for every re-borrowing",
+      "B": "Yes, but only up to 50% of the original facility amount",
+      "C": "No, revolving credits do not permit any re-borrowing by definition",
+      "D": "Yes, provided there is no material change to the customer's financial position"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 3.6.2."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Yes, provided there is no material change to the customer's financial position"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 9",
+    "question": "Qualification for revolving credit facilities shall be limited to customers with established businesses in stable industries",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed, section 3.6.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 10",
+    "question": "Which of the following is listed among the qualifying product lines for revolving credit facilities?",
+    "options": {
+      "A": "Agricultural Term Loan",
+      "B": "Distributor Finance",
+      "C": "Mortgage Facilities",
+      "D": "Temporary Overdraft"
+    },
+    "discussion": [
+      "Selected Answer: B. Section 3.6.2 lists Distributor Finance among qualifying product lines."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Distributor Finance"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 11",
+    "question": "What is the maximum tenor of an overdraft facility, subject to renewal on application?",
+    "options": {
+      "A": "12 months",
+      "B": "6 months",
+      "C": "24 months",
+      "D": "No fixed maximum"
+    },
+    "discussion": [
+      "Selected Answer: A. New question from section 3.6.3."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 12 months"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 12",
+    "question": "Which of the following are important considerations for overdraft facilities and their approved exposure limit?",
+    "options": {
+      "A": "Only the customer's years as an account holder",
+      "B": "Only the customer's average savings balance",
+      "C": "Only whether the customer holds a premium debit card",
+      "D": "Profitability, asset conversion cycle, and exposure to other lenders"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 3.6.3."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Profitability, asset conversion cycle, and exposure to other lenders"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 13",
+    "question": "An overdraft does not have to meet the Bank's legal and internal documentation guidelines",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – an overdraft is a credit facility and subject to standard documentation requirements."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 14",
+    "question": "An overdraft fluctuates regularly and may even move into credit periodically as the business cycle completes",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with working-capital purpose."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 15",
+    "question": "Though theoretically repayable on demand, an overdraft may in practice run from year to year without being called in",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with standard practice."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 16",
+    "question": "For an overdraft line, a formal notice to the customer is not required if the line is to be cancelled, frozen, or the account closed",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – formal notice is required before such actions."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 17",
+    "question": "A lease facility exists where Access Bank acquires or funds the acquisition of capital assets at a client's request and then hires or leases the asset back to the client. Where does title to the asset sit during the lease term?",
+    "options": {
+      "A": "Title is held jointly, from the start",
+      "B": "Title never transfers, even after repayment",
+      "C": "Title stays with the Bank until repaid and purchased",
+      "D": "Title transfers right away, on delivery"
+    },
+    "discussion": [
+      "Selected Answer: C. New question from section 3.6.4."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Title stays with the Bank until repaid and purchased"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 18",
+    "question": "Structuring and documentation for a lease transaction must take account of which factors?",
+    "options": {
+      "A": "Only whether the client has a pre-existing current account",
+      "B": "Flexible pricing, prompt repossession rights, and adequate insurance",
+      "C": "Only the make and model of the leased vehicle",
+      "D": "Only the client's preferred payment date each month"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 3.6.4."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Flexible pricing, prompt repossession rights, and adequate insurance"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 19",
+    "question": "In general, warehouse financing should only be considered where the goods financed are slow-moving consumer goods",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 3.6.5 requires 'fast moving consumer goods.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 20",
+    "question": "Generally, goods financed under a warehouse financing arrangement are released from stock on a LIFO (last-in, first-out) basis",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 3.6.5 specifies FIFO, not LIFO."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 21",
+    "question": "The appointment of acceptable warehousing agents for Access Bank shall be approved by MCC based on the recommendation of which officer(s)?",
+    "options": {
+      "A": "The Head of Legal",
+      "B": "The customer's own auditors",
+      "C": "The Chief Risk Officer/ED Risk",
+      "D": "The Relationship Manager"
+    },
+    "discussion": [
+      "Selected Answer: C. CORRECTION – section 3.6.5 names CRO/ED Risk, not RM."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. The Chief Risk Officer/ED Risk"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 22",
+    "question": "In warehouse financing, does Access Bank take physical control of the goods financed, and if so, how?",
+    "options": {
+      "A": "Control is only required for goods valued above N1 billion",
+      "B": "Yes, using an independent, reputable warehousing agent",
+      "C": "No, physical control of goods is never required",
+      "D": "Yes, but only via the Bank's own in-house storage, never a third party"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.6.5."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Yes, using an independent, reputable warehousing agent"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 23",
+    "question": "What is the maximum tenor generally applicable to a warehouse financing facility?",
+    "options": {
+      "A": "12 months",
+      "B": "24 months",
+      "C": "6 months",
+      "D": "36 months"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.6.5."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 12 months"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 24",
+    "question": "Periodic stock-taking is required in warehouse financing to verify which of the following?",
+    "options": {
+      "A": "Only the warehouse building's insured value",
+      "B": "Only the warehousing agent's staff identity",
+      "C": "Nothing, once the agent is approved",
+      "D": "Goods' quantity and quality, at varying frequency"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed against section 3.6.5."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Goods' quantity and quality, at varying frequency"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 25",
+    "question": "In warehouse financing, what must be true of the forced sale value of the goods financed?",
+    "options": {
+      "A": "It is not a relevant consideration once a reputable agent is appointed",
+      "B": "It must equal exactly 100% of the original invoice value of the goods",
+      "C": "It must be adequate to cover the Bank's exposure at all times",
+      "D": "It only needs to cover the exposure at the point of initial disbursement"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 3.6.5."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. It must be adequate to cover the Bank's exposure at all times"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 26",
+    "question": "What is the general maximum tenor for local placements with approved banks?",
+    "options": {
+      "A": "Exactly 90 days, with no exceptions",
+      "B": "Less than 1 year",
+      "C": "Less than 5 years",
+      "D": "No maximum tenor applies"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 3.6.7."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Less than 1 year"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 27",
+    "question": "What limit does the CPG impose on takings from other banks?",
+    "options": {
+      "A": "No fixed limit, though care must be taken to avoid concentration risk",
+      "B": "A flat cap of N5 billion per counterparty bank",
+      "C": "Takings from other banks are prohibited entirely",
+      "D": "A cap equal to 20% of shareholders' funds, same as the One Obligor Limit"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 3.6.7."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. No fixed limit, though care must be taken to avoid concentration risk"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 28",
+    "question": "An Import Finance Facility (IFF) is designed as a working capital facility for customers engaged in importation of goods. What is its tenor, and who is it targeted at?",
+    "options": {
+      "A": "5 years, non-renewable, for first-time importers only",
+      "B": "30 days only, for any account holder regardless of import history",
+      "C": "Indefinite tenor, for government agencies exclusively",
+      "D": "12 months, renewable, for high-volume importers with regular FX demand"
+    },
+    "discussion": [
+      "Selected Answer: D. New question from section 3.6.9."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 12 months, renewable, for high-volume importers with regular FX demand"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 29",
+    "question": "Information gathered from credit calls are properly documented and circulated via:",
+    "options": {
+      "A": "Verbal report to business head and CRM.",
+      "B": "None of the above",
+      "C": "Text message to Group Head and Credit Risk Management.",
+      "D": "Call memo to business head and CRM."
+    },
+    "discussion": [
+      "Selected Answer: D. CPG (page 141) – documented and circulated via call memo."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Call memo to business head and CRM."
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 30",
+    "question": "What is the frequency of the conduct of physical verification of all credit documentation",
+    "options": {
+      "A": "Annually",
+      "B": "Monthly",
+      "C": "Quarterly",
+      "D": "Semi-annually"
+    },
+    "discussion": [
+      "Selected Answer: A. Physical verification conducted annually (page 142)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Annually"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 31",
+    "question": "Review of security documentation frequency",
+    "options": {
+      "A": "Daily",
+      "B": "Weekly",
+      "C": "Monthly",
+      "D": "Annually"
+    },
+    "discussion": [
+      "Selected Answer: D. Annual review (page 142)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Annually"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 32",
+    "question": "Review of Security Documentation recipients",
+    "options": {
+      "A": "MCC",
+      "B": "GCRO, GMD",
+      "C": "BCC",
+      "D": "Business Units"
+    },
+    "discussion": [
+      "Selected Answer: D. Recipients are business units."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Business Units"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 33",
+    "question": "Deferral of any security document for facility under N1bn will require the approval of:",
+    "options": {
+      "A": "The Managing Director/CEO",
+      "B": "The Deputy Managing Director",
+      "C": "The Board of Directors",
+      "D": "Board Credit Committee"
+    },
+    "discussion": [
+      "Selected Answer: B. Terminology updated: the current manual uses 'Managing Director/CEO' and 'Deputy Managing Director,' not the retired 'GMD'/'GDMD' titles. (Underlying approval-level answer preserved from the legacy source, which could not be independently re-confirmed against a specific 'deferral under N1bn' clause in this manual — flagged for awareness.)"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The Deputy Managing Director"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 34",
+    "question": "The CPG provides that the discovery of any declining risk exposure must be brought to the notice of the Chairman of Criticized Assets Committee within:",
+    "options": {
+      "A": "7 days",
+      "B": "24hrs of the discovery",
+      "C": "48hrs of the discovery",
+      "D": "72hrs"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 134) – within one week."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 7 days"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 35",
+    "question": "Whose responsibility is it under the CPG to develop and implement a collateral management plan in respect of each facility?",
+    "options": {
+      "A": "Relationship Manager",
+      "B": "Legal department",
+      "C": "Credit Risk Management",
+      "D": "Credit Administration"
+    },
+    "discussion": [
+      "Selected Answer: C. CRM is responsible for collateral management (page 124)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 36",
+    "question": "In the event of non-compliance with collateralization conditions, whose responsibility is it to report to the Chairman, CAC?",
+    "options": {
+      "A": "Relationship Manager",
+      "B": "Credit Risk Management",
+      "C": "Customer",
+      "D": "Legal department"
+    },
+    "discussion": [
+      "Selected Answer: B. CRM reports breaches (page 133)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 37",
+    "question": "Under the CPG, the responsibility for delinquency Management shall be that of?",
+    "options": {
+      "A": "Relationship Management",
+      "B": "Remedial Assets unit",
+      "C": "Legal department",
+      "D": "Credit Risk Management"
+    },
+    "discussion": [
+      "Selected Answer: B. Remedial Assets Unit handles delinquency (page 45)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Remedial Assets unit"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 38",
+    "question": "Discussions and negotiation in respect of repayment / waiver is the responsibility of:",
+    "options": {
+      "A": "Executive Management",
+      "B": "Relationship Manager",
+      "C": "Credit risk Management",
+      "D": "Remedial Asset Unit"
+    },
+    "discussion": [
+      "Selected Answer: D. Remedial Assets Unit handles negotiations (page 198)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Remedial Asset Unit"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 39",
+    "question": "Under the CPG, which of the following statement is True?",
+    "options": {
+      "A": "The CPG is intended only for personnel involved in the creation & Management of credit exposure",
+      "B": "All business units/ countries must fully comply with the provision of the CPG, whether or not their risks are specifically addressed by there policies.",
+      "C": "All of the above",
+      "D": "None of the above"
+    },
+    "discussion": [
+      "Selected Answer: C. Both statements are true (page 17)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 40",
+    "question": "Which of the following is a function of the MCC?",
+    "options": {
+      "A": "Approving proposals beyond individual limits",
+      "B": "Setting CBN monetary policy",
+      "C": "Auditing external financial statements",
+      "D": "Appointing external Board directors"
+    },
+    "discussion": [
+      "Selected Answer: A. Corrected: the MCC IS the highest management approval body for credit facilities (section 4.2.1.3) and does approve lending decisions exceeding individual limits — the prior version of this question incorrectly claimed the opposite."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Approving proposals beyond individual limits"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 41",
+    "question": "Whose responsibility is it to ensure the integrity of the credit process and proper documentation of the credit decision?",
+    "options": {
+      "A": "Relationship Management",
+      "B": "Any of the above.",
+      "C": "Credit Risk Management",
+      "D": "Legal department"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTED: integrity of the credit process and proper documentation of the credit decision is the responsibility of Relationship Management / the Relationship Manager-Originating Officer, per CPG §6.2.10.4 (page 115) — not Credit Risk Management."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Relationship Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 42",
+    "question": "The policy manual is intended for",
+    "options": {
+      "A": "Management personnel involved in the creation and management of credit exposure",
+      "B": "Entry level personnel",
+      "C": "Relationship Managers",
+      "D": "All personnel involved in the creation and management of credit exposure"
+    },
+    "discussion": [
+      "Selected Answer: D. CPG is for all personnel involved (page 12)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All personnel involved in the creation and management of credit exposure"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 43",
+    "question": "Armament Loans & Gambling LoansAccess Bank policy will be not to finance such loans in any form. What exceptions, if any, exist in the CPG",
+    "options": {
+      "A": "MCC approval is sufficient",
+      "B": "Board credit committee may approve",
+      "C": "GMD/GDMD may approve",
+      "D": "The Board of Directors must approve"
+    },
+    "discussion": [
+      "Selected Answer: D. Board approval required for restricted lines (page 52)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The Board of Directors must approve"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 44",
+    "question": "Under the approval framework, is the MCC's credit approval limit a single flat Naira figure, or does it vary?",
+    "options": {
+      "A": "Varies by rating, from N2-5bn up to N40bn",
+      "B": "Flat N500 million always",
+      "C": "Flat N6 billion always",
+      "D": "MCC has no defined limit"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTED: the flat 'N500 million' figure is outdated. Current MCC limits are risk-rating-banded per the Group MCC/BCC/Board Limit table (section 6.2.10.4.3), ranging from roughly N2-5bn up to N40bn depending on the obligor's risk rating — not a single flat amount."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Varies by rating, from N2-5bn up to N40bn"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 45",
+    "question": "Under the Cash Backed Facilities approval table, an individual transaction up to N2.5 billion requires approval from:",
+    "options": {
+      "A": "SM Business Head + Min of SM in CRM",
+      "B": "AGM Business Head + Head of Risk in CRM",
+      "C": "ED Business + Head of Risk in CRM",
+      "D": "DMD + Head of Risk in CRM"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG Cash Backed Facilities table: transactions up to N2.5bn require AGM Business Head + Head of Risk in CRM approval."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. AGM Business Head + Head of Risk in CRM"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 46",
+    "question": "The Management Credit Committee shall meet bi-weekly to review and consider credit facility requests.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §4.2.1.4: MCC Meeting Frequency, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 47",
+    "question": "For a MCC meeting to be valid, the Chairman or the Vice Chairman must be present to preside over the meeting. Where either of the will not be available for a meeting, they may delegate any member of the Committee to serve as Chairman. The Chairman or Vice Chairman, the Secretary and at least 2 other members shall form a quorum.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Quorum includes Chairman or VC, Secretary, Legal rep, and at least two Group Heads (page 41)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 48",
+    "question": "According to the CPG, the credit Risk Group of the bank is presently made up of how much division?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2"
+    },
+    "discussion": [
+      "Selected Answer: B. Credit Risk Group has 4 divisions (page 36)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 4"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 49",
+    "question": "Whose responsibility is it to ensure that the provisions of the CPG remain relevant and adequate?",
+    "options": {
+      "A": "Management Credit Committee",
+      "B": "All personnel in the credit process",
+      "C": "The Board of Directors",
+      "D": "Executive management"
+    },
+    "discussion": [
+      "Selected Answer: B. All involved personnel are responsible (page 18)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. All personnel in the credit process"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 50",
+    "question": "You must initiate changes to the CPG where you spot areas for improvement.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Staff should propose improvements (page 18)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 51",
+    "question": "Changes to the Credit Policy Guide are approved by the Board Credit Committee, acting on delegated authority from the Board, on the recommendation of the Management Credit Committee.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §4.2.1.2: Board Credit Committee functions, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 52",
+    "question": "They will help you with day- to- day credit decision- making, especially when you come across new situations.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG provides guidance."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 53",
+    "question": "It is easy to forget the importance of integrity. In credit functions you are far removed from the depositors who have entrusted their money to you.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Integrity must never be forgotten."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 54",
+    "question": "We must be accurate and diverse.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Accurate, but 'diverse' is not a principle."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 55",
+    "question": "A key principle of credit policy is that the Bank will always comply with all Government regulations",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Compliance is a key principle."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 56",
+    "question": "Credit risk is described as the potential that a bank borrower or customer party will fail to meet obligation in accordance with agreed terms.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct definition."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 57",
+    "question": "The Board Credit Committee is comprised of 6 non-executive directors, the Managing Director/CEO, the Deputy Managing Director and a few executive directors.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Composition not as stated; BCC has NEDs and others."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 58",
+    "question": "The composition of the Board Credit Committee and the frequency of its meetings are governed by the Charter for the Board Credit Committee.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §4.2.1.2.1: Composition, Quorum and Frequency, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 59",
+    "question": "For an MCC meeting to be valid, the CPG provides that such a meeting must be presided over by the Managing Director/CEO or Deputy Managing Director only.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Chairman may delegate (page 41)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 60",
+    "question": "It is not always necessary for members of MCC to attend meetings; approvals can also be obtained by circulation of credit memo for the benefit of the absenting numbers.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTED: True. Section 4.2.1.4 confirms that in exceptional circumstances, MCC approvals may be obtained by telephone/video conference or written comments properly captured in the minutes — members do not always have to attend in person."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 61",
+    "question": "The criticize Assets committee shall be convened normally every month to review all qualifying assets and take decision on remedial actions and /or provisioning.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Convened quarterly (page 42)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 62",
+    "question": "The decision to transfer non-performing facilities to the remedial assets management unit must be taken at the Management Credit Committee (MCC) meeting under the chairmanship of the Managing Director/CEO.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Decision taken at CAC (page 200-201)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 63",
+    "question": "Risk rating limits are establish by the Head of credit Risk Management and approved criticized assets committee.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Approved by MCC (page 73)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 64",
+    "question": "All risk rating limits exceptions will be reported quarterly to the Management credit committee",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Reported monthly (page 75)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 65",
+    "question": "All credit requests that are above the limit of the Executive Director for Rest of Africa must be approved at the next higher appropriate level — Deputy Managing Director/Managing Director/CEO/MCC/BCC/Board.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Approval grid escalation (page 119)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 66",
+    "question": "When the amount of a credit facility is reduced or cancelled or tenor is reduced, the RM should if he deems it necessary advice the credit Risk Management in writing.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. RM must promptly advise CRM (page 125)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 67",
+    "question": "In the course of reallocation of approved facilities, who has the responsibilities & material change?",
+    "options": {
+      "A": "RM",
+      "B": "Business Group Head",
+      "C": "Business ED",
+      "D": "Head, Credit Risk Management"
+    },
+    "discussion": [
+      "Selected Answer: D. CRO determines materiality (page 125)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Head, Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 68",
+    "question": "Though armaments and gambling are undesirable lines of business, the Board of directors may, from time to time approve credit extension to these sectors.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Board may approve (page 52)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 69",
+    "question": "Credit fees and services charges are periodically review by credit Risk Management to ensure competitiveness in the in the market place.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CRM reviews fees."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 70",
+    "question": "will be responsible for overall credit quality review of all outstanding risk exposures.",
+    "options": {
+      "A": "None of the above",
+      "B": "Credit Risk Management",
+      "C": "Relationship Manager",
+      "D": "Credit Admin"
+    },
+    "discussion": [
+      "Selected Answer: C. RM is responsible for credit quality review (page 133)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Relationship Manager"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 71",
+    "question": "Who is responsible for the implementation of the collateral management plan?",
+    "options": {
+      "A": "Credit risk Management",
+      "B": "Relationship management",
+      "C": "Legal department",
+      "D": "Administrative department"
+    },
+    "discussion": [
+      "Selected Answer: A. CRM implements (page 124)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Credit risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 72",
+    "question": "Who develops the plan of delinquency management?",
+    "options": {
+      "A": "Legal Department",
+      "B": "Relationship Management",
+      "C": "None of the above",
+      "D": "Credit Risk Management"
+    },
+    "discussion": [
+      "Selected Answer: D. CRM develops delinquency plan (page 138)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 73",
+    "question": "The responsibility for delinquency management shall be referred to legal department.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Responsibility is Remedial Assets Unit."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 74",
+    "question": "Under the CPG, the authority to approve credit shall be exclusively exercised by the bank's credit risk management function.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Authority is jointly exercised with business (page 114)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 75",
+    "question": "The bank's portfolio Management process provides for backend definition of target risk stratification and on an ongoing basis, tracks the actual composition of the risk asset portfolio against desired structure.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Portfolio management process (page 204)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 76",
+    "question": "Credit portfolio risk limits may be proposed by credit Management and approval by Management credit committee.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Yes (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 77",
+    "question": "Under the CPG, it is the responsibility of Management and Board of Directors to ensure the integrity of the credit process and proper documentation of credit decision.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — this names the wrong party. Section 6.2.10.4 assigns this specifically to the Relationship Manager/Originating Officer, not to 'Management and Board of Directors' generally, and not primarily to Credit Risk Management either."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 78",
+    "question": "The Board of Directors, not the Board Credit Committee, is the highest approval authority for both credit risk policies and credit facility requests.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §4.2.1: the BOD is the highest approval authority; BCC acts under delegated authority."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 79",
+    "question": "The Board Credit Committee is headed by the Managing Director/CEO and by the Deputy Managing Director in his absence.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Headed by a non-executive director (page 39)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 80",
+    "question": "The Criticized Assets Committee is headed by the Deputy Managing Director and convenes once every month to review all qualifying assets and take decisions on remedial action and/or provisioning.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Headed by MD or designate, meets quarterly (page 42)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 81",
+    "question": "Loans that show little or no movement during their tenor or which fail to be liquidated on due date are to be regarded as delinquent.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Delinquent loans are those not moving (page 41)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 82",
+    "question": "The decision to transfer non-performing facility to the remedial states Management unit is normally taken at Management credit committee meetings.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Taken at CAC (page 200-201)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 83",
+    "question": "Compliance with the CPG shall be monitored on an ongoing basis by credit Risk Management and reported on a quarterly basis to the MCC.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CRM monitors and reports to MCC (page 42)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 84",
+    "question": "Which committee is responsible for reviewing all assets that show little or no movement and taking decisions on remedial actions?",
+    "options": {
+      "A": "Criticized Assets Committee (CAC)",
+      "B": "Board Credit Committee (BCC)",
+      "C": "Asset & Liability Committee (ALCO)",
+      "D": "Management Credit Committee (MCC)"
+    },
+    "discussion": [
+      "Selected Answer: A. CAC reviews delinquent assets (page 41)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Criticized Assets Committee (CAC)"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 85",
+    "question": "Who is responsible for the final approval of credit risk policies?",
+    "options": {
+      "A": "Board of Directors",
+      "B": "Group Managing Director",
+      "C": "Management Credit Committee",
+      "D": "Chief Risk Officer"
+    },
+    "discussion": [
+      "Selected Answer: A. Board approves policies (page 17)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Board of Directors"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 86",
+    "question": "Which department is responsible for safe custody of credit files and maintaining records of file movement?",
+    "options": {
+      "A": "Internal Audit",
+      "B": "Relationship Management",
+      "C": "Credit Risk Management",
+      "D": "Legal Department"
+    },
+    "discussion": [
+      "Selected Answer: C. CRM is responsible for safe custody (page 144)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 87",
+    "question": "Who must approve a waiver of interest and charges on a non‑performing exposure?",
+    "options": {
+      "A": "Management Credit Committee",
+      "B": "Board of Directors",
+      "C": "Managing Director (MD)",
+      "D": "Chief Risk Officer"
+    },
+    "discussion": [
+      "Selected Answer: C. MD approves all waivers (page 198)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Managing Director (MD)"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 88",
+    "question": "Who is responsible for preparing and registering the mortgage in accordance with relevant laws?",
+    "options": {
+      "A": "Credit Risk Management",
+      "B": "The Bank's external legal advocates",
+      "C": "The customer's own solicitor",
+      "D": "The Relationship Manager"
+    },
+    "discussion": [
+      "Selected Answer: B. External legal advocates handle registration (page 267)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. The Bank's external legal advocates"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 89",
+    "question": "Credit Audit ensures adherence to appraisal standards, while the Credit Review Mechanism (CRM) evaluates adherence to loan policies and procedures.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §6.8 'Credit Audit' and §6.8.1 'Credit Review Mechanism', confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 90",
+    "question": "The Management Credit Committee (MCC) includes the Head of Legal, or their nominee as approved by the Managing Director/CEO, as a member.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §4.2.1.4: MCC Composition, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 91",
+    "question": "All unusual/special risks shall require approval at Management Credit Committee / Board Credit Committee or Board of Directors subject to applicable limits.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Unusual risks require appropriate approval (page 52)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 92",
+    "question": "The process to approve the Aged Inventory memorandum must be documented as part of the Credit Program. Required approvers must include a Business ED and the Head of Credit Risk Management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG requires these approvers."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 93",
+    "question": "Under the Cash Backed Facilities approval table, credit above 10% of shareholders' funds (unimpaired by losses) for an individual transaction requires approval from:",
+    "options": {
+      "A": "Management Credit Committee (MCC)",
+      "B": "Board Credit Committee (BCC)",
+      "C": "Managing Director/CEO",
+      "D": "Deputy Managing Director"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG Cash Backed Facilities table: above 10% of shareholders' funds (unimpaired by losses) requires BCC approval; up to 10% requires MCC."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Board Credit Committee (BCC)"
+  },
+  {
+    "url": null,
+    "question_no": "Core Lending Products (Term Loan, Revolving Credit, Overdraft, Lease, Warehouse) - Question 94",
+    "question": "Credit Analysis and Review Issues must be communicated to Unit Head / Group Heads by mail.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Communication via mail."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  }
+]

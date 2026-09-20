@@ -1,0 +1,1198 @@
+[
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 1",
+    "question": "The Management Credit Committee (MCC) is the highest management approval body for credits in Access Bank",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim, section 4.2.1.3: 'The Management Credit Committee (MCC) is the highest management approval body for credits in Access Bank...'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 2",
+    "question": "The Board Credit Committee is the highest credit approval body in the bank and is responsible for approval of credit beyond the authorized approval limit",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – this conflates BCC with MCC. The manual specifically reserves the phrase 'highest management approval body' for the MCC. The BCC acts on behalf of the Board of Directors but is not itself the overall highest body – that is the Board of Directors."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 3",
+    "question": "Who chairs the Management Credit Committee, and who serves as Vice Chairman?",
+    "options": {
+      "A": "Group Managing Director (Chairman); Group Deputy Managing Director (Vice Chairman)",
+      "B": "Chief Risk Officer (Chairman); Executive Director Risk (Vice Chairman)",
+      "C": "Head of Credit Risk Management (Chairman); Group Head Legal (Vice Chairman)",
+      "D": "Managing Director/CEO (Chairman); Deputy Managing Director(s) (Vice Chairman)"
+    },
+    "discussion": [
+      "Selected Answer: D. Section 4.2.1.4: 'Managing Director/Chief Executive Officer – Chairman; Deputy Managing Directors – Vice Chairman.' Updated to current titles."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Managing Director/CEO (Chairman); Deputy Managing Director(s) (Vice Chairman)"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 4",
+    "question": "For an MCC meeting, the Chairman or Vice Chairman, the Secretary and at least 2 other members shall form a quorum",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False as worded – the actual quorum requires a representative from Legal Department and at least two other Group Heads/Zonal Heads/Sector Heads not below AGM level, plus a Group Head/Head of Risk in CRM. Not just any '2 other members.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 5",
+    "question": "What is the correct quorum requirement for a valid MCC meeting?",
+    "options": {
+      "A": "The Managing Director alone, with ratification by circulation afterward",
+      "B": "Chairman/Vice Chairman, Secretary, Legal rep, two AGM+ Heads, and a CRM Risk Head",
+      "C": "Chairman or Vice Chairman and any 2 members present, regardless of role",
+      "D": "Any 5 Group Heads, with or without the Chairman or Vice Chairman"
+    },
+    "discussion": [
+      "Selected Answer: B. New question testing the precise quorum from section 4.2.1.4."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Chairman/Vice Chairman, Secretary, Legal rep, two AGM+ Heads, and a CRM Risk Head"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 6",
+    "question": "In the absence of the Chairman for an MCC meeting, what happens?",
+    "options": {
+      "A": "The Vice Chairman presides, or a delegated member chairs",
+      "B": "The meeting is cancelled and rescheduled",
+      "C": "The Head of CRM automatically presides",
+      "D": "No meeting may be held without the Chairman"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 4.2.1.4: 'For an MCC meeting to be valid, it must be presided over by the Chairman or Vice Chairman. In their absence, the Chairman may delegate any member of the Committee to act as Chairman.'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The Vice Chairman presides, or a delegated member chairs"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 7",
+    "question": "The Management Credit Committee shall meet at least once a month",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – per section 4.2.1.4, the MCC meets bi-weekly for facility requests and at least once a year for policy review. 'Once a month' understates the facility-request cadence and doesn't match either stated frequency."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 8",
+    "question": "How often does the MCC meet to review and consider facility requests, versus for CPG policy review and direction-setting purposes?",
+    "options": {
+      "A": "Quarterly for requests; bi-weekly for policy review",
+      "B": "Only on an ad-hoc basis, for both purposes",
+      "C": "Bi-weekly for requests; annually for policy review",
+      "D": "Monthly, for both purposes"
+    },
+    "discussion": [
+      "Selected Answer: C. New question drawn directly from section 4.2.1.4."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Bi-weekly for requests; annually for policy review"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 9",
+    "question": "It is not always necessary for members of the MCC to attend meetings in person; approvals can also be obtained by circulation of a credit memo, telephone or video conference for absent members",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed, section 4.2.1.4: 'in exceptional circumstances MCC approvals may be obtained by telephone/video conference meetings or written comments and formal approval of MCC members properly captured in the MCC minutes.'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 10",
+    "question": "The Board Credit Committee shall meet not more than once quarterly",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – this inverts the actual rule. Section 4.2.1.2.1: 'The Board Credit Committee shall meet at least once quarterly. However, special Board Credit Committee meetings may be convened...' It is a floor, not a ceiling."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 11",
+    "question": "The composition of the Board Credit Committee and the frequency of its meetings is fully specified within the CPG manual itself",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – the manual defers to the BCC Charter: 'The composition of the Board Credit Committee and the frequency of their meeting shall be governed by the provisions in the Charter for Board Credit Committee' (section 4.2.1.2.1)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 12",
+    "question": "The Criticized Assets Committee (CAC) is headed by the Deputy Managing Director and is convened once every month",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False on both counts. Section 4.2.1.6: chaired by the 'Managing Director or his designate,' and convened 'at least once every quarter,' not monthly."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 13",
+    "question": "Who chairs the Criticized Assets Committee, and how often does it convene?",
+    "options": {
+      "A": "Head of CRM; annually",
+      "B": "Managing Director/designate; at least quarterly",
+      "C": "Deputy MD; monthly",
+      "D": "Chief Risk Officer; bi-weekly"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 4.2.1.6."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Managing Director/designate; at least quarterly"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 14",
+    "question": "Facilities shall be regarded as delinquent (a 'Criticized Asset') where normal repayment of principal and/or interest is in arrears for more than 90 days but less than 360 days",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim, section 4.2.1.5."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 15",
+    "question": "The decision to transfer a non-performing facility to the remedial assets management unit is normally taken at Management Credit Committee meetings",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – this decision-making role belongs to the Criticized Assets Committee, per section 4.2.1.5's mandate to 'take decisions on remedial actions and/or provisioning,' not the MCC."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 16",
+    "question": "In the absence of the Managing Director, the Deputy Managing Director automatically assumes the Managing Director's approval limit",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False. No provision in the current manual supports automatic assumption of the MD's personal approval limit by the DMD in his/her absence – approval authority is tied to specific delegated roles."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 17",
+    "question": "Credit approval authority shall be approved by the Managing Director/CEO based on delegation by the Board of Directors, on the recommendation of Business Executive Directors and the Chief Risk Officer",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.2.10.4.3 with updated titles."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 18",
+    "question": "The level of authority required to approve credit will decrease as the amount and transaction risk decreases and as the risk rating improves",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the general architecture of the Credit Approval Authority Limits framework – smaller, lower-risk, better-rated exposures require lower-level approval."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 19",
+    "question": "Risk Rating Limits are established by the Chief Risk Officer and approved by the Management Credit Committee",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTION to the legacy bank – section 5.3.5 confirms this is True."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 20",
+    "question": "Regardless of Risk Rating Limits, Legal Lending Limits set by the Regulators shall always prevail",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim, section 5.3.5."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 21",
+    "question": "Each customer-facing business unit need not maintain up-to-date records of credit approval authority delegated to approving officers",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False – section 6.2.10.6.1 requires the opposite."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 22",
+    "question": "All appointments and designations for credit risk approval, along with corresponding credit limits, must be reviewed and re-approved by the Chief Risk Officer at least how often?",
+    "options": {
+      "A": "Once a year",
+      "B": "Twice a year",
+      "C": "Once every quarter",
+      "D": "Once every three years"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 6.2.10.6.1: '...must be reviewed and reapproved by the Chief Risk Officer at least once a year.'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Once a year"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 23",
+    "question": "Approvals under credit programs need not be within approved global exposure and maximum individual exposure limits",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 6.2.10.6.2 states the opposite: 'Approvals under credit programs shall be within approved global exposure and maximum individual exposure limits.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 24",
+    "question": "Amendments to credit agreements — such as lengthening tenor, increasing facility amount, or materially relaxing collateral structure — do not require full credit approval of Total Facilities under the Credit Approval Grid",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False. Material amendments of this kind do trigger a full re-approval requirement under the Credit Facility Approval Authority."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 25",
+    "question": "When an established credit facility undergoes a material change in terms, tenor or conditions, Total Facilities must be re-approved in accordance with the Credit Facility Approval Authority",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Consistent with the Credit Facility Approval Grid's general re-approval trigger."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 26",
+    "question": "There is no limit to the amount of credit which may be approved by the Board of Directors, provided the credit conforms to the CPG and statutory lending limits",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. True in principle – the Board sits at the apex, with Legal Lending Limits as the only hard ceiling."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 27",
+    "question": "It is the responsibility of Management and the Board of Directors to ensure the integrity of the credit process and proper documentation of the credit decision",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False as worded – this names the wrong party. Section 6.2.10.4 states: 'It is the responsibility of the Relationship Manager/Originating Officer to ensure the integrity of the credit process and the proper documentation of the credit decision.'"
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 28",
+    "question": "Waivers of interest and/or credit charges require approval of which officer, and to which category of exposures is such consideration limited?",
+    "options": {
+      "A": "The Management Credit Committee; limited to substandard exposures only",
+      "B": "The Relationship Manager; available at any stage of delinquency",
+      "C": "The Managing Director; limited to exposures classified as lost",
+      "D": "The Head of Credit Risk Management; available for any performing exposure"
+    },
+    "discussion": [
+      "Selected Answer: C. Section 8.3.2: 'All waivers of interest and charges shall require approval of the MD... Consideration of waivers... shall be limited to credit exposures classified as lost.'"
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. The Managing Director; limited to exposures classified as lost"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 29",
+    "question": "Release of collateral, guarantee or support requires joint approval by both the Head of Risk and the Managing Director, upon confirmation of full payment of the credit facility",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 7.7.2.13 states release requires approval by the Head of Risk alone, not a joint Head of Risk + MD requirement."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 30",
+    "question": "Unsecured loans to individuals or organisations, other than to members of staff of the Bank, shall require which approval, irrespective of the amount involved?",
+    "options": {
+      "A": "The Managing Director's approval (MCC/BCC/Board approval may additionally be required per the approval grid)",
+      "B": "Only the Relationship Manager's approval, regardless of amount",
+      "C": "Only the Board of Directors' approval, with no other officer able to approve",
+      "D": "No specific approval is required beyond ordinary facility sign-off"
+    },
+    "discussion": [
+      "Selected Answer: A. Section 5.2.4: 'All loans in these categories must be approved by the MD irrespective of the amount involved and Tenor (MCC/BCC/Board approval may be required in line with the bank's approval grid).'"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. The Managing Director's approval (MCC/BCC/Board approval may additionally be required per the approval grid)"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 31",
+    "question": "Unsecured credit to a company where a bank director is also a director, or which is owned/controlled by a close associate or relative of a bank director, requires what approval?",
+    "options": {
+      "A": "Approval by the Relationship Manager alone, given the relationship",
+      "B": "No special approval beyond the normal approval grid",
+      "C": "Approval by the Chief Risk Officer alone, without Board involvement",
+      "D": "Board approval before drawdown, plus ratification at a Board meeting"
+    },
+    "discussion": [
+      "Selected Answer: D. Section 5.2.4 (Policy Loans)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Board approval before drawdown, plus ratification at a Board meeting"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 32",
+    "question": "Under the Group EXCO credit approval limits, what is an Executive Director's approval limit for new credits of Standard Grade?",
+    "options": {
+      "A": "N500 million",
+      "B": "N100 million",
+      "C": "N200 million",
+      "D": "N75 million"
+    },
+    "discussion": [
+      "Selected Answer: C. Current EXCO table: ED — N200mm (Standard Grade, new credits). Legacy figure N75mm is outdated."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. N200 million"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 33",
+    "question": "Under the Group EXCO credit approval limits, what is the Managing Director/CEO's approval limit for new credits of Standard Grade?",
+    "options": {
+      "A": "N500 million",
+      "B": "N800 million",
+      "C": "N200 million",
+      "D": "N1 billion"
+    },
+    "discussion": [
+      "Selected Answer: B. Current MD/CEO limit: N800mm (Standard Grade, new credits)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. N800 million"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 34",
+    "question": "Under the approval framework, are MCC, BCC and Board of Directors approval limits set as flat Naira amounts, or do they vary by obligor risk rating?",
+    "options": {
+      "A": "They vary by risk rating, better ratings get bigger limits",
+      "B": "They are flat amounts, applied uniformly",
+      "C": "They vary only by industry sector",
+      "D": "They are set solely by loan tenor"
+    },
+    "discussion": [
+      "Selected Answer: A. The current MCC/BCC/Board limit table is risk‑rating‑banded, not flat. This is a significant change."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. They vary by risk rating, better ratings get bigger limits"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 35",
+    "question": "Under the current Temporary Overdraft (TOD) approval grid, what is the Executive Director's TOD limit for Standard Grade exposures?",
+    "options": {
+      "A": "N250 million",
+      "B": "N1 billion",
+      "C": "N5 billion",
+      "D": "N100 million"
+    },
+    "discussion": [
+      "Selected Answer: D. Current TOD grid: ED — N100mm (Standard Grade)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. N100 million"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 36",
+    "question": "Any Temporary Overdraft (TOD) request for a new obligor with less than 6 months' banking relationship with the Bank will require what level of approval, regardless of the amount?",
+    "options": {
+      "A": "Relationship Manager approval only, given the small typical size of such requests",
+      "B": "Board of Directors approval only, bypassing MCC entirely",
+      "C": "MCC approval, subject to the MCC limit stated in the TOD grid",
+      "D": "Automatic decline with no approval pathway available"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed from the manual immediately following the TOD table."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. MCC approval, subject to the MCC limit stated in the TOD grid"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 37",
+    "question": "The risk management policies and procedures of the bank are articulated mainly by:",
+    "options": {
+      "A": "Credit Risk Management",
+      "B": "Relationship Management",
+      "C": "The Board of Directors",
+      "D": "Management credit committee"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 17) – risk management policies are articulated by the Risk and Management Control function (Credit Risk Management)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Credit Risk Management"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 38",
+    "question": "Where will all issues regarding credit risk management emanating from or covering the banks branches in other contain other thank Nigeria be treated?",
+    "options": {
+      "A": "appropriate regional office",
+      "B": "Head office",
+      "C": "Country office",
+      "D": "Africa regional office"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 17) – all issues are referred to the Head Office."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Head office"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 39",
+    "question": "Credit Risk Management at head Office is responsible for setting overall policies on all issues relating to credit risk management in every country where Access Bank in represented",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 17) confirms this."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 40",
+    "question": "The Banks representative is other countries may institute this own independent credit risk management policies",
+    "options": {
+      "A": "No",
+      "B": "It depends on circumstances",
+      "C": "None of the above",
+      "D": "Yes"
+    },
+    "discussion": [
+      "Selected Answer: A. They may adapt policies, but not independent; they must be in compliance with Head Office policies (page 17)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. No"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 41",
+    "question": "Any local policy in any of the Bank's representative officers which turns out to be at variance of Head office policies.",
+    "options": {
+      "A": "Approved at Head Office policy level",
+      "B": "It depends",
+      "C": "Expunged from the books",
+      "D": "Considered null and void"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 17) – any local policy at variance with HO policies must be approved at the same level as HO policies."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Approved at Head Office policy level"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 42",
+    "question": "Under what circumstance will the country office be permitted to institute their own local credit risk policies?",
+    "options": {
+      "A": "All of the above",
+      "B": "For issues no specifically addressed in Head office policies",
+      "C": "They may institute local policies adapted to their peculiarities",
+      "D": "Where Head office delegates to them the development of certain policies"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 17) lists all three."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. All of the above"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 43",
+    "question": "According to the CPG, such local policies of the country office would not be endorsed by Head Office Credit Risk Management, but must be approved by the Deputy Managing Director or Managing Director/CEO.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. They must be endorsed by Head Office CRM (page 17)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 44",
+    "question": "Where authority to approved is delegated, such designation can be writing",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Designation must be in writing and state terms (page 18)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 45",
+    "question": "This manual will guide you in managing loans",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. The CPG is the primary guide for credit risk management."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 46",
+    "question": "The Board of Trustees of the Bank has approved these policies for use Banking.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Approved by Board of Directors, not Trustees (page 17)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 47",
+    "question": "This guide eliminates the need for personal judgment in Banking.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Judgment is still required; the guide provides guidelines (page 17)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 48",
+    "question": "Any deviations from these policies must always be explained and justified in writing.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Deviations require written justification (page 17)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 49",
+    "question": "This guide may be altered or even withdrawn as the need arises. The change in the above cases must be communicated to all concerned parties.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 18) – amendments are communicated to all concerned."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 50",
+    "question": "Most of the topics in this guide are based on a few principles",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. The guide is based on core principles."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 51",
+    "question": "The guide is designed to be holistic frame work for creating and managing risk assets.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. It provides a comprehensive framework (page 16)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 52",
+    "question": "The Bank's credit risk Management framework is made up of - distinct modules for the proactive creation and deliberate management of credit risk exposures in the Bank.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "3"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 76) states five distinct modules."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 5"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 53",
+    "question": "All Cash, Immaterial and Passive Risk Rating Limit Exceptions (RRLEs) require approval from the Managing Director/CEO and Chief Risk Officer.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 74) – Cash, Immaterial, Passive RRLEs require Line ED and CRO (not GMD)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 54",
+    "question": "On an annual basis, the Head of credit & Risk Management will review all risk rating limit exceptions including exception that have aged past their originally established and approval resolution period.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CPG (page 75) – review is quarterly, not annual."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 55",
+    "question": "Is it right to state that the it is the responsibility of the Head credit risk Management to ensure that actual OSUC stays within the Risk Rating Limit.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Responsibility is the Relationship Manager (page 75)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 56",
+    "question": "Issuance of guarantee / bonds must be reviewed by the Head of credit RISK Management for adequate wording to protect the interest of the bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Reviewed by Legal Counsel (page 34)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 57",
+    "question": "The over all responsibility of sustaining the quality of credit risk exposures is certainly that of credit risk management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Primary responsibility is Relationship Manager (page 133)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 58",
+    "question": "In cases of erroneous interest or charges debited to a customer's amount, credit Risk Management is authorized to approve reasonable of such erroneous changes or interests.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Approval is by MD (page 199)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 59",
+    "question": "The CPG proposes a system of multiple standards for the measurement of credit risk in order to ensure consisting across business, stability in methodologies and transparency of risk.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. It proposes a single set of standards (page 106)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 60",
+    "question": "Risk Management policies are approval by the Board Credit committee to enable informed decision making and approval, and establish / maintain an appropriate environment for risk Management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Approved by Board of Directors, not just BCC (page 17)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 61",
+    "question": "All Access Bank employees involved in the creation and management of risk exposures shall comply at all times with the risk management policies, and procedures as approved.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG requires all involved employees to comply (page 17)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 62",
+    "question": "The risk management unit shall have specific and overall responsibility for ensuring compliance with the Risk management Policies.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Risk Management Unit has that responsibility (page 42)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 63",
+    "question": "Cash, Immaterial and Passive Risk Rating Limit Exceptions (RRLEs) require approval from Line ED and the Chief Risk Officer (or their designees)",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 5.3.5.6, with an updated title: the current manual specifies 'Chief Risk Officer,' not 'Head of Credit Risk Management' (that title has been retired). True in substance."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 64",
+    "question": "All Risk Rating Limit Exceptions other than Cash, Immaterial, and Passive require approval by the Management Credit Committee (MCC)",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 5.3.5.6: 'All other RRLEs require approval by MCC.' (The earlier phrasing incorrectly implied Line ED and Head of CRM were also required for this category — that combination applies only to Cash/Immaterial/Passive exceptions, not to this broader 'all other' category.)"
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 65",
+    "question": "Marketing letters will be jointly approved by the business head or ED and the Head of Credit Risk Management.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 75) – marketing letters are jointly approved by business head/ED and Head of Risk."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 66",
+    "question": "All extensions of credit in the bank need not be approved incompliance with the Credit Risk Management Policy Guide.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. All extensions must be approved in compliance with CPG (page 115)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 67",
+    "question": "Drawdown of facilities classified 'doubtful' and worse need not be approved by the Chief Risk Officer at a minimum.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — this inverts the rule. Drawdown of facilities classified 'doubtful' and worse DOES require approval by the Chief Risk Officer (or designee) at minimum, per section 6.4 drawdown requirements."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Committees, Approval Authority & Related Policies - Question 68",
+    "question": "Facilities below N5MM will only be approved under a Credit Program. Countries may establish local limits, which must be endorsed by the Regional Head of Credit Risk Management and approved by the Head of Credit Risk Management at the Head Office.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG (page 146) – correct."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  }
+]

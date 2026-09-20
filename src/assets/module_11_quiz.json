@@ -1,0 +1,59 @@
+[
+  {
+    "url": null,
+    "question_no": "Environmental and Social Risk Management (ESRM) - Question 1",
+    "question": "What is the primary objective of the Bank's Environmental and Social Risk Management (ESRM) policy?",
+    "options": {
+      "A": "To reduce the number of loan applications received",
+      "B": "To maximise lending to high-risk industries",
+      "C": "To ensure customers meet environmental/social obligations as loan conditions",
+      "D": "To avoid any contact with government regulators"
+    },
+    "discussion": [
+      "Selected Answer: C. The Bank shall insist on compliance with applicable National laws and regulations, the use of sound environmental, health & safety, and labour practices, as these are important factors in demonstrating effective corporate governance and ensuring commitment to loan obligations (section 11)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. To ensure customers meet environmental/social obligations as loan conditions"
+  },
+  {
+    "url": null,
+    "question_no": "Environmental and Social Risk Management (ESRM) - Question 2",
+    "question": "Under the ESRM policy, which type of projects will the Bank NOT provide financial services to?",
+    "options": {
+      "A": "Projects with moderate impact",
+      "B": "Projects on the ESRM exclusion list",
+      "C": "Projects needing impact assessment",
+      "D": "Projects in rural areas"
+    },
+    "discussion": [
+      "Selected Answer: B. The Bank shall not provide financial services to clients and projects / activities that are on the exclusion list of the Environmental and Social Risks Management (ESRM) Manual (section 11)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Projects on the ESRM exclusion list"
+  },
+  {
+    "url": null,
+    "question_no": "Environmental and Social Risk Management (ESRM) - Question 3",
+    "question": "The Bank's ESRM policy requires that all applicable projects be reviewed and approved in line with which documents?",
+    "options": {
+      "A": "Only the ESRM Manual",
+      "B": "Only the CBN's environmental guidelines",
+      "C": "The Bank's Credit Policy alone",
+      "D": "The Bank's CPG and ESRM Manual"
+    },
+    "discussion": [
+      "Selected Answer: D. All applicable projects shall be reviewed and approved in line with credit processes as contained in the Bank’s CPG and ESRM Manual (section 11)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The Bank's CPG and ESRM Manual"
+  }
+]

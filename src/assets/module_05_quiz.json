@@ -1,0 +1,1555 @@
+[
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 1",
+    "question": "Bonds and Guarantees are best described as:",
+    "options": {
+      "A": "A collection instrument used only in export trade",
+      "B": "A savings product for corporate customers",
+      "C": "Undertakings by the bank to a beneficiary, on request",
+      "D": "Cash advances paid to a customer's supplier"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Undertakings by the bank to a beneficiary, on request"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 2",
+    "question": "Bank Guarantees issued to third parties on behalf of a customer are contingent liabilities and shall require which form of cover?",
+    "options": {
+      "A": "Cover equal to 50% of the guarantee's face value, regardless of risk rating",
+      "B": "100% cash cover, a counter-indemnity from a first-class bank, or adequate acceptable tangible security cover",
+      "C": "No cover is required once the customer is an existing account holder",
+      "D": "A personal guarantee from the Relationship Manager only"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. 100% cash cover, a counter-indemnity from a first-class bank, or adequate acceptable tangible security cover"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 3",
+    "question": "In what circumstance may a bond or guarantee be issued on a clean (unsecured) basis?",
+    "options": {
+      "A": "To better-rated obligors, typically multinationals",
+      "B": "To any customer who requests it in writing",
+      "C": "Only to government MDAs",
+      "D": "Never permitted, under any circumstance"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. To better-rated obligors, typically multinationals"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 4",
+    "question": "In the issuance of a bond/guarantee, it is sufficient that the maturity of the underlying contract merely matches the tenor of the bond/guarantee",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 3.6.12 requires the underlying contract to exceed the instrument's tenor."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 5",
+    "question": "Issuance of guarantees/bonds must be reviewed by which party for adequate wording to protect the Bank's interests?",
+    "options": {
+      "A": "The Relationship Manager alone",
+      "B": "The Contract Employer's own solicitors",
+      "C": "The Bank's Legal Counsel",
+      "D": "The Head of Credit Risk Management"
+    },
+    "discussion": [
+      "Selected Answer: C. CORRECTION – section 3.6.12 assigns this to Legal Counsel, not CRO."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. The Bank's Legal Counsel"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 6",
+    "question": "Issuance of guarantees to support offshore facilities is strongly discouraged and must be approved exactly as required under the Credit Facilities Approval grid",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. CORRECTION – section 3.6.12 requires approval at the next higher level than the grid."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 7",
+    "question": "On expiration, the bond or guarantee must be returned to the Bank for cancellation before the underlying security/cash collateral is released",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 8",
+    "question": "When the underlying security/cash collateral for a bond or guarantee is to be released upon issuance of a Letter of Discharge or a Certificate of Work by the Contract Employer, what must happen?",
+    "options": {
+      "A": "No further confirmation is required beyond the customer's own signature",
+      "B": "Only the Head of Legal may authorize release, with no other party involved",
+      "C": "The Bank must obtain a fresh independent valuation of the underlying asset",
+      "D": "The documents must be duly confirmed by the appropriate officer in the Project Monitoring unit"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The documents must be duly confirmed by the appropriate officer in the Project Monitoring unit"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 9",
+    "question": "What is an Advance Payment Guarantee (APG)?",
+    "options": {
+      "A": "A cash-backed instrument converting to a term loan after 12 months",
+      "B": "A guarantee that can only be issued for export transactions",
+      "C": "A guarantee covering a customer's contractual obligation on default",
+      "D": "A guarantee issued exclusively to cover payroll obligations"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 3.6.12."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. A guarantee covering a customer's contractual obligation on default"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 10",
+    "question": "Should Advance Payment Guarantees (APGs) be adequately secured, and what alternative exists where collateral is not in place or adequate?",
+    "options": {
+      "A": "No alternative exists — an APG cannot be issued without full collateral",
+      "B": "Yes, as much as possible; guided disbursement may be considered as comfort where collateral is inadequate",
+      "C": "No, APGs are issued on a clean basis by policy and collateral is never required",
+      "D": "Yes, but only real estate collateral is acceptable for an APG"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 3.6.12."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Yes, as much as possible; guided disbursement may be considered as comfort where collateral is inadequate"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 11",
+    "question": "Syndications are situations where several banks come together to finance a given transaction. Will Access Bank participate in syndications led by other banks, or only those it leads itself?",
+    "options": {
+      "A": "Both, whether led by another bank or by Access Bank itself",
+      "B": "Only syndications where Access Bank is the lead manager",
+      "C": "Only syndications involving foreign banks",
+      "D": "Access Bank does not participate in loan syndications at all"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTS a legacy claim – section 6.2.6 confirms participation both as Lead Manager and as a member."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Both, whether led by another bank or by Access Bank itself"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 12",
+    "question": "Access Bank will participate in syndicated deals led by other institutions only on what basis?",
+    "options": {
+      "A": "Whatever basis the lead manager proposes, without further conditions",
+      "B": "A basis requiring Access Bank to always hold the largest single share",
+      "C": "Verbal confirmation from the lead manager's relationship officer",
+      "D": "Full disclosure — the Bank will not participate in silent or undisclosed deals"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 6.2.6.2."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Full disclosure — the Bank will not participate in silent or undisclosed deals"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 13",
+    "question": "Will Access Bank participate in a syndicated deal where the lead manager has zero retention (no share in the funding)?",
+    "options": {
+      "A": "Yes, provided the deal size exceeds N10 billion",
+      "B": "This consideration is not addressed by the CPG",
+      "C": "No, not where the lead manager has zero retention",
+      "D": "Yes, zero-retention lead managers are preferred for cost efficiency"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed against section 6.2.6.2."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. No, not where the lead manager has zero retention"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 14",
+    "question": "Why does the CPG require Access Bank's position in a syndicate to be at least on par with other members?",
+    "options": {
+      "A": "It only matters for syndications involving real estate finance",
+      "B": "A below-par position weakens the Bank's standing in default or restructuring decisions",
+      "C": "Regulatory rules mandate identical exposure for every syndicate member",
+      "D": "It is purely a pricing matter, with no bearing on decision rights"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed against section 6.2.6.2."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. A below-par position weakens the Bank's standing in default or restructuring decisions"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 15",
+    "question": "Access Bank will only participate in syndicated deals where the agreement with the borrower allows for future 'sell-down' or sub-participation, and this must be:",
+    "options": {
+      "A": "Stated in the covenants unambiguously",
+      "B": "Left to informal understanding between the parties",
+      "C": "Negotiated only after the facility is fully disbursed",
+      "D": "Not a requirement — sell-down rights are assumed by default"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 6.2.6.2."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Stated in the covenants unambiguously"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 16",
+    "question": "Which of the following financing types are covered under Access Bank's Loan Syndication framework?",
+    "options": {
+      "A": "Only project and export finance",
+      "B": "Only SME working capital",
+      "C": "Only retail mortgage finance",
+      "D": "Project, object, export, corporate and real estate finance, plus underwriting"
+    },
+    "discussion": [
+      "Selected Answer: D. Confirmed verbatim against section 6.2.6.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Project, object, export, corporate and real estate finance, plus underwriting"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 17",
+    "question": "Under what conditions must appraisal of Agricultural loans take particular account of specialist factors?",
+    "options": {
+      "A": "Only whether the farm is irrigated or rain-fed",
+      "B": "Only the crop's current market price",
+      "C": "Any government scheme, tax benefit, or regulatory requirement",
+      "D": "Only the applicant's years of farming experience"
+    },
+    "discussion": [
+      "Selected Answer: C. Confirmed verbatim against section 10.3."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Any government scheme, tax benefit, or regulatory requirement"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 18",
+    "question": "The Bank may extend credit for specific agricultural ventures, provided the Bank receives what kind of guarantees?",
+    "options": {
+      "A": "Guarantees limited to state agencies only",
+      "B": "Guarantees external to, and independent of, project cash flows",
+      "C": "Guarantees from the project's own suppliers only",
+      "D": "No guarantee needed, given government backing"
+    },
+    "discussion": [
+      "Selected Answer: B. Confirmed verbatim against section 10.3."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Guarantees external to, and independent of, project cash flows"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 19",
+    "question": "Due to long maturity periods and moratoriums, what maximum tenor may be allowed for agricultural loans financing tree crops?",
+    "options": {
+      "A": "8 years or more",
+      "B": "3 years, with no exceptions",
+      "C": "5 years, strictly enforced",
+      "D": "12 months, renewable annually"
+    },
+    "discussion": [
+      "Selected Answer: A. New question from section 10.3."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. 8 years or more"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 20",
+    "question": "For agricultural financing involving the acquisition of machinery and equipment, what minimum equity contribution is required as a condition precedent to drawdown?",
+    "options": {
+      "A": "10% of the total cost",
+      "B": "50% of the total cost",
+      "C": "No minimum equity contribution is required",
+      "D": "30% of the total cost"
+    },
+    "discussion": [
+      "Selected Answer: D. New question from section 10.3.1."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. 30% of the total cost"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 21",
+    "question": "How often must the Agricultural Business Group carry out post-disbursement site/farm visitation, and to whom is the report addressed?",
+    "options": {
+      "A": "Weekly, to the Relationship Manager only",
+      "B": "Annually, direct to the Board",
+      "C": "Semi-annually, to the Head of Risk",
+      "D": "Once only, right after disbursement"
+    },
+    "discussion": [
+      "Selected Answer: C. New question from section 10.3.1."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. Semi-annually, to the Head of Risk"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 22",
+    "question": "For agricultural financing, must Access Bank's general collateral requirements be supplemented with anything else?",
+    "options": {
+      "A": "No, the standard checklist suffices",
+      "B": "Yes, agricultural cover naming the Bank first loss payee",
+      "C": "No, agricultural loans are exempt",
+      "D": "Yes, but only fire cover is needed"
+    },
+    "discussion": [
+      "Selected Answer: B. New question from section 10.3.1."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Yes, agricultural cover naming the Bank first loss payee"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 23",
+    "question": "In what instance will Access Bank allow another bank to share or participate in its lien over cash collateral?",
+    "options": {
+      "A": "In exceptional Bank-agreed cases, if the balance can accommodate it",
+      "B": "Never — liens are held exclusively by Access Bank",
+      "C": "Automatically, for any Access Bank correspondent",
+      "D": "Only for a foreign bank rated above investment grade"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against the manual's cash collateral guidance."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. In exceptional Bank-agreed cases, if the balance can accommodate it"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 24",
+    "question": "Cash deposits held as collateral must generally be segregated and placed in escrow, and are not subject to any other charge to any other lender",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against the manual's cash collateral rules, subject to the narrow exception described above."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 25",
+    "question": "Unsecured credit to bank's directors must be:",
+    "options": {
+      "A": "Approved by GMD/GDMD",
+      "B": "Approved by MCC",
+      "C": "Board approval before drawdown",
+      "D": "Board approval, plus ratification"
+    },
+    "discussion": [
+      "Selected Answer: D. Board approval required and ratification (page 52)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. Board approval, plus ratification"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 26",
+    "question": "How often must the MCC Institute periodic reviews of exposure in the bank?",
+    "options": {
+      "A": "Quarterly",
+      "B": "Annually",
+      "C": "None of the above",
+      "D": "Weekly"
+    },
+    "discussion": [
+      "Selected Answer: A. MCC reviews exposures quarterly (page 127)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Quarterly"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 27",
+    "question": "Under the CPG all credit facility write offs require approval by...?",
+    "options": {
+      "A": "The Central Bank",
+      "B": "The E.F.C.C.",
+      "C": "The MCC",
+      "D": "The Board of Directors"
+    },
+    "discussion": [
+      "Selected Answer: D. Board approval required (page 198)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. The Board of Directors"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 28",
+    "question": "Which of the following is not a type of Credit Exposures?",
+    "options": {
+      "A": "Advised Facility",
+      "B": "Legal Commitments",
+      "C": "Term loan",
+      "D": "Unadvised Facility"
+    },
+    "discussion": [
+      "Selected Answer: B. Legal commitments are not a type of credit exposure; they are documentation."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Legal Commitments"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 29",
+    "question": "A credit extension made known to the borrower and to which the Bank is committed (As long as the borrower fulfils prior conditions) is......",
+    "options": {
+      "A": "An unadvised facility",
+      "B": "An overdraft facility",
+      "C": "A known facility",
+      "D": "An advised facility"
+    },
+    "discussion": [
+      "Selected Answer: D. Advised facility is communicated (page 63)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. An advised facility"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 30",
+    "question": "To manage the Bank's exposure effectively, an Account Officer may choose not to advise the full amount of the facility approved and available for a client. This may be done for one of the following reasons",
+    "options": {
+      "A": "To give a client with a track record of overtrading or who is constantly exceeding the authorized limits free reign",
+      "B": "To enable an Account Officer distance himself from a new client before committing the Bank to the client extensively",
+      "C": "As a marketing tool The Account Officer shall exercise their discretion and allow the client to draw on the unadvised line to the extent they consider prudent from time to time. These drawings must be based on approval limit and conform to current guidelines",
+      "D": "To restrict response to emergency needs for additional lines"
+    },
+    "discussion": [
+      "Selected Answer: D. Unadvised facilities are used for flexibility (page 63)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. To restrict response to emergency needs for additional lines"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 31",
+    "question": "Policy Loans are exceptional or unsecured credit extensions to certain companies and/or individual having special relationships with the Bank, some of which are already subject to certain restrictions by law except:",
+    "options": {
+      "A": "Unsecured credit to executives of client-companies, executives of other Banks or highly connected individuals in business or government circles.",
+      "B": "Loans to staff of the bank",
+      "C": "Unsecured credit to Bank Directors, to companies where Bank Directors are also Directors, or companies owned or controlled by close associates or relatives of Directors of the Bank. Such loans must be mentioned at Board meetings for ratification.",
+      "D": "Politically sensitive credits granted because of the privilege position of an obligor or guarantor or the nature of the project."
+    },
+    "discussion": [
+      "Selected Answer: B. Staff loans are not policy loans; they are covered separately (page 30)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Loans to staff of the bank"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 32",
+    "question": "What is the nature of the limit that the CPG imposes on the bank concerning takings from other bank?",
+    "options": {
+      "A": "Conservative",
+      "B": "None",
+      "C": "Very strict",
+      "D": "Very liberal"
+    },
+    "discussion": [
+      "Selected Answer: B. No limits on takings (page 30)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. None"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 33",
+    "question": "It is an offence under BOFIA for bank staff to fail to declare their interest in a loan request; offenders are liable to a fine and up to how many years' imprisonment on conviction?",
+    "options": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "5 years"
+    },
+    "discussion": [
+      "Selected Answer: C. CPG §5.3.3.1: Regulatory Considerations, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 3 years"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 34",
+    "question": "The concept of one obligor is taken further to include any company belonging to a group whose management are linked by virtue of their related ownership structure and in particular, where the fortune of one entity can readily pass to the other.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. One obligor concept includes group companies (page 65)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 35",
+    "question": "It shall be the responsibility of the Relationship Manager to determine whether or not related company obligations shall be aggregated.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — this names the wrong party. Section 5.3.2 confirms it is the responsibility of the Approving Officers, not the Relationship Manager, to determine whether related company obligations shall be aggregated (consistent with Module 3's finding on this same fact)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 36",
+    "question": "In addition to BOFIA, Access Bank's core lending activities are impacted by the Failed Banks Act, the EFCC Act, and the Money Laundering Prohibition Act 2011.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §5.3.3.1: Regulatory Considerations — list of governing laws, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 37",
+    "question": "Any less than 50% owned affiliate where the borrower exercises management control. Also where, in the opinion of the lending officer, the commercial fortunes of the affiliate are strongly influenced by the borrower.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Included (page 66)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 38",
+    "question": "Any obligor related to the borrower as a result of guarantees, endorsements, or other similar arrangements in favor of the Bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Included (page 66)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 39",
+    "question": "All obligor under common ownership or control of a corporation or individual",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Included (page 66)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 40",
+    "question": "Under the Group EXCO limits, what is an Executive Director's approval limit for new credits of Standard Grade?",
+    "options": {
+      "A": "N200 million",
+      "B": "N75 million",
+      "C": "N500 million",
+      "D": "N100 million"
+    },
+    "discussion": [
+      "Selected Answer: A. CORRECTED: the flat N75 million figure is outdated. Current ED limits (Group EXCO Limits table) are N200mm for Standard Grade new credits, N250mm for Investment Grade names, and N300mm for renewals — confirmed consistent with Module 2's finding."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. N200 million"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 41",
+    "question": "However, in the absence of the Managing Director/CEO, the Deputy Managing Director automatically assumes the lending limit of the Managing Director/CEO.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Formal delegation required (page 18)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 42",
+    "question": "Two examples of the application of the integrity principle are, avoiding conflicts of interest (for instance loans to the Bank's auditors) and not complying with Government regulations.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Not complying is wrong."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 43",
+    "question": "This may involve an outside expert or a member of staff.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Independent verification may use internal or external experts."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 44",
+    "question": "The principle is not simply that certain items should be matched but that we need to understand corresponding items",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Matching principle includes deliberate mismatching."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 45",
+    "question": "Loans and advances form the bulk of a Commercial Bank's total asset base.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Loans are largest asset."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 46",
+    "question": "The net income from loans is the bulk of the Bank's total earnings.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Net interest income is major earnings."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 47",
+    "question": "Loans represent the Bank's single largest exposure to jeopardy.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Loans are largest risk exposure."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 48",
+    "question": "For an OD line formal notice to the customer is not required if the line is to be cancelled, frozen or the account closed. Unilateral decision, if not properly communicated, may exposure the Bank to litigation. For account closure (unless due to fraud, or bad debt) good relationship management dictates that notice should be given to enable the customer make alternative arrangement with another Bank",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Notice is generally required (page 28)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 49",
+    "question": "According to the guide, there may be client's of the Bank who will have several units responsible for approving all credit extension related to the client.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Multiple units may be involved."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 50",
+    "question": "Risk rating limits is the only mechanism to control the Bank's portfolio of credit exposures.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Primary mechanism, not only (page 73)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 51",
+    "question": "Is it right to state that Risk rating limits no matter how appropriate are subject to legal launching limits?",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Legal lending limits prevail (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 52",
+    "question": "Risk rating limits shall be established for the following classes of borrowers except:",
+    "options": {
+      "A": "Individuals",
+      "B": "Banks",
+      "C": "Corporation",
+      "D": "Govt. owned or controlled entities"
+    },
+    "discussion": [
+      "Selected Answer: A. Individuals not included (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Individuals"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 53",
+    "question": "For purposes of applying Risk raking limits which of the following is true: the obligor risk rating that must be used for",
+    "options": {
+      "A": "For corporations, the obligor risk rating of the parent company",
+      "B": "For bank syndicated loans, the risk rating of the lead bank",
+      "C": "For other entities, the risk rating as determined in accordance with the Risk Rating Policy.",
+      "D": "All of the above."
+    },
+    "discussion": [
+      "Selected Answer: D. All correct (page 73)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. All of the above."
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 54",
+    "question": "Exposure against Risk rating limit is measured as the outstanding and unusual commitments (OSUC) to a given relationship.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. OSUC definition (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 55",
+    "question": "For purposes of measuring exposure against risk rating limits, OSUC may be considered gross of reductions resulting from sales of assets and risk mitigation efforts.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. OSUC may be considered net of reductions (page 74)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 56",
+    "question": "For purposes of measuring exposures against Risk Rating Limits tenor buckets, contractual principal repayments may not be taken into consideration.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. May be taken into consideration (page 73)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 57",
+    "question": "An offer letter is a firm commitment by the bank to lend to customers.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Offer letter is a commitment (page 126)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 58",
+    "question": "In view of the nature of syndicated loans, such facilities may not be subject to the same high standards required under the policy.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. They must meet same high standards (page 103)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 59",
+    "question": "Unsecured credit extensions may be made to bank directors, to companies where bank directors are also directors, or companies owned or controlled by close associates or relatives of direction of the bank.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. These are policy loans, but require Board approval (page 52)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 60",
+    "question": "Loan in this category must be approved by the Board prior to drawdown & ratifies at the next Board meeting.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Board approval and ratification (page 52)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 61",
+    "question": "According to the CPG all write offs require approval by the board of Director and the Central bank of Nigeria.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Board and CBN approval required (page 198)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 62",
+    "question": "Regardless of Risk Rating Limits, Legal Lending Limits will always prevail.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Legal limits override (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 63",
+    "question": "OSUC to may not include settlement and clearing exposure, or the underwritten position of a credit under listing transaction unless the position becomes aged beyond the extension period.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Excluded unless aged (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 64",
+    "question": "What level of approval does Cash Exception (RRLE) require?",
+    "options": {
+      "A": "Board of Directors approval",
+      "B": "Line ED and CRO approval",
+      "C": "MCC approval",
+      "D": "BCC approval"
+    },
+    "discussion": [
+      "Selected Answer: B. Cash RRLE requires Line ED and CRO (page 74)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Line ED and CRO approval"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 65",
+    "question": "What level of approval does Long-term conditioning (RRLE) require?",
+    "options": {
+      "A": "Line ED & Head of CRM",
+      "B": "MCC",
+      "C": "BCC",
+      "D": "Board"
+    },
+    "discussion": [
+      "Selected Answer: B. Long-term RRLE requires MCC (page 74)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. MCC"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 66",
+    "question": "An approved Risk Rating Limit exception does not need to be re- approved during the annual review process.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. No re-approval needed, but must be noted (page 75)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 67",
+    "question": "Which document must a customer execute to accept an advised facility?",
+    "options": {
+      "A": "A letter of intent",
+      "B": "A memorandum of understanding",
+      "C": "A personal guarantee only",
+      "D": "A Board Resolution (for companies)"
+    },
+    "discussion": [
+      "Selected Answer: D. Board Resolution required (page 63)."
+    ],
+    "vote_counts": {
+      "D": 1
+    },
+    "most_voted": "D",
+    "community_answer": "D. A Board Resolution (for companies)"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 68",
+    "question": "What is the maximum exposure limit to a single obligor (group of related borrowers) under BOFIA?",
+    "options": {
+      "A": "30% of shareholders' funds",
+      "B": "10% of shareholders' funds",
+      "C": "20% of shareholders' funds, unimpaired",
+      "D": "25% of shareholders' funds"
+    },
+    "discussion": [
+      "Selected Answer: C. BOFIA limit is 20% (page 66)."
+    ],
+    "vote_counts": {
+      "C": 1
+    },
+    "most_voted": "C",
+    "community_answer": "C. 20% of shareholders' funds, unimpaired"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 69",
+    "question": "What is the \"One Obligor Concept\" at Access Bank?",
+    "options": {
+      "A": "Only one officer may approve a credit",
+      "B": "Related parties are aggregated into total facilities",
+      "C": "Each obligor treated separately",
+      "D": "Only the parent's own exposure counts"
+    },
+    "discussion": [
+      "Selected Answer: B. Aggregation of related parties (page 65)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. Related parties are aggregated into total facilities"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 70",
+    "question": "Compliance shall be monitored on an ongoing basis by the bank’s Internal Audit Unit and reported on a quarterly basis to the Board of Directors.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Monitored by CRM, reported to MCC (page 42)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 71",
+    "question": "Risk Rating Limits, shall always prevail over Legal Lending Limits set by the Regulators.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Legal limits prevail (page 73)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 72",
+    "question": "No single facility shall be considered in isolation for credit exposure purposes; the wider 'one obligor' concept shall be applied in all instances.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. CPG §6.2.10.4.2: Guidelines for Determining Approval Authority and Level, confirmed verbatim."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 73",
+    "question": "For the purposes of applying Risk Rating Limits, the obligor risk rating that is used must be: I. For corporations, the obligor risk rating of the parent company II. For banks, the risk rating of the lead bank. III. For other entity types, the risk rating as determined in accordance.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 73)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 74",
+    "question": "OSUC (Outstandings and Unused Commitments) is the sum of all Outstandings (including Direct and Contingent Exposure) against Total Facilities, as well as the unused portion of any Committed Facility included in Total Facilities",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed verbatim against section 5.3.5.1."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 75",
+    "question": "Approval requirements for a Risk Rating Limit Exception are determined by the RRLE type",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Confirmed against section 5.3.5.3: required approvers depend on the RRLE type."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 76",
+    "question": "Limit exceptions, defined as overages up to 10% of Risk Rating Limit. Is a material exception.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Immaterial exceptions are up to 10% (page 74)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 77",
+    "question": "Passive exceptions need not be pre-approved, instead, they are flagged as part of the regular reporting process, and must be reviewed and their associated action plan must be approved as soon as possible after they occur, (but no later than the next quarterly review of Risk Rating Exceptions.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. Correct (page 74)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 78",
+    "question": "Passive exceptions must be pre-approved, need not be flagged as part of the regular reporting process, need not be reviewed, and their action plan need not be approved promptly (may be later than the next quarterly review)",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — this inverts the actual rule. Section 5.3.5.4: passive exceptions do NOT need pre-approval; instead they ARE flagged in regular reporting, ARE reviewed, and their action plan MUST be approved as soon as possible, no later than the next quarterly review."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 79",
+    "question": "All other RRLEs require approval by MCC.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: A. All other RRLEs require MCC (page 74)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. True"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 80",
+    "question": "Cash, Immaterial and Passive Risk Rating Limit Exceptions RRLEs require by MCC.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. They require Line ED and CRO (page 74)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 81",
+    "question": "Marketing letters must be jointly approved by the MCC and the managing Director.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. Approved by business head/ED and Head of Risk (page 75)."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 82",
+    "question": "Unusual risk policies approved by MCC is limited to, the following: Exposures to director related accounts Exposures to politically exposed entities Exposures to gambling entities.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. MCC may approve other unusual risks as well."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 83",
+    "question": "Under no circumstance can the periodic (annual) review be temporarily extended",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "discussion": [
+      "Selected Answer: B. False — the periodic review CAN be temporarily extended under the defined tiers (up to 30 days via Business ED + Head of Risk, up to 60 days via DMD, and up to 180 days depending on exposure amount), per section 5.2.10."
+    ],
+    "vote_counts": {
+      "B": 1
+    },
+    "most_voted": "B",
+    "community_answer": "B. False"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 84",
+    "question": "If total facilities exceed the Risk rating limit, is it alright to determine that the level purpose of the facilities are reasonable, that there is an effective process to ensure that actual OSUC remains within the Risk Rating limit?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "discussion": [
+      "Selected Answer: A. If Total Facilities exceed limit, approvers must ensure OSUC stays within limit (page 122)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 85",
+    "question": "Is it right to state that the purpose and other terms and conditions may not be specified in the original approval of total facilities?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "discussion": [
+      "Selected Answer: A. For guidance limits, purpose may not be specified (page 62)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 86",
+    "question": "Is it always in all situations that careful consideration must be given to the adequacy of collateral for additional exposure?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "discussion": [
+      "Selected Answer: A. Always consider collateral adequacy (page 62)."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes"
+  },
+  {
+    "url": null,
+    "question_no": "Bonds & Guarantees, Loan Syndication, Agricultural Loans & Cash Collateral - Question 87",
+    "question": "Is it right to state that in the distribution of an underwritten position through assignment, the bank remains obligated in the event that the participants fail to fund.",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "discussion": [
+      "Selected Answer: A. In assignment, bank may have recourse risk."
+    ],
+    "vote_counts": {
+      "A": 1
+    },
+    "most_voted": "A",
+    "community_answer": "A. Yes"
+  }
+]
