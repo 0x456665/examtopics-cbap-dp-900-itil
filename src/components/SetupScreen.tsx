@@ -1,7 +1,10 @@
 import { useState, useRef, useEffect } from "react";
-import type { ExamKey, QuizConfig, QuizMode } from "../types";
-import { EXAMS } from "../types";
+import type { ExamGroupKey, ExamKey, QuizConfig, QuizMode } from "../types";
+import { EXAMS, EXAM_GROUPS } from "../types";
 import { loadExamQuestions } from "../dataLoader";
+
+const getExamGroup = (exam: (typeof EXAMS)[number]) => ("group" in exam ? exam.group : undefined);
+const STANDALONE_EXAMS = EXAMS.filter((exam) => !getExamGroup(exam));
 
 interface Props {
 	onStart: (config: QuizConfig) => Promise<void>;
@@ -20,6 +23,7 @@ export default function SetupScreen({ onStart }: Props) {
 	const [loadingExam, setLoadingExam] = useState(false);
 	const [starting, setStarting] = useState(false);
 	const [showRange, setShowRange] = useState(false);
+	const [expandedGroup, setExpandedGroup] = useState<ExamGroupKey | null>(null);
 	const [examCounts, setExamCounts] = useState<Partial<Record<ExamKey, number>>>({});
 
 	// Derived display values — always in sync with real state, no useEffect needed
@@ -34,7 +38,7 @@ export default function SetupScreen({ onStart }: Props) {
 				setExamCounts((prev) => ({ ...prev, [key]: qs.length }));
 			});
 		}
-	},[]);
+	}, []);
 
 	// When exam changes, refresh max range
 	// When exam changes, refresh max range (async fetch + ref write → useEffect)
@@ -56,6 +60,8 @@ export default function SetupScreen({ onStart }: Props) {
 	const effectivePool = Math.max(0, rangeMax - rangeMin + 1);
 	const cappedCount = Math.min(count, effectivePool);
 	const canStart = exam !== null && !loadingExam && effectivePool > 0 && !starting;
+	const selectedGroup = EXAMS.find((item) => item.key === exam);
+	const selectedGroupKey = selectedGroup ? getExamGroup(selectedGroup) : undefined;
 
 	// --- Count field handlers ---
 	const handleCountFocus = () => setCountDraft(String(count));
@@ -116,34 +122,136 @@ export default function SetupScreen({ onStart }: Props) {
 	return (
 		<div className="setup">
 			<header className="setup-header">
-				<h1>ExamTopics Quiz</h1>
-				<p>Practice for your certification exam</p>
+				{/* <p className="setup-kicker"><span className="setup-kicker__mark">EQ</span> CERTIFICATION PRACTICE</p> */}
+				<h1> Practice Questions</h1>
+				<p>Choose a question bank and shape your next practice session.</p>
 			</header>
 
 			<div className="setup-body">
-				{/* Exam Selection */}
+				{/* Question bank selection */}
 				<section className="setup-section">
-					<span className="section-label">Select Exam</span>
+					<div className="section-heading">
+						<span className="section-step">01</span>
+						<span className="section-label">Choose a question bank</span>
+					</div>
 					<div className="exam-grid">
-						{EXAMS.map(({ key, label, description }) => (
+						{STANDALONE_EXAMS.map(({ key, label, description }) => (
 							<button
 								key={key}
 								type="button"
 								className={`exam-card${exam === key ? " exam-card--selected" : ""}`}
+								aria-pressed={exam === key}
 								onClick={() => setExam(key)}>
-								<span className="exam-card__label">{label}</span>
+								<span className="exam-card__topline">
+									<span className="exam-card__label">{label}</span>
+									<span
+										className="exam-card__indicator"
+										aria-hidden="true">
+										{exam === key ? "✓" : "↗"}
+									</span>
+								</span>
 								<span className="exam-card__desc">{description}</span>
 								<span className="exam-card__count">
 									{examCounts[key] != null ? `${examCounts[key]} questions` : "…"}
 								</span>
 							</button>
 						))}
+						{EXAM_GROUPS.map((group) => {
+							const groupExams = EXAMS.filter(
+								(item) => getExamGroup(item) === group.key,
+							);
+							const isExpanded = expandedGroup === group.key;
+							const isSelected = selectedGroupKey === group.key;
+
+							return (
+								<button
+									key={group.key}
+									type="button"
+									className={`exam-card exam-card--collection${isExpanded ? " exam-card--open" : ""}${isSelected ? " exam-card--selected" : ""}`}
+									aria-expanded={isExpanded}
+									aria-controls={`group-options-${group.key}`}
+									onClick={() => setExpandedGroup(isExpanded ? null : group.key)}>
+									<span
+										className="exam-card__collection-mark"
+										aria-hidden="true">
+										{group.shortLabel}
+									</span>
+									<span className="exam-card__collection-copy">
+										<span className="exam-card__topline">
+											<span className="exam-card__label">{group.label}</span>
+											<span
+												className="exam-card__indicator"
+												aria-hidden="true">
+												{isExpanded ? "−" : "+"}
+											</span>
+										</span>
+										<span className="exam-card__desc">{group.description}</span>
+										<span className="exam-card__count">
+											{groupExams.length} sets
+										</span>
+									</span>
+								</button>
+							);
+						})}
 					</div>
+					{EXAM_GROUPS.map(
+						(group) =>
+							expandedGroup === group.key && (
+								<div
+									className="exam-group-panel"
+									id={`group-options-${group.key}`}
+									key={group.key}
+									role="group"
+									aria-label={`${group.label} sets`}>
+									<div className="exam-group-panel__heading">
+										<div>
+											<h2>Choose a set</h2>
+											<p>{group.description}</p>
+										</div>
+										<span className="exam-group-panel__count">
+											{
+												EXAMS.filter(
+													(item) => getExamGroup(item) === group.key,
+												).length
+											}{" "}
+											sets
+										</span>
+									</div>
+									<div className="exam-group-grid">
+										{EXAMS.filter(
+											(item) => getExamGroup(item) === group.key,
+										).map(({ key, label, description }) => (
+											<button
+												key={key}
+												type="button"
+												className={`exam-group-option${exam === key ? " exam-group-option--selected" : ""}`}
+												aria-pressed={exam === key}
+												onClick={() => setExam(key)}>
+												<span className="exam-group-option__label">
+													{label}
+												</span>
+												<span className="exam-group-option__desc">
+													{description}
+												</span>
+												<span className="exam-group-option__count">
+													{examCounts[key] != null
+														? `${examCounts[key]} questions`
+														: "Loading count…"}
+												</span>
+											</button>
+										))}
+									</div>
+								</div>
+							),
+					)}
 				</section>
 
 				{/* Mode */}
 				<section className="setup-section">
-					<span className="section-label">Mode</span>
+					<div className="section-heading">
+						<span className="section-step">02</span>
+						<span className="section-label">Choose your pace</span>
+					</div>
 					<div className="mode-row">
 						<button
 							type="button"
@@ -164,7 +272,10 @@ export default function SetupScreen({ onStart }: Props) {
 
 				{/* Question Count */}
 				<section className="setup-section">
-					<span className="section-label">Number of Questions</span>
+					<div className="section-heading">
+						<span className="section-step">03</span>
+						<span className="section-label">Set your session length</span>
+					</div>
 					<div className="count-row">
 						<button
 							type="button"

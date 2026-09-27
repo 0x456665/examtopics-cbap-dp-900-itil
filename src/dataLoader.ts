@@ -1,4 +1,4 @@
-import type { ExamKey, Question, RawQuestion } from "./types";
+import { EXAMS, type ExamKey, type Question, type RawQuestion } from "./types";
 
 // function isValidQuestion(q: RawQuestion): boolean {
 // 	if (typeof q.question !== "string" || q.question.trim().length < 10) return false;
@@ -17,96 +17,23 @@ import type { ExamKey, Question, RawQuestion } from "./types";
 // }
 
 const cache: Partial<Record<ExamKey, Question[]>> = {};
+const questionFiles = import.meta.glob<{ default: RawQuestion[] }>("./assets/*.json");
 
 export async function loadExamQuestions(exam: ExamKey): Promise<Question[]> {
 	if (cache[exam]) return cache[exam]!;
 
-	let rawData: RawQuestion[];
-	switch (exam) {
-		case "CBAP":
-			rawData = ((await import("./assets/CBAP questions.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "DP-900":
-			rawData = (
-				(await import("./assets/DP-900 questions.json")) as { default: RawQuestion[] }
-			).default;
-			break;
-		case "ITILFND-V4":
-			rawData = (
-				(await import("./assets/ITILFND-V4 questions.json")) as { default: RawQuestion[] }
-			).default;
-			break;
-		case "SIMI":
-			rawData = (
-				(await import("./assets/Simi-CBAP questions.json")) as { default: RawQuestion[] }
-			).default;
-			break;
-		case "CPG-LMS":
-			rawData = ((await import("./assets/cpg_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 1":
-			rawData = ((await import("./assets/module_01_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 2":
-			rawData = ((await import("./assets/module_02_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 3":
-			rawData = ((await import("./assets/module_03_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 4":
-			rawData = ((await import("./assets/module_04_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 5":
-			rawData = ((await import("./assets/module_05_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 6":
-			rawData = ((await import("./assets/module_06_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 7":
-			rawData = ((await import("./assets/module_07_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 8":
-			rawData = ((await import("./assets/module_08_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 9":
-			rawData = ((await import("./assets/module_09_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 10":
-			rawData = ((await import("./assets/module_10_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 11":
-			rawData = ((await import("./assets/module_11_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG-Module 12":
-			rawData = ((await import("./assets/module_12_quiz.json")) as { default: RawQuestion[] })
-				.default;
-			break;
-		case "CPG":
-			rawData = [];
-			for (let i = 1; i <= 12; i++) {
-				const moduleFile = i < 10 ? `module_0${i}_quiz` : `module_${i}_quiz`;
-				const moduleData = (
-					(await import(`./assets/${moduleFile}.json`)) as { default: RawQuestion[] }
-				).default;
-				rawData = rawData.concat(...moduleData);
-			}
-			break;
-		default:
-			throw new Error(`Unknown exam key: ${exam}`);
-	}
+	const metadata = EXAMS.find((item) => item.key === exam);
+	if (!metadata) throw new Error(`Unknown exam key: ${exam}`);
+
+	const rawData = (
+		await Promise.all(
+			metadata.sourceFiles.map(async (file) => {
+				const loadFile = questionFiles[`./assets/${file}`];
+				if (!loadFile) throw new Error(`Question file not found: ${file}`);
+				return (await loadFile()).default;
+			}),
+		)
+	).flat();
 
 	let idx = 0;
 	const questions: Question[] = rawData
